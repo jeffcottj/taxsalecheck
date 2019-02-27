@@ -1,0 +1,8345 @@
+[
+ {
+   "FIELD1": "4802 ABERDEEN AVE"
+ },
+ {
+   "FIELD1": "4837 ABERDEEN AVE"
+ },
+ {
+   "FIELD1": "4921 ABERDEEN AVE"
+ },
+ {
+   "FIELD1": "5509 ADLEIGH AVE"
+ },
+ {
+   "FIELD1": "1806 AIKEN ST"
+ },
+ {
+   "FIELD1": "2142 AIKEN ST"
+ },
+ {
+   "FIELD1": "2212 AIKEN ST"
+ },
+ {
+   "FIELD1": "2319 AIKEN ST"
+ },
+ {
+   "FIELD1": "2403 AILSA AVE"
+ },
+ {
+   "FIELD1": "2908 AILSA AVE"
+ },
+ {
+   "FIELD1": "807 AISQUITH ST"
+ },
+ {
+   "FIELD1": "1616 AISQUITH ST"
+ },
+ {
+   "FIELD1": "2550 AISQUITH ST"
+ },
+ {
+   "FIELD1": "2564 AISQUITH ST"
+ },
+ {
+   "FIELD1": "238 ALBEMARLE ST"
+ },
+ {
+   "FIELD1": "4719 ALHAMBRA AVE"
+ },
+ {
+   "FIELD1": "5620 ALHAMBRA AVE"
+ },
+ {
+   "FIELD1": "2111 ALLENDALE ROAD"
+ },
+ {
+   "FIELD1": "2120 ALLENDALE ROAD"
+ },
+ {
+   "FIELD1": "2121 ALLENDALE ROAD"
+ },
+ {
+   "FIELD1": "2127 ALLENDALE ROAD"
+ },
+ {
+   "FIELD1": "2402 ALLENDALE ROAD"
+ },
+ {
+   "FIELD1": "2407 ALLENDALE ROAD"
+ },
+ {
+   "FIELD1": "2609 ALLENDALE ROAD"
+ },
+ {
+   "FIELD1": "2612 ALLENDALE ROAD"
+ },
+ {
+   "FIELD1": "2705 ALLENDALE ROAD"
+ },
+ {
+   "FIELD1": "2907 ALLENDALE ROAD"
+ },
+ {
+   "FIELD1": "107 ALLENDALE ST"
+ },
+ {
+   "FIELD1": "108 ALLENDALE ST"
+ },
+ {
+   "FIELD1": "115 ALLENDALE ST"
+ },
+ {
+   "FIELD1": "318 ALLENDALE ST"
+ },
+ {
+   "FIELD1": "524 ALLENDALE ST"
+ },
+ {
+   "FIELD1": "820 ALLENDALE ST"
+ },
+ {
+   "FIELD1": "832 ALLENDALE ST"
+ },
+ {
+   "FIELD1": "6205 ALTA AVE"
+ },
+ {
+   "FIELD1": "3315 ALTO ROAD"
+ },
+ {
+   "FIELD1": "3323 ALTO ROAD"
+ },
+ {
+   "FIELD1": "4107 ALTO ROAD"
+ },
+ {
+   "FIELD1": "4702 AMBERLEY AVE"
+ },
+ {
+   "FIELD1": "1006 ANDOVER ROAD"
+ },
+ {
+   "FIELD1": "1008 ANDOVER ROAD"
+ },
+ {
+   "FIELD1": "1413 ANDRE ST"
+ },
+ {
+   "FIELD1": "1414 ANDRE ST"
+ },
+ {
+   "FIELD1": "2204 ANGELICA TERR"
+ },
+ {
+   "FIELD1": "1101 ANGLESEA ST"
+ },
+ {
+   "FIELD1": "1115 ANGLESEA ST"
+ },
+ {
+   "FIELD1": "1229 ANGLESEA ST"
+ },
+ {
+   "FIELD1": "7 N ANN ST"
+ },
+ {
+   "FIELD1": "419 ANNABEL AVE"
+ },
+ {
+   "FIELD1": "2355 ANNAPOLIS ROAD"
+ },
+ {
+   "FIELD1": "2405 ANNAPOLIS ROAD"
+ },
+ {
+   "FIELD1": "2419 ANNAPOLIS ROAD"
+ },
+ {
+   "FIELD1": "3929 ANNELLEN ROAD"
+ },
+ {
+   "FIELD1": "3930 ANNELLEN ROAD"
+ },
+ {
+   "FIELD1": "4003 ANNELLEN ROAD"
+ },
+ {
+   "FIELD1": "4017 ANNELLEN ROAD"
+ },
+ {
+   "FIELD1": "4022 ANNELLEN ROAD"
+ },
+ {
+   "FIELD1": "4038 ANNELLEN ROAD"
+ },
+ {
+   "FIELD1": "4049 ANNELLEN ROAD"
+ },
+ {
+   "FIELD1": "4609 ANNTANA AVE"
+ },
+ {
+   "FIELD1": "2303 ANOKA AVE"
+ },
+ {
+   "FIELD1": "1312 APPLEBY AVE"
+ },
+ {
+   "FIELD1": "921 APPLETON ST"
+ },
+ {
+   "FIELD1": "1016 APPLETON ST"
+ },
+ {
+   "FIELD1": "1111 APPLETON ST"
+ },
+ {
+   "FIELD1": "1509 APPLETON ST"
+ },
+ {
+   "FIELD1": "1528 APPLETON ST"
+ },
+ {
+   "FIELD1": "1533 APPLETON ST"
+ },
+ {
+   "FIELD1": "4407 ARABIA AVE"
+ },
+ {
+   "FIELD1": "4507 ARABIA AVE"
+ },
+ {
+   "FIELD1": "5103 ARABIA AVE"
+ },
+ {
+   "FIELD1": "4010 ARAGON AVE"
+ },
+ {
+   "FIELD1": "618 ARCHER ST"
+ },
+ {
+   "FIELD1": "2200 ARDEN ROAD"
+ },
+ {
+   "FIELD1": "814 ARGONNE DR"
+ },
+ {
+   "FIELD1": "920 ARGONNE DR"
+ },
+ {
+   "FIELD1": "4214 ARIZONA AVE"
+ },
+ {
+   "FIELD1": "5819 ARIZONA AVE"
+ },
+ {
+   "FIELD1": "19 S ARLINGTON AVE"
+ },
+ {
+   "FIELD1": "803 ARNOLD CT"
+ },
+ {
+   "FIELD1": "2308 ARUNAH AVE"
+ },
+ {
+   "FIELD1": "2324 ARUNAH AVE"
+ },
+ {
+   "FIELD1": "2522 ARUNAH AVE"
+ },
+ {
+   "FIELD1": "2526 ARUNAH AVE"
+ },
+ {
+   "FIELD1": "2556 ARUNAH AVE"
+ },
+ {
+   "FIELD1": "2571 ARUNAH AVE"
+ },
+ {
+   "FIELD1": "3009 ARUNAH AVE"
+ },
+ {
+   "FIELD1": "3043 ASCENSION ST"
+ },
+ {
+   "FIELD1": "3655 ASH ST"
+ },
+ {
+   "FIELD1": "1007 ASHBURTON ST"
+ },
+ {
+   "FIELD1": "1039 ASHBURTON ST"
+ },
+ {
+   "FIELD1": "1617 ASHBURTON ST"
+ },
+ {
+   "FIELD1": "1812 ASHBURTON ST"
+ },
+ {
+   "FIELD1": "2200 ASHBURTON ST"
+ },
+ {
+   "FIELD1": "1222 ASHLAND AVE"
+ },
+ {
+   "FIELD1": "2618 ASHLAND AVE"
+ },
+ {
+   "FIELD1": "2724 ASHLAND AVE"
+ },
+ {
+   "FIELD1": "2832 ASHLAND AVE"
+ },
+ {
+   "FIELD1": "2431 ASHTON ST"
+ },
+ {
+   "FIELD1": "51 N ATHOL AVE"
+ },
+ {
+   "FIELD1": "110 N ATHOL AVE"
+ },
+ {
+   "FIELD1": "307 ATHOLWOOD LANE"
+ },
+ {
+   "FIELD1": "4407 ATWICK ROAD"
+ },
+ {
+   "FIELD1": "2804 AUCHENTOROLY TERR"
+ },
+ {
+   "FIELD1": "3312 AUCHENTOROLY TERR"
+ },
+ {
+   "FIELD1": "4102 AUDREY AVE"
+ },
+ {
+   "FIELD1": "4129 AUDREY AVE"
+ },
+ {
+   "FIELD1": "604 N AUGUSTA AVE"
+ },
+ {
+   "FIELD1": "626 N AUGUSTA AVE"
+ },
+ {
+   "FIELD1": "808 N AUGUSTA AVE"
+ },
+ {
+   "FIELD1": "828 N AUGUSTA AVE"
+ },
+ {
+   "FIELD1": "903 N AUGUSTA AVE"
+ },
+ {
+   "FIELD1": "1101 N AUGUSTA AVE"
+ },
+ {
+   "FIELD1": "1107 N AUGUSTA AVE"
+ },
+ {
+   "FIELD1": "1110 N AUGUSTA AVE"
+ },
+ {
+   "FIELD1": "1201 N AUGUSTA AVE"
+ },
+ {
+   "FIELD1": "1228 N AUGUSTA AVE"
+ },
+ {
+   "FIELD1": "1231 N AUGUSTA AVE"
+ },
+ {
+   "FIELD1": "1246 N AUGUSTA AVE"
+ },
+ {
+   "FIELD1": "459 S AUGUSTA AVE"
+ },
+ {
+   "FIELD1": "5902 AYLESHIRE ROAD"
+ },
+ {
+   "FIELD1": "5906 AYLESHIRE ROAD"
+ },
+ {
+   "FIELD1": "5925 AYLESHIRE ROAD"
+ },
+ {
+   "FIELD1": "4007 AYRDALE AVE"
+ },
+ {
+   "FIELD1": "7714 BAGLEY AVE"
+ },
+ {
+   "FIELD1": "1817 BAKER ST"
+ },
+ {
+   "FIELD1": "2207 BAKER ST"
+ },
+ {
+   "FIELD1": "2419 BAKER ST"
+ },
+ {
+   "FIELD1": "2771 BAKER ST"
+ },
+ {
+   "FIELD1": "3136 BAKER ST"
+ },
+ {
+   "FIELD1": "3139 BAKER ST"
+ },
+ {
+   "FIELD1": "3915 BALFERN AVE"
+ },
+ {
+   "FIELD1": "4008 BALFERN AVE"
+ },
+ {
+   "FIELD1": "506 BALTIC AVE"
+ },
+ {
+   "FIELD1": "522 BALTIC AVE"
+ },
+ {
+   "FIELD1": "6506 BALTIMORE AVE"
+ },
+ {
+   "FIELD1": "1500 E BALTIMORE ST"
+ },
+ {
+   "FIELD1": "1512 E BALTIMORE ST"
+ },
+ {
+   "FIELD1": "2106 E BALTIMORE ST"
+ },
+ {
+   "FIELD1": "6909 E BALTIMORE ST"
+ },
+ {
+   "FIELD1": "2412 W BALTIMORE ST"
+ },
+ {
+   "FIELD1": "2563 W BALTIMORE ST"
+ },
+ {
+   "FIELD1": "2705 W BALTIMORE ST"
+ },
+ {
+   "FIELD1": "2882 W BALTIMORE ST"
+ },
+ {
+   "FIELD1": "3808 BANCROFT ROAD"
+ },
+ {
+   "FIELD1": "3917 BANCROFT ROAD"
+ },
+ {
+   "FIELD1": "1709 BANK ST"
+ },
+ {
+   "FIELD1": "2004 BANK ST"
+ },
+ {
+   "FIELD1": "2010 BANK ST"
+ },
+ {
+   "FIELD1": "2115 BANK ST"
+ },
+ {
+   "FIELD1": "2202 BANK ST"
+ },
+ {
+   "FIELD1": "3818 BANK ST"
+ },
+ {
+   "FIELD1": "1900 BARCLAY ST"
+ },
+ {
+   "FIELD1": "2430 BARCLAY ST"
+ },
+ {
+   "FIELD1": "2509 BARCLAY ST"
+ },
+ {
+   "FIELD1": "2526 BARCLAY ST"
+ },
+ {
+   "FIELD1": "3121 BARCLAY ST"
+ },
+ {
+   "FIELD1": "1052 W BARRE ST"
+ },
+ {
+   "FIELD1": "3823 BARRINGTON ROAD"
+ },
+ {
+   "FIELD1": "3409 BATEMAN AVE"
+ },
+ {
+   "FIELD1": "2800 BAUERNWOOD AVE"
+ },
+ {
+   "FIELD1": "1315 BAYARD ST"
+ },
+ {
+   "FIELD1": "3200 BAYONNE AVE"
+ },
+ {
+   "FIELD1": "4802 BEAUFORT AVE"
+ },
+ {
+   "FIELD1": "5201 BEAUFORT AVE"
+ },
+ {
+   "FIELD1": "5210 BEAUFORT AVE"
+ },
+ {
+   "FIELD1": "701 BEAUMONT AVE"
+ },
+ {
+   "FIELD1": "710 BEAUMONT AVE"
+ },
+ {
+   "FIELD1": "819 BEAUMONT AVE"
+ },
+ {
+   "FIELD1": "716 BEAVERBROOK ROAD"
+ },
+ {
+   "FIELD1": "731 BEAVERBROOK ROAD"
+ },
+ {
+   "FIELD1": "3640 BEECH AVE"
+ },
+ {
+   "FIELD1": "534 S BEECHFIELD AVE"
+ },
+ {
+   "FIELD1": "542 S BEECHFIELD AVE"
+ },
+ {
+   "FIELD1": "570 S BEECHFIELD AVE"
+ },
+ {
+   "FIELD1": "3714 BEEHLER AVE"
+ },
+ {
+   "FIELD1": "3834 BEEHLER AVE"
+ },
+ {
+   "FIELD1": "2115 BELAIR ROAD"
+ },
+ {
+   "FIELD1": "3121 BELAIR ROAD"
+ },
+ {
+   "FIELD1": "4402 BELLE AVE"
+ },
+ {
+   "FIELD1": "4907 BELLE AVE"
+ },
+ {
+   "FIELD1": "5534 BELLE AVE"
+ },
+ {
+   "FIELD1": "5634 BELLE AVE"
+ },
+ {
+   "FIELD1": "705 BELLE TERRE AVE"
+ },
+ {
+   "FIELD1": "5407 BELLE VISTA AVE"
+ },
+ {
+   "FIELD1": "5422 BELLE VISTA AVE"
+ },
+ {
+   "FIELD1": "5432 BELLE VISTA AVE"
+ },
+ {
+   "FIELD1": "5900 BELLE VISTA AVE"
+ },
+ {
+   "FIELD1": "5208 BELLEVILLE AVE"
+ },
+ {
+   "FIELD1": "5306 BELLEVILLE AVE"
+ },
+ {
+   "FIELD1": "5535 BELLEVILLE AVE"
+ },
+ {
+   "FIELD1": "5601 BELLEVILLE AVE"
+ },
+ {
+   "FIELD1": "3106 BELMONT AVE"
+ },
+ {
+   "FIELD1": "3138 BELMONT AVE"
+ },
+ {
+   "FIELD1": "524 N BELNORD AVE"
+ },
+ {
+   "FIELD1": "922 N BELNORD AVE"
+ },
+ {
+   "FIELD1": "918 E BELVEDERE AVE"
+ },
+ {
+   "FIELD1": "1212 E BELVEDERE AVE"
+ },
+ {
+   "FIELD1": "1237 E BELVEDERE AVE"
+ },
+ {
+   "FIELD1": "1606 E BELVEDERE AVE"
+ },
+ {
+   "FIELD1": "1626 E BELVEDERE AVE"
+ },
+ {
+   "FIELD1": "1808 E BELVEDERE AVE"
+ },
+ {
+   "FIELD1": "1812 E BELVEDERE AVE"
+ },
+ {
+   "FIELD1": "1918 E BELVEDERE AVE"
+ },
+ {
+   "FIELD1": "1933 E BELVEDERE AVE"
+ },
+ {
+   "FIELD1": "2072 E BELVEDERE AVE"
+ },
+ {
+   "FIELD1": "3009 W BELVEDERE AVE"
+ },
+ {
+   "FIELD1": "3528 W BELVEDERE AVE"
+ },
+ {
+   "FIELD1": "3709 W BELVEDERE AVE"
+ },
+ {
+   "FIELD1": "3944 BELVIEU AVE"
+ },
+ {
+   "FIELD1": "4418 BELVIEU AVE"
+ },
+ {
+   "FIELD1": "4622 BELVIEU AVE"
+ },
+ {
+   "FIELD1": "6 BENKERT AVE"
+ },
+ {
+   "FIELD1": "14 BENKERT AVE"
+ },
+ {
+   "FIELD1": "36 BENKERT AVE"
+ },
+ {
+   "FIELD1": "38 BENKERT AVE"
+ },
+ {
+   "FIELD1": "52 BENKERT AVE"
+ },
+ {
+   "FIELD1": "623 BENNINGHAUS ROAD"
+ },
+ {
+   "FIELD1": "717 BENNINGHAUS ROAD"
+ },
+ {
+   "FIELD1": "804 BENNINGHAUS ROAD"
+ },
+ {
+   "FIELD1": "811 BENNINGHAUS ROAD"
+ },
+ {
+   "FIELD1": "812 BENNINGHAUS ROAD"
+ },
+ {
+   "FIELD1": "835 BENNINGHAUS ROAD"
+ },
+ {
+   "FIELD1": "851 BENNINGHAUS ROAD"
+ },
+ {
+   "FIELD1": "3704 BENSON AVE"
+ },
+ {
+   "FIELD1": "3714 BENSON AVE"
+ },
+ {
+   "FIELD1": "627 N BENTALOU ST"
+ },
+ {
+   "FIELD1": "835 N BENTALOU ST"
+ },
+ {
+   "FIELD1": "1015 N BENTALOU ST"
+ },
+ {
+   "FIELD1": "1027 N BENTALOU ST"
+ },
+ {
+   "FIELD1": "1135 N BENTALOU ST"
+ },
+ {
+   "FIELD1": "1202 N BENTALOU ST"
+ },
+ {
+   "FIELD1": "1204 N BENTALOU ST"
+ },
+ {
+   "FIELD1": "1314 N BENTALOU ST"
+ },
+ {
+   "FIELD1": "1322 N BENTALOU ST"
+ },
+ {
+   "FIELD1": "1324 N BENTALOU ST"
+ },
+ {
+   "FIELD1": "1630 N BENTALOU ST"
+ },
+ {
+   "FIELD1": "1712 N BENTALOU ST"
+ },
+ {
+   "FIELD1": "215 S BENTALOU ST"
+ },
+ {
+   "FIELD1": "4407 BERGER AVE"
+ },
+ {
+   "FIELD1": "3205 BERKSHIRE ROAD"
+ },
+ {
+   "FIELD1": "3218 BERKSHIRE ROAD"
+ },
+ {
+   "FIELD1": "4 N BERNICE AVE"
+ },
+ {
+   "FIELD1": "17 N BERNICE AVE"
+ },
+ {
+   "FIELD1": "24 N BERNICE AVE"
+ },
+ {
+   "FIELD1": "32 N BERNICE AVE"
+ },
+ {
+   "FIELD1": "42 N BERNICE AVE"
+ },
+ {
+   "FIELD1": "13 S BERNICE AVE"
+ },
+ {
+   "FIELD1": "14 S BERNICE AVE"
+ },
+ {
+   "FIELD1": "1412 BERRY ST"
+ },
+ {
+   "FIELD1": "2819 BERWICK AVE"
+ },
+ {
+   "FIELD1": "3507 BERWYN AVE"
+ },
+ {
+   "FIELD1": "2703 BERYL AVE"
+ },
+ {
+   "FIELD1": "2715 BERYL AVE"
+ },
+ {
+   "FIELD1": "1301 BETHLEHEM AVE"
+ },
+ {
+   "FIELD1": "715 BETHNAL ROAD"
+ },
+ {
+   "FIELD1": "1604 E BIDDLE ST"
+ },
+ {
+   "FIELD1": "2516 E BIDDLE ST"
+ },
+ {
+   "FIELD1": "3108 E BIDDLE ST"
+ },
+ {
+   "FIELD1": "3808 BIRCHVIEW AVE"
+ },
+ {
+   "FIELD1": "5703 BIRCHWOOD AVE"
+ },
+ {
+   "FIELD1": "6608 BIRCHWOOD AVE"
+ },
+ {
+   "FIELD1": "5608 BLAND AVE"
+ },
+ {
+   "FIELD1": "5715 BLAND AVE"
+ },
+ {
+   "FIELD1": "1200 BLOOMINGDALE ROAD"
+ },
+ {
+   "FIELD1": "1202 BLOOMINGDALE ROAD"
+ },
+ {
+   "FIELD1": "2824 BOARMAN AVE"
+ },
+ {
+   "FIELD1": "2841 BOARMAN AVE"
+ },
+ {
+   "FIELD1": "3738 BOARMAN AVE"
+ },
+ {
+   "FIELD1": "3741 BOARMAN AVE"
+ },
+ {
+   "FIELD1": "3810 BOARMAN AVE"
+ },
+ {
+   "FIELD1": "3925 BOARMAN AVE"
+ },
+ {
+   "FIELD1": "4011 BOARMAN AVE"
+ },
+ {
+   "FIELD1": "4019 BOARMAN AVE"
+ },
+ {
+   "FIELD1": "4120 BOARMAN AVE"
+ },
+ {
+   "FIELD1": "4121 BOARMAN AVE"
+ },
+ {
+   "FIELD1": "915 BONAPARTE AVE"
+ },
+ {
+   "FIELD1": "1104 BONAPARTE AVE"
+ },
+ {
+   "FIELD1": "1110 N BOND ST"
+ },
+ {
+   "FIELD1": "1809 N BOND ST"
+ },
+ {
+   "FIELD1": "3805 BONNER ROAD"
+ },
+ {
+   "FIELD1": "3812 BONNER ROAD"
+ },
+ {
+   "FIELD1": "3900 BONNER ROAD"
+ },
+ {
+   "FIELD1": "3907 BONNER ROAD"
+ },
+ {
+   "FIELD1": "4024 BONNER ROAD"
+ },
+ {
+   "FIELD1": "4203 BONNER ROAD"
+ },
+ {
+   "FIELD1": "4235 BONNER ROAD"
+ },
+ {
+   "FIELD1": "3608 BONVIEW AVE"
+ },
+ {
+   "FIELD1": "3752 BONVIEW AVE"
+ },
+ {
+   "FIELD1": "3756 BONVIEW AVE"
+ },
+ {
+   "FIELD1": "2711 BOOKERT DR"
+ },
+ {
+   "FIELD1": "6806 BOSTON AVE"
+ },
+ {
+   "FIELD1": "2901 BOSTON ST U# 312"
+ },
+ {
+   "FIELD1": "5320 BOSWORTH AVE"
+ },
+ {
+   "FIELD1": "609 N BOULDIN ST"
+ },
+ {
+   "FIELD1": "516 S BOULDIN ST"
+ },
+ {
+   "FIELD1": "940 S BOULDIN ST"
+ },
+ {
+   "FIELD1": "3823 BOWERS AVE"
+ },
+ {
+   "FIELD1": "4005 BOWERS AVE"
+ },
+ {
+   "FIELD1": "4807 BOWLAND AVE"
+ },
+ {
+   "FIELD1": "4843 BOWLAND AVE"
+ },
+ {
+   "FIELD1": "4905 BOWLAND AVE"
+ },
+ {
+   "FIELD1": "5406 BOWLEYS LANE"
+ },
+ {
+   "FIELD1": "5012 BOXHILL LANE"
+ },
+ {
+   "FIELD1": "2105 BOYD ST"
+ },
+ {
+   "FIELD1": "2118 BOYD ST"
+ },
+ {
+   "FIELD1": "2048 BRADDISH AVE"
+ },
+ {
+   "FIELD1": "2306 BRADDISH AVE"
+ },
+ {
+   "FIELD1": "609 S BRADFORD ST"
+ },
+ {
+   "FIELD1": "802 BRADHURST ROAD"
+ },
+ {
+   "FIELD1": "804 BRADHURST ROAD"
+ },
+ {
+   "FIELD1": "822 BRADHURST ROAD"
+ },
+ {
+   "FIELD1": "827 BRADHURST ROAD"
+ },
+ {
+   "FIELD1": "867 BRADHURST ROAD"
+ },
+ {
+   "FIELD1": "4315 BREHMS LANE"
+ },
+ {
+   "FIELD1": "3525 BRENDAN AVE"
+ },
+ {
+   "FIELD1": "2424 BRENTWOOD AVE"
+ },
+ {
+   "FIELD1": "6732 BRENTWOOD AVE"
+ },
+ {
+   "FIELD1": "4806 BRIARCLIFT ROAD"
+ },
+ {
+   "FIELD1": "4820 BRIARCLIFT ROAD"
+ },
+ {
+   "FIELD1": "512 N BRICE ST"
+ },
+ {
+   "FIELD1": "819 N BRICE ST"
+ },
+ {
+   "FIELD1": "825 N BRICE ST"
+ },
+ {
+   "FIELD1": "2909 BRIGHTON ST"
+ },
+ {
+   "FIELD1": "2922 BRIGHTON ST"
+ },
+ {
+   "FIELD1": "3215 BRIGHTON ST"
+ },
+ {
+   "FIELD1": "627 BRISBANE ROAD"
+ },
+ {
+   "FIELD1": "638 BRISBANE ROAD"
+ },
+ {
+   "FIELD1": "639 BRISBANE ROAD"
+ },
+ {
+   "FIELD1": "647 BRISBANE ROAD"
+ },
+ {
+   "FIELD1": "1122 BROENING HWY"
+ },
+ {
+   "FIELD1": "6406 BROOK AVE"
+ },
+ {
+   "FIELD1": "2218 BROOKFIELD AVE"
+ },
+ {
+   "FIELD1": "4012 BROOKHILL ROAD"
+ },
+ {
+   "FIELD1": "821 BROOKS LANE"
+ },
+ {
+   "FIELD1": "824 BROOKS LANE"
+ },
+ {
+   "FIELD1": "6207 BROWN AVE"
+ },
+ {
+   "FIELD1": "6306 BROWN AVE"
+ },
+ {
+   "FIELD1": "6307 BROWN AVE"
+ },
+ {
+   "FIELD1": "231 N BRUCE ST"
+ },
+ {
+   "FIELD1": "303 N BRUCE ST"
+ },
+ {
+   "FIELD1": "1711 N BRUCE ST"
+ },
+ {
+   "FIELD1": "2014 BRUNT ST"
+ },
+ {
+   "FIELD1": "2010 BRYANT AVE"
+ },
+ {
+   "FIELD1": "2011 BRYANT AVE"
+ },
+ {
+   "FIELD1": "2315 BRYANT AVE"
+ },
+ {
+   "FIELD1": "5403 BUCKNELL ROAD"
+ },
+ {
+   "FIELD1": "5501 BUCKNELL ROAD"
+ },
+ {
+   "FIELD1": "4406 BUENA VISTA AVE"
+ },
+ {
+   "FIELD1": "3332 BURLEITH AVE"
+ },
+ {
+   "FIELD1": "1605 BURNWOOD ROAD"
+ },
+ {
+   "FIELD1": "1630 BURNWOOD ROAD"
+ },
+ {
+   "FIELD1": "1660 BURNWOOD ROAD"
+ },
+ {
+   "FIELD1": "1804 BURNWOOD ROAD"
+ },
+ {
+   "FIELD1": "1914 BURNWOOD ROAD"
+ },
+ {
+   "FIELD1": "1926 BURNWOOD ROAD"
+ },
+ {
+   "FIELD1": "2007 BURNWOOD ROAD"
+ },
+ {
+   "FIELD1": "6439 BUSHEY ST"
+ },
+ {
+   "FIELD1": "5600 CADILLAC AVE"
+ },
+ {
+   "FIELD1": "5631 CADILLAC AVE"
+ },
+ {
+   "FIELD1": "1600 N CALHOUN ST"
+ },
+ {
+   "FIELD1": "1722 N CALHOUN ST"
+ },
+ {
+   "FIELD1": "3508 CALLAWAY AVE"
+ },
+ {
+   "FIELD1": "3802 CALLAWAY AVE"
+ },
+ {
+   "FIELD1": "3904 CALLAWAY AVE"
+ },
+ {
+   "FIELD1": "3906> CALLAWAY AVE"
+ },
+ {
+   "FIELD1": "4807> CALUMET AVE"
+ },
+ {
+   "FIELD1": "1643 N CALVERT ST"
+ },
+ {
+   "FIELD1": "2633 N CALVERT ST"
+ },
+ {
+   "FIELD1": "2838 N CALVERT ST"
+ },
+ {
+   "FIELD1": "2304 CALVERTON HEIGHTS AVE"
+ },
+ {
+   "FIELD1": "2328 CALVERTON HEIGHTS AVE"
+ },
+ {
+   "FIELD1": "2432 CALVERTON HEIGHTS AVE"
+ },
+ {
+   "FIELD1": "2435 CALVERTON HEIGHTS AVE"
+ },
+ {
+   "FIELD1": "2504 CALVERTON HEIGHTS AVE"
+ },
+ {
+   "FIELD1": "2506 CALVERTON HEIGHTS AVE"
+ },
+ {
+   "FIELD1": "2537 CALVERTON HEIGHTS AVE"
+ },
+ {
+   "FIELD1": "1341 CAMBRIA ST"
+ },
+ {
+   "FIELD1": "1353 CAMBRIA ST"
+ },
+ {
+   "FIELD1": "2322 CAMBRIDGE ST"
+ },
+ {
+   "FIELD1": "1014 CAMERON ROAD"
+ },
+ {
+   "FIELD1": "1094 CAMERON ROAD"
+ },
+ {
+   "FIELD1": "3305 CARDENAS AVE"
+ },
+ {
+   "FIELD1": "818 N CAREY ST"
+ },
+ {
+   "FIELD1": "110 S CAREY ST"
+ },
+ {
+   "FIELD1": "1231 S CAREY ST"
+ },
+ {
+   "FIELD1": "1307 S CAREY ST"
+ },
+ {
+   "FIELD1": "3203 CARLISLE AVE"
+ },
+ {
+   "FIELD1": "3304 CARLISLE AVE"
+ },
+ {
+   "FIELD1": "1219 N CAROLINE ST"
+ },
+ {
+   "FIELD1": "1628 N CAROLINE ST"
+ },
+ {
+   "FIELD1": "1811 N CAROLINE ST"
+ },
+ {
+   "FIELD1": "1839 N CAROLINE ST"
+ },
+ {
+   "FIELD1": "773 CARROLL ST"
+ },
+ {
+   "FIELD1": "1352 CARROLL ST"
+ },
+ {
+   "FIELD1": "1408 CARROLL ST"
+ },
+ {
+   "FIELD1": "1543> CARSWELL ST"
+ },
+ {
+   "FIELD1": "5303 CARTER AVE"
+ },
+ {
+   "FIELD1": "1920 CASADEL AVE"
+ },
+ {
+   "FIELD1": "6200 CATALPHA ROAD"
+ },
+ {
+   "FIELD1": "700 CATHEDRAL ST U# 101"
+ },
+ {
+   "FIELD1": "15 N CATHERINE ST"
+ },
+ {
+   "FIELD1": "204 S CATHERINE ST"
+ },
+ {
+   "FIELD1": "3336 W CATON AVE"
+ },
+ {
+   "FIELD1": "3412 W CATON AVE"
+ },
+ {
+   "FIELD1": "629 CATOR AVE"
+ },
+ {
+   "FIELD1": "727 CATOR AVE"
+ },
+ {
+   "FIELD1": "747 CATOR AVE"
+ },
+ {
+   "FIELD1": "801 CATOR AVE"
+ },
+ {
+   "FIELD1": "907 CATOR AVE"
+ },
+ {
+   "FIELD1": "915 CATOR AVE"
+ },
+ {
+   "FIELD1": "1925 CECIL AVE"
+ },
+ {
+   "FIELD1": "2207 CECIL AVE"
+ },
+ {
+   "FIELD1": "2526 CECIL AVE"
+ },
+ {
+   "FIELD1": "2622 CECIL AVE"
+ },
+ {
+   "FIELD1": "503 CEDARCROFT ROAD"
+ },
+ {
+   "FIELD1": "830 CEDARCROFT ROAD"
+ },
+ {
+   "FIELD1": "1261 CEDARCROFT ROAD"
+ },
+ {
+   "FIELD1": "1419 CEDARCROFT ROAD"
+ },
+ {
+   "FIELD1": "3408 CEDARDALE ROAD"
+ },
+ {
+   "FIELD1": "3808 CEDARDALE ROAD"
+ },
+ {
+   "FIELD1": "3925 CEDARDALE ROAD"
+ },
+ {
+   "FIELD1": "4004 CEDARDALE ROAD"
+ },
+ {
+   "FIELD1": "4027 CEDARDALE ROAD"
+ },
+ {
+   "FIELD1": "4040 CEDARDALE ROAD"
+ },
+ {
+   "FIELD1": "4042 CEDARDALE ROAD"
+ },
+ {
+   "FIELD1": "4312 CEDARGARDEN ROAD"
+ },
+ {
+   "FIELD1": "4403 CEDARGARDEN ROAD"
+ },
+ {
+   "FIELD1": "4438 CEDARGARDEN ROAD"
+ },
+ {
+   "FIELD1": "4610 CEDARGARDEN ROAD"
+ },
+ {
+   "FIELD1": "3308 CEDARHURST ROAD"
+ },
+ {
+   "FIELD1": "3314 CEDARHURST ROAD"
+ },
+ {
+   "FIELD1": "3803 CEDARHURST ROAD"
+ },
+ {
+   "FIELD1": "5411 CEDELLA AVE"
+ },
+ {
+   "FIELD1": "2247 CEDLEY ST"
+ },
+ {
+   "FIELD1": "5460 CEDONIA AVE"
+ },
+ {
+   "FIELD1": "5511 CEDONIA AVE"
+ },
+ {
+   "FIELD1": "5513 CEDONIA AVE"
+ },
+ {
+   "FIELD1": "905 N CENTRAL AVE"
+ },
+ {
+   "FIELD1": "906 N CENTRAL AVE"
+ },
+ {
+   "FIELD1": "907 N CENTRAL AVE"
+ },
+ {
+   "FIELD1": "910 N CENTRAL AVE"
+ },
+ {
+   "FIELD1": "913 N CENTRAL AVE"
+ },
+ {
+   "FIELD1": "922 N CENTRAL AVE"
+ },
+ {
+   "FIELD1": "925 N CENTRAL AVE"
+ },
+ {
+   "FIELD1": "1006 N CENTRAL AVE"
+ },
+ {
+   "FIELD1": "1009 N CENTRAL AVE"
+ },
+ {
+   "FIELD1": "1110 N CENTRAL AVE"
+ },
+ {
+   "FIELD1": "305 S CENTRAL AVE"
+ },
+ {
+   "FIELD1": "5010 CHALGROVE AVE"
+ },
+ {
+   "FIELD1": "5125 CHALGROVE AVE"
+ },
+ {
+   "FIELD1": "5129 CHALGROVE AVE"
+ },
+ {
+   "FIELD1": "5303 CHANDLER AVE"
+ },
+ {
+   "FIELD1": "5505 CHANDLER AVE"
+ },
+ {
+   "FIELD1": "417 N CHAPEL ST"
+ },
+ {
+   "FIELD1": "413 N CHAPELGATE LANE"
+ },
+ {
+   "FIELD1": "836 N CHAPELGATE LANE"
+ },
+ {
+   "FIELD1": "837 N CHAPELGATE LANE"
+ },
+ {
+   "FIELD1": "432 S CHAPELGATE LANE"
+ },
+ {
+   "FIELD1": "22 CHARLCOTE PL"
+ },
+ {
+   "FIELD1": "4332 N CHARLES ST"
+ },
+ {
+   "FIELD1": "1222 S CHARLES ST"
+ },
+ {
+   "FIELD1": "1238 S CHARLES ST"
+ },
+ {
+   "FIELD1": "1526 CHARLOTTE AVE"
+ },
+ {
+   "FIELD1": "305 CHARTER OAK AVE"
+ },
+ {
+   "FIELD1": "308 CHARTER OAK AVE"
+ },
+ {
+   "FIELD1": "2631 E CHASE ST"
+ },
+ {
+   "FIELD1": "2712 E CHASE ST"
+ },
+ {
+   "FIELD1": "2815 E CHASE ST"
+ },
+ {
+   "FIELD1": "4629 CHATFORD AVE"
+ },
+ {
+   "FIELD1": "4783 CHATFORD AVE"
+ },
+ {
+   "FIELD1": "3707 CHATHAM ROAD"
+ },
+ {
+   "FIELD1": "3711 CHATHAM ROAD"
+ },
+ {
+   "FIELD1": "3818 CHATHAM ROAD"
+ },
+ {
+   "FIELD1": "4105 CHATHAM ROAD"
+ },
+ {
+   "FIELD1": "2127 CHELSEA TERR"
+ },
+ {
+   "FIELD1": "2602 CHELSEA TERR"
+ },
+ {
+   "FIELD1": "2712 CHELSEA TERR"
+ },
+ {
+   "FIELD1": "2908 CHELSEA TERR"
+ },
+ {
+   "FIELD1": "3105 CHELSEA TERR"
+ },
+ {
+   "FIELD1": "614 CHERATON ROAD"
+ },
+ {
+   "FIELD1": "632 CHERATON ROAD"
+ },
+ {
+   "FIELD1": "641 CHERATON ROAD"
+ },
+ {
+   "FIELD1": "513 CHERRY HILL ROAD"
+ },
+ {
+   "FIELD1": "1605 CHERRY ST"
+ },
+ {
+   "FIELD1": "1624 CHERRY ST"
+ },
+ {
+   "FIELD1": "2801 CHESLEY AVE"
+ },
+ {
+   "FIELD1": "3012 CHESLEY AVE"
+ },
+ {
+   "FIELD1": "3407 CHESLEY AVE"
+ },
+ {
+   "FIELD1": "9 N CHESTER ST"
+ },
+ {
+   "FIELD1": "19 N CHESTER ST"
+ },
+ {
+   "FIELD1": "216 N CHESTER ST"
+ },
+ {
+   "FIELD1": "3124 CHESTERFIELD AVE"
+ },
+ {
+   "FIELD1": "3420 CHESTERFIELD AVE"
+ },
+ {
+   "FIELD1": "3505 CHESTERFIELD AVE"
+ },
+ {
+   "FIELD1": "3514 CHESTERFIELD AVE"
+ },
+ {
+   "FIELD1": "3622 CHESTERFIELD AVE"
+ },
+ {
+   "FIELD1": "3656 CHESTERFIELD AVE"
+ },
+ {
+   "FIELD1": "3667 CHESTERFIELD AVE"
+ },
+ {
+   "FIELD1": "3923 CHESTERFIELD AVE"
+ },
+ {
+   "FIELD1": "3113 CHESTNUT AVE"
+ },
+ {
+   "FIELD1": "3115 CHESTNUT AVE"
+ },
+ {
+   "FIELD1": "3306 CHESTNUT AVE"
+ },
+ {
+   "FIELD1": "2206 CHILHAM ROAD"
+ },
+ {
+   "FIELD1": "1643 CHILTON ST"
+ },
+ {
+   "FIELD1": "1712 CHILTON ST"
+ },
+ {
+   "FIELD1": "1809 CHILTON ST"
+ },
+ {
+   "FIELD1": "5927 CHINQUAPIN PKWY"
+ },
+ {
+   "FIELD1": "6019 CHINQUAPIN PKWY"
+ },
+ {
+   "FIELD1": "6174 CHINQUAPIN PKWY"
+ },
+ {
+   "FIELD1": "2700 CHRISTOPHER AVE"
+ },
+ {
+   "FIELD1": "2805 CHRISTOPHER AVE"
+ },
+ {
+   "FIELD1": "5307 CHRYSLER AVE"
+ },
+ {
+   "FIELD1": "209 E CHURCHILL ST"
+ },
+ {
+   "FIELD1": "3718 CLAREMONT ST"
+ },
+ {
+   "FIELD1": "3203 CLARENCE AVE"
+ },
+ {
+   "FIELD1": "3707 CLARINTH ROAD"
+ },
+ {
+   "FIELD1": "3904 CLARINTH ROAD"
+ },
+ {
+   "FIELD1": "4818 CLAYBURY AVE"
+ },
+ {
+   "FIELD1": "4825 CLAYBURY AVE"
+ },
+ {
+   "FIELD1": "2911 CLEARVIEW AVE"
+ },
+ {
+   "FIELD1": "628 E CLEMENT ST"
+ },
+ {
+   "FIELD1": "1518 E CLEMENT ST"
+ },
+ {
+   "FIELD1": "126 W CLEMENT ST"
+ },
+ {
+   "FIELD1": "1169 CLEVELAND ST"
+ },
+ {
+   "FIELD1": "3235 CLIFTMONT AVE"
+ },
+ {
+   "FIELD1": "3306 CLIFTMONT AVE"
+ },
+ {
+   "FIELD1": "1802 CLIFTON AVE"
+ },
+ {
+   "FIELD1": "1821 CLIFTON AVE"
+ },
+ {
+   "FIELD1": "2001 CLIFTON AVE"
+ },
+ {
+   "FIELD1": "2011 CLIFTON AVE"
+ },
+ {
+   "FIELD1": "2023 CLIFTON AVE"
+ },
+ {
+   "FIELD1": "2205 CLIFTON AVE"
+ },
+ {
+   "FIELD1": "2822 CLIFTON AVE"
+ },
+ {
+   "FIELD1": "2929 CLIFTON AVE"
+ },
+ {
+   "FIELD1": "3604 CLIFTON AVE"
+ },
+ {
+   "FIELD1": "3803 CLIFTON AVE"
+ },
+ {
+   "FIELD1": "3843 CLIFTON AVE"
+ },
+ {
+   "FIELD1": "2826 CLIFTON PARK TERR"
+ },
+ {
+   "FIELD1": "2828 CLIFTON PARK TERR"
+ },
+ {
+   "FIELD1": "1606 CLIFTVIEW AVE"
+ },
+ {
+   "FIELD1": "1617 CLIFTVIEW AVE"
+ },
+ {
+   "FIELD1": "1620 CLIFTVIEW AVE"
+ },
+ {
+   "FIELD1": "2119 CLIFTWOOD AVE"
+ },
+ {
+   "FIELD1": "2126 CLIFTWOOD AVE"
+ },
+ {
+   "FIELD1": "341 S CLINTON ST"
+ },
+ {
+   "FIELD1": "5724 CLOVER ROAD"
+ },
+ {
+   "FIELD1": "2119 CLOVILLE AVE"
+ },
+ {
+   "FIELD1": "2217 CLOVILLE AVE"
+ },
+ {
+   "FIELD1": "4 COBBER LANE"
+ },
+ {
+   "FIELD1": "12 COBBER LANE"
+ },
+ {
+   "FIELD1": "16 COBBER LANE"
+ },
+ {
+   "FIELD1": "39 COBBER LANE"
+ },
+ {
+   "FIELD1": "1212 COCHRAN AVE"
+ },
+ {
+   "FIELD1": "3805 COLBORNE ROAD"
+ },
+ {
+   "FIELD1": "3908 COLBORNE ROAD"
+ },
+ {
+   "FIELD1": "3921 COLBORNE ROAD"
+ },
+ {
+   "FIELD1": "4223 COLBORNE ROAD"
+ },
+ {
+   "FIELD1": "4232 COLBORNE ROAD"
+ },
+ {
+   "FIELD1": "300 E COLD SPRING LANE"
+ },
+ {
+   "FIELD1": "315 E COLD SPRING LANE"
+ },
+ {
+   "FIELD1": "541 E COLD SPRING LANE"
+ },
+ {
+   "FIELD1": "717 E COLD SPRING LANE"
+ },
+ {
+   "FIELD1": "1228 E COLD SPRING LANE"
+ },
+ {
+   "FIELD1": "1312 E COLD SPRING LANE"
+ },
+ {
+   "FIELD1": "1524 E COLD SPRING LANE"
+ },
+ {
+   "FIELD1": "2700 E COLD SPRING LANE"
+ },
+ {
+   "FIELD1": "2800 E COLD SPRING LANE"
+ },
+ {
+   "FIELD1": "2409 W COLD SPRING LANE"
+ },
+ {
+   "FIELD1": "2504 W COLD SPRING LANE"
+ },
+ {
+   "FIELD1": "2512 W COLD SPRING LANE"
+ },
+ {
+   "FIELD1": "2546 W COLD SPRING LANE"
+ },
+ {
+   "FIELD1": "3800 W COLD SPRING LANE"
+ },
+ {
+   "FIELD1": "3909 W COLD SPRING LANE"
+ },
+ {
+   "FIELD1": "1547 COLE ST"
+ },
+ {
+   "FIELD1": "1604 COLE ST"
+ },
+ {
+   "FIELD1": "4607 COLEHERNE ROAD"
+ },
+ {
+   "FIELD1": "4609 COLEHERNE ROAD"
+ },
+ {
+   "FIELD1": "4616 COLEHERNE ROAD"
+ },
+ {
+   "FIELD1": "4617 COLEHERNE ROAD"
+ },
+ {
+   "FIELD1": "4622 COLEHERNE ROAD"
+ },
+ {
+   "FIELD1": "4800 COLEHERNE ROAD"
+ },
+ {
+   "FIELD1": "4804 COLEHERNE ROAD"
+ },
+ {
+   "FIELD1": "4811 COLEHERNE ROAD"
+ },
+ {
+   "FIELD1": "4 N COLLINGTON AVE"
+ },
+ {
+   "FIELD1": "704 N COLLINGTON AVE"
+ },
+ {
+   "FIELD1": "143 S COLLINS AVE"
+ },
+ {
+   "FIELD1": "3625 COLUMBUS DR"
+ },
+ {
+   "FIELD1": "3627 COLUMBUS DR"
+ },
+ {
+   "FIELD1": "3701> COLUMBUS DR"
+ },
+ {
+   "FIELD1": "3717 COLUMBUS DR"
+ },
+ {
+   "FIELD1": "3736 COLUMBUS DR"
+ },
+ {
+   "FIELD1": "3767 COLUMBUS DR"
+ },
+ {
+   "FIELD1": "242 S CONKLING ST"
+ },
+ {
+   "FIELD1": "811 S CONKLING ST"
+ },
+ {
+   "FIELD1": "4217 CONNECTICUT AVE"
+ },
+ {
+   "FIELD1": "832 COOKS LANE"
+ },
+ {
+   "FIELD1": "1011 COOKS LANE"
+ },
+ {
+   "FIELD1": "1043 COOKS LANE"
+ },
+ {
+   "FIELD1": "3620 COOLIDGE AVE"
+ },
+ {
+   "FIELD1": "3622 COOLIDGE AVE"
+ },
+ {
+   "FIELD1": "3820 COPLEY ROAD"
+ },
+ {
+   "FIELD1": "4810 CORDELIA AVE"
+ },
+ {
+   "FIELD1": "4818 CORDELIA AVE"
+ },
+ {
+   "FIELD1": "4911 CORDELIA AVE"
+ },
+ {
+   "FIELD1": "4913 CORDELIA AVE"
+ },
+ {
+   "FIELD1": "5252 CORDELIA AVE"
+ },
+ {
+   "FIELD1": "5349 CORDELIA AVE"
+ },
+ {
+   "FIELD1": "313 CORNWALL ST"
+ },
+ {
+   "FIELD1": "415 CORNWALL ST"
+ },
+ {
+   "FIELD1": "3465 COTTAGE AVE"
+ },
+ {
+   "FIELD1": "501 COVENTRY ROAD"
+ },
+ {
+   "FIELD1": "3714 CRANSTON AVE"
+ },
+ {
+   "FIELD1": "4022 CRANSTON AVE"
+ },
+ {
+   "FIELD1": "4205 CRAWFORD AVE"
+ },
+ {
+   "FIELD1": "4111 CRESTHEIGHTS ROAD"
+ },
+ {
+   "FIELD1": "4163 CRESTHEIGHTS ROAD"
+ },
+ {
+   "FIELD1": "1808 CRESTVIEW ROAD"
+ },
+ {
+   "FIELD1": "1920 CRESTVIEW ROAD"
+ },
+ {
+   "FIELD1": "1924 CRESTVIEW ROAD"
+ },
+ {
+   "FIELD1": "5405 CRISMER AVE"
+ },
+ {
+   "FIELD1": "1329 CROFTON ROAD"
+ },
+ {
+   "FIELD1": "1358 CROFTON ROAD"
+ },
+ {
+   "FIELD1": "6614 CROSS COUNTRY BLVD"
+ },
+ {
+   "FIELD1": "4 CROSS KEYS ROAD U# 4D"
+ },
+ {
+   "FIELD1": "200 CROSS KEYS ROAD U# R46"
+ },
+ {
+   "FIELD1": "25 N CULVER ST"
+ },
+ {
+   "FIELD1": "52 N CULVER ST"
+ },
+ {
+   "FIELD1": "129 N CULVER ST"
+ },
+ {
+   "FIELD1": "221 N CULVER ST"
+ },
+ {
+   "FIELD1": "233 N CULVER ST"
+ },
+ {
+   "FIELD1": "508 N CURLEY ST"
+ },
+ {
+   "FIELD1": "618 N CURLEY ST"
+ },
+ {
+   "FIELD1": "1210 N CURLEY ST"
+ },
+ {
+   "FIELD1": "1239 N CURLEY ST"
+ },
+ {
+   "FIELD1": "5217 CUTHBERT AVE"
+ },
+ {
+   "FIELD1": "5339 CUTHBERT AVE"
+ },
+ {
+   "FIELD1": "5342 CUTHBERT AVE"
+ },
+ {
+   "FIELD1": "5351 CUTHBERT AVE"
+ },
+ {
+   "FIELD1": "2524 CYLBURN AVE"
+ },
+ {
+   "FIELD1": "6405 DANVILLE AVE"
+ },
+ {
+   "FIELD1": "6711 DANVILLE AVE"
+ },
+ {
+   "FIELD1": "5208 DARIEN ROAD"
+ },
+ {
+   "FIELD1": "1008 DARLEY AVE"
+ },
+ {
+   "FIELD1": "1103 DARLEY AVE"
+ },
+ {
+   "FIELD1": "1205 DARLEY AVE"
+ },
+ {
+   "FIELD1": "1423 DARLEY AVE"
+ },
+ {
+   "FIELD1": "1637 DARLEY AVE"
+ },
+ {
+   "FIELD1": "1675 DARLEY AVE"
+ },
+ {
+   "FIELD1": "1740 DARLEY AVE"
+ },
+ {
+   "FIELD1": "5937 DAYWALT AVE"
+ },
+ {
+   "FIELD1": "704 DEACONHILL CT"
+ },
+ {
+   "FIELD1": "711 DEACONHILL CT"
+ },
+ {
+   "FIELD1": "1517 N DECKER AVE"
+ },
+ {
+   "FIELD1": "2200 DEERFERN CRESNT"
+ },
+ {
+   "FIELD1": "2225 DEERFERN CRESNT"
+ },
+ {
+   "FIELD1": "2024 DEERING AVE"
+ },
+ {
+   "FIELD1": "1246 DELBERT AVE"
+ },
+ {
+   "FIELD1": "1254 DELBERT AVE"
+ },
+ {
+   "FIELD1": "1322 DELLWOOD AVE"
+ },
+ {
+   "FIELD1": "144 DENISON ST"
+ },
+ {
+   "FIELD1": "211 DENISON ST"
+ },
+ {
+   "FIELD1": "219 DENISON ST"
+ },
+ {
+   "FIELD1": "303 DENISON ST"
+ },
+ {
+   "FIELD1": "315 DENISON ST"
+ },
+ {
+   "FIELD1": "317 DENISON ST"
+ },
+ {
+   "FIELD1": "319 DENISON ST"
+ },
+ {
+   "FIELD1": "410 DENISON ST"
+ },
+ {
+   "FIELD1": "500 DENISON ST"
+ },
+ {
+   "FIELD1": "514 DENISON ST"
+ },
+ {
+   "FIELD1": "601 DENISON ST"
+ },
+ {
+   "FIELD1": "722 DENISON ST"
+ },
+ {
+   "FIELD1": "2603 DENISON ST"
+ },
+ {
+   "FIELD1": "5357 DENMORE AVE"
+ },
+ {
+   "FIELD1": "3408 DENNLYN ROAD"
+ },
+ {
+   "FIELD1": "3410 DENNLYN ROAD"
+ },
+ {
+   "FIELD1": "3504 DENNLYN ROAD"
+ },
+ {
+   "FIELD1": "3700 DENNLYN ROAD"
+ },
+ {
+   "FIELD1": "4558 DERBY MANOR DR"
+ },
+ {
+   "FIELD1": "1041 DESOTO ROAD"
+ },
+ {
+   "FIELD1": "6601 DETROIT AVE"
+ },
+ {
+   "FIELD1": "4334 DEWEY AVE"
+ },
+ {
+   "FIELD1": "3119 DILLON ST"
+ },
+ {
+   "FIELD1": "1414 DIVISION ST"
+ },
+ {
+   "FIELD1": "3335 DOLFIELD AVE"
+ },
+ {
+   "FIELD1": "3407 DOLFIELD AVE"
+ },
+ {
+   "FIELD1": "3417 DOLFIELD AVE"
+ },
+ {
+   "FIELD1": "3754 DOLFIELD AVE"
+ },
+ {
+   "FIELD1": "3862 DOLFIELD AVE"
+ },
+ {
+   "FIELD1": "3310 DORCHESTER ROAD"
+ },
+ {
+   "FIELD1": "3802 DORCHESTER ROAD"
+ },
+ {
+   "FIELD1": "4006 DORCHESTER ROAD"
+ },
+ {
+   "FIELD1": "3203 DORITHAN ROAD"
+ },
+ {
+   "FIELD1": "3229 DORITHAN ROAD"
+ },
+ {
+   "FIELD1": "3231 DORITHAN ROAD"
+ },
+ {
+   "FIELD1": "3237 DORITHAN ROAD"
+ },
+ {
+   "FIELD1": "3241 DORITHAN ROAD"
+ },
+ {
+   "FIELD1": "3302 DORITHAN ROAD"
+ },
+ {
+   "FIELD1": "645 DOVER ST"
+ },
+ {
+   "FIELD1": "312 DREW ST"
+ },
+ {
+   "FIELD1": "1914 DRUID HILL AVE"
+ },
+ {
+   "FIELD1": "1930 DRUID HILL AVE"
+ },
+ {
+   "FIELD1": "2327 DRUID HILL AVE"
+ },
+ {
+   "FIELD1": "715 DRUID PARK LAKE DR"
+ },
+ {
+   "FIELD1": "3329 DUDLEY AVE"
+ },
+ {
+   "FIELD1": "3413 DUDLEY AVE"
+ },
+ {
+   "FIELD1": "3429 DUDLEY AVE"
+ },
+ {
+   "FIELD1": "3525 DUDLEY AVE"
+ },
+ {
+   "FIELD1": "3640 DUDLEY AVE"
+ },
+ {
+   "FIELD1": "3661 DUDLEY AVE"
+ },
+ {
+   "FIELD1": "4020 DUDLEY AVE"
+ },
+ {
+   "FIELD1": "1102 N DUKELAND ST"
+ },
+ {
+   "FIELD1": "2121 N DUKELAND ST"
+ },
+ {
+   "FIELD1": "2225 N DUKELAND ST"
+ },
+ {
+   "FIELD1": "665 DUMBARTON AVE"
+ },
+ {
+   "FIELD1": "832 DUMBARTON AVE"
+ },
+ {
+   "FIELD1": "4713 DUNCREST AVE"
+ },
+ {
+   "FIELD1": "1211 DUNDALK AVE"
+ },
+ {
+   "FIELD1": "4701 DUNKIRK AVE"
+ },
+ {
+   "FIELD1": "6123 DUNROMING ROAD"
+ },
+ {
+   "FIELD1": "3429 DUPONT AVE"
+ },
+ {
+   "FIELD1": "111 S DURHAM ST"
+ },
+ {
+   "FIELD1": "308 S DURHAM ST"
+ },
+ {
+   "FIELD1": "3905 DUVALL AVE"
+ },
+ {
+   "FIELD1": "3935 DUVALL AVE"
+ },
+ {
+   "FIELD1": "1247 E EAGER ST"
+ },
+ {
+   "FIELD1": "1305 E EAGER ST"
+ },
+ {
+   "FIELD1": "1307 E EAGER ST"
+ },
+ {
+   "FIELD1": "2680 EAGLE ST"
+ },
+ {
+   "FIELD1": "611 N EAST AVE"
+ },
+ {
+   "FIELD1": "907 S EAST AVE"
+ },
+ {
+   "FIELD1": "1008 S EAST AVE"
+ },
+ {
+   "FIELD1": "6301 EAST FORDHAM DR"
+ },
+ {
+   "FIELD1": "3127 EASTERN AVE"
+ },
+ {
+   "FIELD1": "6014 EASTERN PKWY"
+ },
+ {
+   "FIELD1": "4408 EASTWAY"
+ },
+ {
+   "FIELD1": "2206 ECHODALE AVE"
+ },
+ {
+   "FIELD1": "908 N EDEN ST"
+ },
+ {
+   "FIELD1": "928 N EDEN ST"
+ },
+ {
+   "FIELD1": "421 S EDEN ST"
+ },
+ {
+   "FIELD1": "4803 EDGAR TERR"
+ },
+ {
+   "FIELD1": "2845 EDGECOMBE CIRCLE NORTH"
+ },
+ {
+   "FIELD1": "2847 EDGECOMBE CIRCLE SOUTH"
+ },
+ {
+   "FIELD1": "3601 EDGEWOOD ROAD"
+ },
+ {
+   "FIELD1": "3703 EDGEWOOD ROAD"
+ },
+ {
+   "FIELD1": "3803 EDGEWOOD ROAD"
+ },
+ {
+   "FIELD1": "102 N EDGEWOOD ST"
+ },
+ {
+   "FIELD1": "120 N EDGEWOOD ST"
+ },
+ {
+   "FIELD1": "200 N EDGEWOOD ST"
+ },
+ {
+   "FIELD1": "203 N EDGEWOOD ST"
+ },
+ {
+   "FIELD1": "210 N EDGEWOOD ST"
+ },
+ {
+   "FIELD1": "504 N EDGEWOOD ST"
+ },
+ {
+   "FIELD1": "746 N EDGEWOOD ST"
+ },
+ {
+   "FIELD1": "1204 EDISON HWY"
+ },
+ {
+   "FIELD1": "1226 EDISON HWY"
+ },
+ {
+   "FIELD1": "1406 EDISON HWY"
+ },
+ {
+   "FIELD1": "1410 EDISON HWY"
+ },
+ {
+   "FIELD1": "1424 EDISON HWY"
+ },
+ {
+   "FIELD1": "1510 EDISON HWY"
+ },
+ {
+   "FIELD1": "6110 EDLYNNE ROAD"
+ },
+ {
+   "FIELD1": "1931 EDMONDSON AVE"
+ },
+ {
+   "FIELD1": "2304 EDMONDSON AVE"
+ },
+ {
+   "FIELD1": "2329 EDMONDSON AVE"
+ },
+ {
+   "FIELD1": "2337 EDMONDSON AVE"
+ },
+ {
+   "FIELD1": "2338 EDMONDSON AVE"
+ },
+ {
+   "FIELD1": "2340 EDMONDSON AVE"
+ },
+ {
+   "FIELD1": "2431 EDMONDSON AVE"
+ },
+ {
+   "FIELD1": "2436 EDMONDSON AVE"
+ },
+ {
+   "FIELD1": "2511 EDMONDSON AVE"
+ },
+ {
+   "FIELD1": "2532 EDMONDSON AVE"
+ },
+ {
+   "FIELD1": "2654 EDMONDSON AVE"
+ },
+ {
+   "FIELD1": "2701 EDMONDSON AVE"
+ },
+ {
+   "FIELD1": "2747 EDMONDSON AVE"
+ },
+ {
+   "FIELD1": "3319 EDMONDSON AVE"
+ },
+ {
+   "FIELD1": "3417 EDMONDSON AVE"
+ },
+ {
+   "FIELD1": "3519 EDMONDSON AVE"
+ },
+ {
+   "FIELD1": "3717 EDMONDSON AVE"
+ },
+ {
+   "FIELD1": "3923 EDMONDSON AVE"
+ },
+ {
+   "FIELD1": "3930 EDMONDSON AVE"
+ },
+ {
+   "FIELD1": "4021 EDMONDSON AVE"
+ },
+ {
+   "FIELD1": "4110 EDMONDSON AVE"
+ },
+ {
+   "FIELD1": "4700 EDMONDSON AVE"
+ },
+ {
+   "FIELD1": "3705 EDNOR ROAD"
+ },
+ {
+   "FIELD1": "3810 EDNOR ROAD"
+ },
+ {
+   "FIELD1": "3902 EDNOR ROAD"
+ },
+ {
+   "FIELD1": "3916 EDNOR ROAD"
+ },
+ {
+   "FIELD1": "3931 EDNOR ROAD"
+ },
+ {
+   "FIELD1": "4151 EIERMAN AVE"
+ },
+ {
+   "FIELD1": "1139 ELBANK AVE"
+ },
+ {
+   "FIELD1": "3311 ELBERT ST"
+ },
+ {
+   "FIELD1": "4115 ELDERON AVE"
+ },
+ {
+   "FIELD1": "4201 ELDERON AVE"
+ },
+ {
+   "FIELD1": "4309 ELDERON AVE"
+ },
+ {
+   "FIELD1": "4314 ELDERON AVE"
+ },
+ {
+   "FIELD1": "4315 ELDERON AVE"
+ },
+ {
+   "FIELD1": "5512 ELDERON AVE"
+ },
+ {
+   "FIELD1": "4403 ELDONE ROAD"
+ },
+ {
+   "FIELD1": "4430 ELDONE ROAD"
+ },
+ {
+   "FIELD1": "4467 ELDONE ROAD"
+ },
+ {
+   "FIELD1": "3708 ELDORADO AVE"
+ },
+ {
+   "FIELD1": "3710 ELDORADO AVE"
+ },
+ {
+   "FIELD1": "3016 ELGIN AVE"
+ },
+ {
+   "FIELD1": "4734 ELISON AVE"
+ },
+ {
+   "FIELD1": "4788 ELISON AVE"
+ },
+ {
+   "FIELD1": "3729 ELKADER ROAD"
+ },
+ {
+   "FIELD1": "3802 ELKADER ROAD"
+ },
+ {
+   "FIELD1": "3 N ELLAMONT ST"
+ },
+ {
+   "FIELD1": "2107 N ELLAMONT ST"
+ },
+ {
+   "FIELD1": "2317 N ELLAMONT ST"
+ },
+ {
+   "FIELD1": "2525 N ELLAMONT ST"
+ },
+ {
+   "FIELD1": "10 S ELLAMONT ST"
+ },
+ {
+   "FIELD1": "3152 ELLERSLIE AVE"
+ },
+ {
+   "FIELD1": "3302 ELLERSLIE AVE"
+ },
+ {
+   "FIELD1": "3304 ELLERSLIE AVE"
+ },
+ {
+   "FIELD1": "3522 ELLERSLIE AVE"
+ },
+ {
+   "FIELD1": "3530 ELLERSLIE AVE"
+ },
+ {
+   "FIELD1": "2704 ELLICOTT DR"
+ },
+ {
+   "FIELD1": "2720 ELLICOTT DR"
+ },
+ {
+   "FIELD1": "2802 ELLICOTT DR"
+ },
+ {
+   "FIELD1": "1121 ELLICOTT DRIVEWAY"
+ },
+ {
+   "FIELD1": "2919 ELLICOTT DRIVEWAY"
+ },
+ {
+   "FIELD1": "3041 ELLIOTT ST"
+ },
+ {
+   "FIELD1": "3124 ELLIOTT ST"
+ },
+ {
+   "FIELD1": "3139 ELLIOTT ST"
+ },
+ {
+   "FIELD1": "9 N ELLWOOD AVE"
+ },
+ {
+   "FIELD1": "310 N ELLWOOD AVE"
+ },
+ {
+   "FIELD1": "1201 N ELLWOOD AVE"
+ },
+ {
+   "FIELD1": "1240 N ELLWOOD AVE"
+ },
+ {
+   "FIELD1": "1321 N ELLWOOD AVE"
+ },
+ {
+   "FIELD1": "1333 N ELLWOOD AVE"
+ },
+ {
+   "FIELD1": "1408 N ELLWOOD AVE"
+ },
+ {
+   "FIELD1": "229 S ELLWOOD AVE"
+ },
+ {
+   "FIELD1": "807 S ELLWOOD AVE"
+ },
+ {
+   "FIELD1": "3031 ELM AVE"
+ },
+ {
+   "FIELD1": "3604 ELM AVE"
+ },
+ {
+   "FIELD1": "3836 ELM AVE"
+ },
+ {
+   "FIELD1": "3311 ELMLEY AVE"
+ },
+ {
+   "FIELD1": "3545 ELMLEY AVE"
+ },
+ {
+   "FIELD1": "3727 ELMLEY AVE"
+ },
+ {
+   "FIELD1": "3744 ELMLEY AVE"
+ },
+ {
+   "FIELD1": "3524 ELMORA AVE"
+ },
+ {
+   "FIELD1": "3538 ELMORA AVE"
+ },
+ {
+   "FIELD1": "3561 ELMORA AVE"
+ },
+ {
+   "FIELD1": "3620 ELMORA AVE"
+ },
+ {
+   "FIELD1": "3732 ELMORA AVE"
+ },
+ {
+   "FIELD1": "3858 ELMORA AVE"
+ },
+ {
+   "FIELD1": "1508 ELRINO ST"
+ },
+ {
+   "FIELD1": "1528 ELRINO ST"
+ },
+ {
+   "FIELD1": "1607 ELRINO ST"
+ },
+ {
+   "FIELD1": "1612 ELRINO ST"
+ },
+ {
+   "FIELD1": "2103 ELSINORE AVE"
+ },
+ {
+   "FIELD1": "2401 ELSINORE AVE"
+ },
+ {
+   "FIELD1": "4627 ELSRODE AVE"
+ },
+ {
+   "FIELD1": "3915 EMMART AVE"
+ },
+ {
+   "FIELD1": "4000 EMMART AVE"
+ },
+ {
+   "FIELD1": "4008 EMMART AVE"
+ },
+ {
+   "FIELD1": "4019 EMMART AVE"
+ },
+ {
+   "FIELD1": "2811 ERDMAN AVE"
+ },
+ {
+   "FIELD1": "3634 ERDMAN AVE"
+ },
+ {
+   "FIELD1": "3513 ESTHER PL"
+ },
+ {
+   "FIELD1": "3519 ESTHER PL"
+ },
+ {
+   "FIELD1": "3523 ESTHER PL"
+ },
+ {
+   "FIELD1": "4314 ETHLAND AVE"
+ },
+ {
+   "FIELD1": "2424 EUTAW PL"
+ },
+ {
+   "FIELD1": "4202 EVANS CHAPEL ROAD"
+ },
+ {
+   "FIELD1": "6112 EVERALL AVE"
+ },
+ {
+   "FIELD1": "3705 EVERETT ST"
+ },
+ {
+   "FIELD1": "3727 EVERETT ST"
+ },
+ {
+   "FIELD1": "700 EVESHAM AVE"
+ },
+ {
+   "FIELD1": "849 EVESHAM AVE"
+ },
+ {
+   "FIELD1": "1017 EVESHAM AVE"
+ },
+ {
+   "FIELD1": "1019 EVESHAM AVE"
+ },
+ {
+   "FIELD1": "6106 FAIR OAKS AVE"
+ },
+ {
+   "FIELD1": "6203 FAIR OAKS AVE"
+ },
+ {
+   "FIELD1": "4007 FAIRFAX ROAD"
+ },
+ {
+   "FIELD1": "4010 FAIRFAX ROAD"
+ },
+ {
+   "FIELD1": "4014 FAIRFAX ROAD"
+ },
+ {
+   "FIELD1": "4017 FAIRFAX ROAD"
+ },
+ {
+   "FIELD1": "4019 FAIRFAX ROAD"
+ },
+ {
+   "FIELD1": "4023 FAIRFAX ROAD"
+ },
+ {
+   "FIELD1": "4117 FAIRFAX ROAD"
+ },
+ {
+   "FIELD1": "4123 FAIRFAX ROAD"
+ },
+ {
+   "FIELD1": "4504 FAIRFAX ROAD"
+ },
+ {
+   "FIELD1": "3625 FAIRHAVEN AVE"
+ },
+ {
+   "FIELD1": "4204 FAIRHAVEN AVE"
+ },
+ {
+   "FIELD1": "5404 FAIRLAWN AVE"
+ },
+ {
+   "FIELD1": "5414 FAIRLAWN AVE"
+ },
+ {
+   "FIELD1": "5435 FAIRLAWN AVE"
+ },
+ {
+   "FIELD1": "5439 FAIRLAWN AVE"
+ },
+ {
+   "FIELD1": "2732 W FAIRMOUNT AVE"
+ },
+ {
+   "FIELD1": "3622 FAIRVIEW AVE"
+ },
+ {
+   "FIELD1": "3920 FAIRVIEW AVE"
+ },
+ {
+   "FIELD1": "2927 FAIT AVE"
+ },
+ {
+   "FIELD1": "3820 FAIT AVE"
+ },
+ {
+   "FIELD1": "5111 FAIT AVE"
+ },
+ {
+   "FIELD1": "5821 FALKIRK ROAD"
+ },
+ {
+   "FIELD1": "6310 FALKIRK ROAD"
+ },
+ {
+   "FIELD1": "3956 FALLS ROAD"
+ },
+ {
+   "FIELD1": "4331 FALLS ROAD"
+ },
+ {
+   "FIELD1": "3303 FALLSTAFF ROAD"
+ },
+ {
+   "FIELD1": "1315 W FAYETTE ST U# 4"
+ },
+ {
+   "FIELD1": "1317 W FAYETTE ST U# 4"
+ },
+ {
+   "FIELD1": "1930 W FAYETTE ST"
+ },
+ {
+   "FIELD1": "1948 W FAYETTE ST"
+ },
+ {
+   "FIELD1": "2000 W FAYETTE ST"
+ },
+ {
+   "FIELD1": "2022 W FAYETTE ST"
+ },
+ {
+   "FIELD1": "2300 W FAYETTE ST"
+ },
+ {
+   "FIELD1": "2502 W FAYETTE ST"
+ },
+ {
+   "FIELD1": "1221 E FEDERAL ST"
+ },
+ {
+   "FIELD1": "1431 E FEDERAL ST"
+ },
+ {
+   "FIELD1": "1620 E FEDERAL ST"
+ },
+ {
+   "FIELD1": "1739 E FEDERAL ST"
+ },
+ {
+   "FIELD1": "1808 E FEDERAL ST"
+ },
+ {
+   "FIELD1": "1815 E FEDERAL ST"
+ },
+ {
+   "FIELD1": "2632 E FEDERAL ST"
+ },
+ {
+   "FIELD1": "2835 E FEDERAL ST"
+ },
+ {
+   "FIELD1": "2837 E FEDERAL ST"
+ },
+ {
+   "FIELD1": "2838 E FEDERAL ST"
+ },
+ {
+   "FIELD1": "3001 E FEDERAL ST"
+ },
+ {
+   "FIELD1": "3022 E FEDERAL ST"
+ },
+ {
+   "FIELD1": "3037 E FEDERAL ST"
+ },
+ {
+   "FIELD1": "937 FELL ST"
+ },
+ {
+   "FIELD1": "2908 FENDALL ROAD"
+ },
+ {
+   "FIELD1": "3021 FENDALL ROAD"
+ },
+ {
+   "FIELD1": "2709 FENWICK AVE"
+ },
+ {
+   "FIELD1": "5906 FENWICK AVE"
+ },
+ {
+   "FIELD1": "5916 FENWICK AVE"
+ },
+ {
+   "FIELD1": "3009 FERNDALE AVE"
+ },
+ {
+   "FIELD1": "3016 FERNDALE AVE"
+ },
+ {
+   "FIELD1": "3108 FERNDALE AVE"
+ },
+ {
+   "FIELD1": "3208 FERNDALE AVE"
+ },
+ {
+   "FIELD1": "3615 FERNDALE AVE"
+ },
+ {
+   "FIELD1": "3704 FERNDALE AVE"
+ },
+ {
+   "FIELD1": "3806 FERNDALE AVE"
+ },
+ {
+   "FIELD1": "3807 FERNDALE AVE"
+ },
+ {
+   "FIELD1": "3809 FERNDALE AVE"
+ },
+ {
+   "FIELD1": "3928 FERNHILL AVE"
+ },
+ {
+   "FIELD1": "4010 FERNHILL AVE"
+ },
+ {
+   "FIELD1": "4112 - 4114 FERNHILL AVE"
+ },
+ {
+   "FIELD1": "4300 FERNHILL AVE"
+ },
+ {
+   "FIELD1": "5308 FERNPARK AVE"
+ },
+ {
+   "FIELD1": "5325 FERNPARK AVE"
+ },
+ {
+   "FIELD1": "5514 FERNPARK AVE"
+ },
+ {
+   "FIELD1": "4547 FINNEY AVE"
+ },
+ {
+   "FIELD1": "121 FIRESIDE CIR"
+ },
+ {
+   "FIELD1": "2220 FLEET ST"
+ },
+ {
+   "FIELD1": "2432 FLEET ST"
+ },
+ {
+   "FIELD1": "2415 FLEETWOOD AVE"
+ },
+ {
+   "FIELD1": "2816 FLEETWOOD AVE"
+ },
+ {
+   "FIELD1": "3901 FLEETWOOD AVE"
+ },
+ {
+   "FIELD1": "3705 FLOWERTON ROAD"
+ },
+ {
+   "FIELD1": "3714 FLOWERTON ROAD"
+ },
+ {
+   "FIELD1": "3936 FLOWERTON ROAD"
+ },
+ {
+   "FIELD1": "5436 FORCE ROAD"
+ },
+ {
+   "FIELD1": "5500 FORCE ROAD"
+ },
+ {
+   "FIELD1": "5522 FORCE ROAD"
+ },
+ {
+   "FIELD1": "5525 FORCE ROAD"
+ },
+ {
+   "FIELD1": "5527 FORCE ROAD"
+ },
+ {
+   "FIELD1": "5546 FORCE ROAD"
+ },
+ {
+   "FIELD1": "4110 FORDS LANE"
+ },
+ {
+   "FIELD1": "2912 FOREST GLEN ROAD"
+ },
+ {
+   "FIELD1": "2925 FOREST GLEN ROAD"
+ },
+ {
+   "FIELD1": "2926 FOREST GLEN ROAD"
+ },
+ {
+   "FIELD1": "1317 FOREST HILL AVE"
+ },
+ {
+   "FIELD1": "2510 W FOREST PARK AVE"
+ },
+ {
+   "FIELD1": "2612 W FOREST PARK AVE"
+ },
+ {
+   "FIELD1": "2618 W FOREST PARK AVE"
+ },
+ {
+   "FIELD1": "2624 W FOREST PARK AVE"
+ },
+ {
+   "FIELD1": "4305 W FOREST PARK AVE"
+ },
+ {
+   "FIELD1": "4406 W FOREST PARK AVE"
+ },
+ {
+   "FIELD1": "4715 W FOREST PARK AVE"
+ },
+ {
+   "FIELD1": "528 E FORT AVE"
+ },
+ {
+   "FIELD1": "636 E FORT AVE"
+ },
+ {
+   "FIELD1": "726 E FORT AVE"
+ },
+ {
+   "FIELD1": "1332 E FORT AVE"
+ },
+ {
+   "FIELD1": "2406 FOSTER AVE"
+ },
+ {
+   "FIELD1": "2042 FOUNTAIN ST"
+ },
+ {
+   "FIELD1": "2808 FOX ST"
+ },
+ {
+   "FIELD1": "2240 FOXBANE SQ"
+ },
+ {
+   "FIELD1": "3908 FRANKFORD AVE"
+ },
+ {
+   "FIELD1": "4918 FRANKFORD AVE"
+ },
+ {
+   "FIELD1": "5522 FRANKFORD AVE"
+ },
+ {
+   "FIELD1": "952 W FRANKLIN ST"
+ },
+ {
+   "FIELD1": "1120 W FRANKLIN ST"
+ },
+ {
+   "FIELD1": "1608 W FRANKLIN ST"
+ },
+ {
+   "FIELD1": "1816 W FRANKLIN ST"
+ },
+ {
+   "FIELD1": "1830 W FRANKLIN ST"
+ },
+ {
+   "FIELD1": "2714 W FRANKLIN ST"
+ },
+ {
+   "FIELD1": "3402 W FRANKLIN ST"
+ },
+ {
+   "FIELD1": "316 N FRANKLINTOWN ROAD"
+ },
+ {
+   "FIELD1": "926 N FRANKLINTOWN ROAD"
+ },
+ {
+   "FIELD1": "994 N FRANKLINTOWN ROAD"
+ },
+ {
+   "FIELD1": "5104 FREDCREST ROAD"
+ },
+ {
+   "FIELD1": "5211 FREDCREST ROAD"
+ },
+ {
+   "FIELD1": "5217 FREDCREST ROAD"
+ },
+ {
+   "FIELD1": "5218 FREDCREST ROAD"
+ },
+ {
+   "FIELD1": "2621 FREDERICK AVE"
+ },
+ {
+   "FIELD1": "2813 FREDERICK AVE"
+ },
+ {
+   "FIELD1": "4419 FREDERICK AVE"
+ },
+ {
+   "FIELD1": "4501 FREDERICK AVE"
+ },
+ {
+   "FIELD1": "4701 FREDERICK AVE"
+ },
+ {
+   "FIELD1": "5015 FREDERICK AVE"
+ },
+ {
+   "FIELD1": "5051 FREDERICK AVE"
+ },
+ {
+   "FIELD1": "5163 FREDERICK AVE"
+ },
+ {
+   "FIELD1": "5414 FREDERICK AVE"
+ },
+ {
+   "FIELD1": "535 FREEMAN ST"
+ },
+ {
+   "FIELD1": "705 N FREMONT AVE"
+ },
+ {
+   "FIELD1": "3002 FRISBY ST"
+ },
+ {
+   "FIELD1": "3020 FRISBY ST"
+ },
+ {
+   "FIELD1": "3027 FRISBY ST"
+ },
+ {
+   "FIELD1": "4100 FRISBY ST"
+ },
+ {
+   "FIELD1": "15 N FULTON AVE"
+ },
+ {
+   "FIELD1": "121 N FULTON AVE"
+ },
+ {
+   "FIELD1": "215 N FULTON AVE"
+ },
+ {
+   "FIELD1": "633 N FULTON AVE"
+ },
+ {
+   "FIELD1": "812 N FULTON AVE"
+ },
+ {
+   "FIELD1": "904 N FULTON AVE U# C"
+ },
+ {
+   "FIELD1": "908 N FULTON AVE U# C"
+ },
+ {
+   "FIELD1": "910 N FULTON AVE U# C"
+ },
+ {
+   "FIELD1": "1043 N FULTON AVE"
+ },
+ {
+   "FIELD1": "1644 N FULTON AVE"
+ },
+ {
+   "FIELD1": "414 FURROW ST"
+ },
+ {
+   "FIELD1": "2813 GANLEY DR"
+ },
+ {
+   "FIELD1": "2813 W GARRISON AVE"
+ },
+ {
+   "FIELD1": "2814 W GARRISON AVE"
+ },
+ {
+   "FIELD1": "2820 W GARRISON AVE"
+ },
+ {
+   "FIELD1": "2833 W GARRISON AVE"
+ },
+ {
+   "FIELD1": "2863 W GARRISON AVE"
+ },
+ {
+   "FIELD1": "2884 W GARRISON AVE"
+ },
+ {
+   "FIELD1": "3819 W GARRISON AVE"
+ },
+ {
+   "FIELD1": "4009 W GARRISON AVE"
+ },
+ {
+   "FIELD1": "3607 GARRISON BLVD"
+ },
+ {
+   "FIELD1": "4118 GARRISON BLVD"
+ },
+ {
+   "FIELD1": "3712 GELSTON DR"
+ },
+ {
+   "FIELD1": "3916 GELSTON DR"
+ },
+ {
+   "FIELD1": "4006 GELSTON DR"
+ },
+ {
+   "FIELD1": "5415 GERLAND AVE"
+ },
+ {
+   "FIELD1": "3704 GIBBONS AVE"
+ },
+ {
+   "FIELD1": "235 N GILMOR ST"
+ },
+ {
+   "FIELD1": "1369 N GILMOR ST"
+ },
+ {
+   "FIELD1": "4808 GILRAY DR"
+ },
+ {
+   "FIELD1": "4831 GILRAY DR"
+ },
+ {
+   "FIELD1": "4907 GILRAY DR"
+ },
+ {
+   "FIELD1": "4917 GILRAY DR"
+ },
+ {
+   "FIELD1": "5327 GIST AVE"
+ },
+ {
+   "FIELD1": "5331 GIST AVE"
+ },
+ {
+   "FIELD1": "5516 GIST AVE"
+ },
+ {
+   "FIELD1": "5712 GIST AVE"
+ },
+ {
+   "FIELD1": "708 GITTINGS AVE"
+ },
+ {
+   "FIELD1": "1202 GITTINGS AVE"
+ },
+ {
+   "FIELD1": "1407 GITTINGS AVE"
+ },
+ {
+   "FIELD1": "2715 GLEN AVE"
+ },
+ {
+   "FIELD1": "4002 GLEN AVE"
+ },
+ {
+   "FIELD1": "4003 GLEN AVE"
+ },
+ {
+   "FIELD1": "3902 GLEN HUNT ROAD"
+ },
+ {
+   "FIELD1": "3920 GLEN HUNT ROAD"
+ },
+ {
+   "FIELD1": "3806 GLENARM AVE"
+ },
+ {
+   "FIELD1": "4411 GLENARM AVE"
+ },
+ {
+   "FIELD1": "4605 GLENARM AVE"
+ },
+ {
+   "FIELD1": "1229 GLENEAGLE ROAD"
+ },
+ {
+   "FIELD1": "1233 GLENEAGLE ROAD"
+ },
+ {
+   "FIELD1": "5966 GLENFALLS AVE"
+ },
+ {
+   "FIELD1": "3905 GLENGYLE AVE"
+ },
+ {
+   "FIELD1": "5818 GLENKIRK CT"
+ },
+ {
+   "FIELD1": "5901 GLENKIRK ROAD"
+ },
+ {
+   "FIELD1": "2910 GLENMORE AVE"
+ },
+ {
+   "FIELD1": "5908 GLENNOR ROAD"
+ },
+ {
+   "FIELD1": "845 GLENWOOD AVE"
+ },
+ {
+   "FIELD1": "1217 GLENWOOD AVE"
+ },
+ {
+   "FIELD1": "702 N GLOVER ST"
+ },
+ {
+   "FIELD1": "811 N GLOVER ST"
+ },
+ {
+   "FIELD1": "402 GOLD ST"
+ },
+ {
+   "FIELD1": "1118 GORSUCH AVE"
+ },
+ {
+   "FIELD1": "1132 GORSUCH AVE"
+ },
+ {
+   "FIELD1": "1303 GORSUCH AVE"
+ },
+ {
+   "FIELD1": "1540 GORSUCH AVE"
+ },
+ {
+   "FIELD1": "1734 GOUGH ST"
+ },
+ {
+   "FIELD1": "3603 GOUGH ST"
+ },
+ {
+   "FIELD1": "5002 GOVANE AVE"
+ },
+ {
+   "FIELD1": "5006 GOVANE AVE"
+ },
+ {
+   "FIELD1": "4401 GRAND VIEW AVE"
+ },
+ {
+   "FIELD1": "4426 GRAND VIEW AVE"
+ },
+ {
+   "FIELD1": "2913 GRANTLEY AVE"
+ },
+ {
+   "FIELD1": "2917 GRANTLEY AVE"
+ },
+ {
+   "FIELD1": "3034 GRANTLEY AVE"
+ },
+ {
+   "FIELD1": "3502 GRANTLEY ROAD"
+ },
+ {
+   "FIELD1": "3609 GRANTLEY ROAD"
+ },
+ {
+   "FIELD1": "3700 GRANTLEY ROAD"
+ },
+ {
+   "FIELD1": "3814 GRANTLEY ROAD"
+ },
+ {
+   "FIELD1": "3904 GRANTLEY ROAD"
+ },
+ {
+   "FIELD1": "4001 GRANTLEY ROAD"
+ },
+ {
+   "FIELD1": "4022 GRANTLEY ROAD"
+ },
+ {
+   "FIELD1": "317 N GRANTLEY ST"
+ },
+ {
+   "FIELD1": "619 N GRANTLEY ST"
+ },
+ {
+   "FIELD1": "626 N GRANTLEY ST"
+ },
+ {
+   "FIELD1": "1240 S GRANTLEY ST"
+ },
+ {
+   "FIELD1": "4905 GREENCREST ROAD"
+ },
+ {
+   "FIELD1": "4913 GREENCREST ROAD"
+ },
+ {
+   "FIELD1": "4307 GREENHILL AVE"
+ },
+ {
+   "FIELD1": "3616 GREENMOUNT AVE"
+ },
+ {
+   "FIELD1": "3714 GREENMOUNT AVE"
+ },
+ {
+   "FIELD1": "4000 GREENSPRING AVE"
+ },
+ {
+   "FIELD1": "5818 GREENSPRING AVE"
+ },
+ {
+   "FIELD1": "3711 GREENVALE ROAD"
+ },
+ {
+   "FIELD1": "1910 GRIFFIS AVE"
+ },
+ {
+   "FIELD1": "1941 GRIFFIS AVE"
+ },
+ {
+   "FIELD1": "2039 GRIFFIS AVE"
+ },
+ {
+   "FIELD1": "2806 GRINDON AVE"
+ },
+ {
+   "FIELD1": "5012 GRINDON AVE"
+ },
+ {
+   "FIELD1": "2621 GROGAN AVE"
+ },
+ {
+   "FIELD1": "5517 GROVELAND AVE"
+ },
+ {
+   "FIELD1": "5519 GROVELAND AVE"
+ },
+ {
+   "FIELD1": "5638 GROVELAND AVE"
+ },
+ {
+   "FIELD1": "2439 GUILFORD AVE"
+ },
+ {
+   "FIELD1": "2526 GUILFORD AVE"
+ },
+ {
+   "FIELD1": "2927 GUILFORD AVE"
+ },
+ {
+   "FIELD1": "3423 GUILFORD TERR"
+ },
+ {
+   "FIELD1": "625 GUTMAN AVE"
+ },
+ {
+   "FIELD1": "5309 GWYNN OAK AVE"
+ },
+ {
+   "FIELD1": "5515 GWYNN OAK AVE"
+ },
+ {
+   "FIELD1": "5534 GWYNN OAK AVE"
+ },
+ {
+   "FIELD1": "1603 GWYNNS FALLS PKWY"
+ },
+ {
+   "FIELD1": "1706 GWYNNS FALLS PKWY"
+ },
+ {
+   "FIELD1": "1803 GWYNNS FALLS PKWY"
+ },
+ {
+   "FIELD1": "2737 GWYNNS FALLS PKWY"
+ },
+ {
+   "FIELD1": "2811 GWYNNS FALLS PKWY"
+ },
+ {
+   "FIELD1": "2833 GWYNNS FALLS PKWY"
+ },
+ {
+   "FIELD1": "3007 GWYNNS FALLS PKWY"
+ },
+ {
+   "FIELD1": "3105 GWYNNS FALLS PKWY"
+ },
+ {
+   "FIELD1": "4810 HADDON AVE"
+ },
+ {
+   "FIELD1": "4915 HADDON AVE"
+ },
+ {
+   "FIELD1": "2811 HALCYON AVE"
+ },
+ {
+   "FIELD1": "46 E HAMBURG ST"
+ },
+ {
+   "FIELD1": "4913 HAMILTON AVE"
+ },
+ {
+   "FIELD1": "5102 HAMILTON ST"
+ },
+ {
+   "FIELD1": "5501 HAMLET AVE"
+ },
+ {
+   "FIELD1": "5324 HAMLIN AVE"
+ },
+ {
+   "FIELD1": "2611 HAMPDEN AVE"
+ },
+ {
+   "FIELD1": "2627 HAMPDEN AVE"
+ },
+ {
+   "FIELD1": "518 S HANOVER ST"
+ },
+ {
+   "FIELD1": "1135 S HANOVER ST"
+ },
+ {
+   "FIELD1": "1627 S HANOVER ST"
+ },
+ {
+   "FIELD1": "2658 HARFORD ROAD"
+ },
+ {
+   "FIELD1": "2824 HARFORD ROAD"
+ },
+ {
+   "FIELD1": "3018 HARFORD ROAD"
+ },
+ {
+   "FIELD1": "3405 - 3409 HARFORD ROAD"
+ },
+ {
+   "FIELD1": "5125 HARFORD ROAD"
+ },
+ {
+   "FIELD1": "1812 HARLEM AVE"
+ },
+ {
+   "FIELD1": "1900 HARLEM AVE"
+ },
+ {
+   "FIELD1": "2415 HARLEM AVE"
+ },
+ {
+   "FIELD1": "2526 HARLEM AVE"
+ },
+ {
+   "FIELD1": "2818 HARLEM AVE"
+ },
+ {
+   "FIELD1": "2826 HARLEM AVE"
+ },
+ {
+   "FIELD1": "2835 HARLEM AVE"
+ },
+ {
+   "FIELD1": "2838 HARLEM AVE"
+ },
+ {
+   "FIELD1": "3043 HARLEM AVE"
+ },
+ {
+   "FIELD1": "3703 HARLEM AVE"
+ },
+ {
+   "FIELD1": "3808 HARLEM AVE"
+ },
+ {
+   "FIELD1": "3810 HARLEM AVE"
+ },
+ {
+   "FIELD1": "3812 HARLEM AVE"
+ },
+ {
+   "FIELD1": "2110 HARMAN AVE"
+ },
+ {
+   "FIELD1": "2156 HARMAN AVE"
+ },
+ {
+   "FIELD1": "2452 HARRIET AVE"
+ },
+ {
+   "FIELD1": "1109 HARRITON ROAD"
+ },
+ {
+   "FIELD1": "1630 HARTSDALE ROAD"
+ },
+ {
+   "FIELD1": "741 HARVEY ST"
+ },
+ {
+   "FIELD1": "1247 HAVERHILL ROAD"
+ },
+ {
+   "FIELD1": "1258 HAVERHILL ROAD"
+ },
+ {
+   "FIELD1": "3510 HAYWARD AVE"
+ },
+ {
+   "FIELD1": "3608 HAYWARD AVE"
+ },
+ {
+   "FIELD1": "3724 HAYWARD AVE"
+ },
+ {
+   "FIELD1": "3809 HAYWARD AVE"
+ },
+ {
+   "FIELD1": "3818 HAYWARD AVE"
+ },
+ {
+   "FIELD1": "4014 HAYWARD AVE"
+ },
+ {
+   "FIELD1": "4316 HAYWARD AVE"
+ },
+ {
+   "FIELD1": "1600 HEATHFIELD ROAD"
+ },
+ {
+   "FIELD1": "1605 HEATHFIELD ROAD"
+ },
+ {
+   "FIELD1": "1611 HEATHFIELD ROAD"
+ },
+ {
+   "FIELD1": "1900 HEATHFIELD ROAD"
+ },
+ {
+   "FIELD1": "2317 HEMLOCK AVE"
+ },
+ {
+   "FIELD1": "2405 HERMOSA AVE"
+ },
+ {
+   "FIELD1": "2508 HERMOSA AVE"
+ },
+ {
+   "FIELD1": "4913 HERRING RUN DR"
+ },
+ {
+   "FIELD1": "5001 HERRING RUN DR"
+ },
+ {
+   "FIELD1": "5013 HERRING RUN DR"
+ },
+ {
+   "FIELD1": "3412 HICKORY AVE"
+ },
+ {
+   "FIELD1": "3515 - 3517 HICKORY AVE"
+ },
+ {
+   "FIELD1": "3605 HICKS AVE"
+ },
+ {
+   "FIELD1": "5617 HIGHGATE DR"
+ },
+ {
+   "FIELD1": "5721 HIGHGATE DR"
+ },
+ {
+   "FIELD1": "639 N HIGHLAND AVE"
+ },
+ {
+   "FIELD1": "4016 HILLCREST AVE"
+ },
+ {
+   "FIELD1": "4017 HILLCREST AVE"
+ },
+ {
+   "FIELD1": "3422 HILLDALE PL"
+ },
+ {
+   "FIELD1": "4014 HILLEN ROAD"
+ },
+ {
+   "FIELD1": "4020 HILLEN ROAD"
+ },
+ {
+   "FIELD1": "4028 HILLEN ROAD"
+ },
+ {
+   "FIELD1": "4040 HILLEN ROAD"
+ },
+ {
+   "FIELD1": "5011 HILLEN ROAD"
+ },
+ {
+   "FIELD1": "1707 HILLENWOOD ROAD"
+ },
+ {
+   "FIELD1": "1803 HILLENWOOD ROAD"
+ },
+ {
+   "FIELD1": "2825 HILLSDALE ROAD"
+ },
+ {
+   "FIELD1": "3708 HILLSDALE ROAD"
+ },
+ {
+   "FIELD1": "3720 HILLSDALE ROAD"
+ },
+ {
+   "FIELD1": "5524 HILLTOP AVE"
+ },
+ {
+   "FIELD1": "30 HILLVALE ROAD"
+ },
+ {
+   "FIELD1": "48 HILLVALE ROAD"
+ },
+ {
+   "FIELD1": "118 HILLVALE ROAD"
+ },
+ {
+   "FIELD1": "120 HILLVALE ROAD"
+ },
+ {
+   "FIELD1": "610 HILLVIEW ROAD"
+ },
+ {
+   "FIELD1": "612 HILLVIEW ROAD"
+ },
+ {
+   "FIELD1": "628 HILLVIEW ROAD"
+ },
+ {
+   "FIELD1": "631 HILLVIEW ROAD"
+ },
+ {
+   "FIELD1": "5217 HILLWELL ROAD"
+ },
+ {
+   "FIELD1": "3507 HILTON ROAD"
+ },
+ {
+   "FIELD1": "3909 HILTON ROAD"
+ },
+ {
+   "FIELD1": "21 N HILTON ST"
+ },
+ {
+   "FIELD1": "236 N HILTON ST"
+ },
+ {
+   "FIELD1": "334 N HILTON ST"
+ },
+ {
+   "FIELD1": "626 N HILTON ST"
+ },
+ {
+   "FIELD1": "2619 N HILTON ST"
+ },
+ {
+   "FIELD1": "3308 N HILTON ST U# 201"
+ },
+ {
+   "FIELD1": "140 S HILTON ST"
+ },
+ {
+   "FIELD1": "155 S HILTON ST"
+ },
+ {
+   "FIELD1": "245 S HILTON ST"
+ },
+ {
+   "FIELD1": "3667 HINELINE ROAD"
+ },
+ {
+   "FIELD1": "2806 HINSDALE DR"
+ },
+ {
+   "FIELD1": "2005 E HOFFMAN ST"
+ },
+ {
+   "FIELD1": "2416 E HOFFMAN ST"
+ },
+ {
+   "FIELD1": "2620 E HOFFMAN ST"
+ },
+ {
+   "FIELD1": "2703 E HOFFMAN ST"
+ },
+ {
+   "FIELD1": "5311 HOLDER AVE"
+ },
+ {
+   "FIELD1": "2410 HOLLINS FERRY ROAD"
+ },
+ {
+   "FIELD1": "3402 HOLMES AVE"
+ },
+ {
+   "FIELD1": "3404 HOLMES AVE"
+ },
+ {
+   "FIELD1": "3508 HOLMES AVE"
+ },
+ {
+   "FIELD1": "3511 HOLMES AVE"
+ },
+ {
+   "FIELD1": "3513 HOLMES AVE"
+ },
+ {
+   "FIELD1": "4700 HOMESDALE AVE"
+ },
+ {
+   "FIELD1": "4745 HOMESDALE AVE"
+ },
+ {
+   "FIELD1": "946 HOMESTEAD ST"
+ },
+ {
+   "FIELD1": "1413 HOMESTEAD ST"
+ },
+ {
+   "FIELD1": "1436 HOMESTEAD ST"
+ },
+ {
+   "FIELD1": "1525 HOMESTEAD ST"
+ },
+ {
+   "FIELD1": "1615 HOMESTEAD ST"
+ },
+ {
+   "FIELD1": "1741 HOMESTEAD ST"
+ },
+ {
+   "FIELD1": "1750 HOMESTEAD ST"
+ },
+ {
+   "FIELD1": "1101 - 1201 HORNERS LANE U# CO-OP"
+ },
+ {
+   "FIELD1": "3504 HOWARD PARK AVE"
+ },
+ {
+   "FIELD1": "3609 HOWARD PARK AVE"
+ },
+ {
+   "FIELD1": "3712 HOWARD PARK AVE"
+ },
+ {
+   "FIELD1": "2824 N HOWARD ST"
+ },
+ {
+   "FIELD1": "3020 HUDSON ST"
+ },
+ {
+   "FIELD1": "3901 HUDSON ST"
+ },
+ {
+   "FIELD1": "2728 HUGO AVE"
+ },
+ {
+   "FIELD1": "2608 HUNTINGDON AVE"
+ },
+ {
+   "FIELD1": "2613 HUNTINGDON AVE"
+ },
+ {
+   "FIELD1": "2904 HUNTINGDON AVE"
+ },
+ {
+   "FIELD1": "2909 HUNTINGDON AVE"
+ },
+ {
+   "FIELD1": "2413 HURON ST"
+ },
+ {
+   "FIELD1": "2604 HURON ST"
+ },
+ {
+   "FIELD1": "416 ILCHESTER AVE"
+ },
+ {
+   "FIELD1": "427 ILCHESTER AVE"
+ },
+ {
+   "FIELD1": "434 ILCHESTER AVE"
+ },
+ {
+   "FIELD1": "453 ILCHESTER AVE"
+ },
+ {
+   "FIELD1": "1603 INGRAM ROAD"
+ },
+ {
+   "FIELD1": "1814 INGRAM ROAD"
+ },
+ {
+   "FIELD1": "1401 INVERNESS AVE"
+ },
+ {
+   "FIELD1": "1620 INVERNESS AVE"
+ },
+ {
+   "FIELD1": "4201 IVANHOE AVE"
+ },
+ {
+   "FIELD1": "4214 IVANHOE AVE"
+ },
+ {
+   "FIELD1": "4228 IVANHOE AVE"
+ },
+ {
+   "FIELD1": "4711 IVANHOE AVE"
+ },
+ {
+   "FIELD1": "4716 IVANHOE AVE"
+ },
+ {
+   "FIELD1": "5004 IVANHOE AVE"
+ },
+ {
+   "FIELD1": "5208 IVANHOE AVE"
+ },
+ {
+   "FIELD1": "2315 IVY AVE"
+ },
+ {
+   "FIELD1": "1207 JAMES ST"
+ },
+ {
+   "FIELD1": "1247 JAMES ST"
+ },
+ {
+   "FIELD1": "1319 JAMES ST"
+ },
+ {
+   "FIELD1": "3328 JAMES ST"
+ },
+ {
+   "FIELD1": "1933 JEFFERSON ST"
+ },
+ {
+   "FIELD1": "2035 JEFFERSON ST"
+ },
+ {
+   "FIELD1": "2104 JEFFERSON ST"
+ },
+ {
+   "FIELD1": "921 JOH AVE"
+ },
+ {
+   "FIELD1": "5409 JONQUIL AVE"
+ },
+ {
+   "FIELD1": "5502 JONQUIL AVE"
+ },
+ {
+   "FIELD1": "5735 JONQUIL AVE"
+ },
+ {
+   "FIELD1": "5803 JONQUIL AVE"
+ },
+ {
+   "FIELD1": "3410 JUNEWAY"
+ },
+ {
+   "FIELD1": "3527 JUNEWAY"
+ },
+ {
+   "FIELD1": "4112 KATHLAND AVE"
+ },
+ {
+   "FIELD1": "4304 KATHLAND AVE"
+ },
+ {
+   "FIELD1": "4501 KATHLAND AVE"
+ },
+ {
+   "FIELD1": "4202 KELWAY ROAD"
+ },
+ {
+   "FIELD1": "2307 KEN OAK ROAD"
+ },
+ {
+   "FIELD1": "1311 KENHILL AVE"
+ },
+ {
+   "FIELD1": "1325 KENHILL AVE"
+ },
+ {
+   "FIELD1": "1401 KENHILL AVE"
+ },
+ {
+   "FIELD1": "1411 KENHILL AVE"
+ },
+ {
+   "FIELD1": "5115 KENILWORTH AVE"
+ },
+ {
+   "FIELD1": "1921 KENNEDY AVE"
+ },
+ {
+   "FIELD1": "2036 KENNEDY AVE"
+ },
+ {
+   "FIELD1": "2048 KENNEDY AVE"
+ },
+ {
+   "FIELD1": "2059 KENNEDY AVE"
+ },
+ {
+   "FIELD1": "5507 KENNISON AVE"
+ },
+ {
+   "FIELD1": "5593 KENNISON AVE"
+ },
+ {
+   "FIELD1": "4215 KENSHAW AVE"
+ },
+ {
+   "FIELD1": "3234 KENTUCKY AVE"
+ },
+ {
+   "FIELD1": "516 N KENWOOD AVE"
+ },
+ {
+   "FIELD1": "630 N KENWOOD AVE"
+ },
+ {
+   "FIELD1": "1029 N KENWOOD AVE"
+ },
+ {
+   "FIELD1": "1111 N KENWOOD AVE"
+ },
+ {
+   "FIELD1": "1313 N KENWOOD AVE"
+ },
+ {
+   "FIELD1": "1319 N KENWOOD AVE"
+ },
+ {
+   "FIELD1": "1501 N KENWOOD AVE"
+ },
+ {
+   "FIELD1": "1122 S KENWOOD AVE"
+ },
+ {
+   "FIELD1": "3312 KENYON AVE"
+ },
+ {
+   "FIELD1": "3344 KENYON AVE"
+ },
+ {
+   "FIELD1": "3635 KENYON AVE"
+ },
+ {
+   "FIELD1": "3684 KENYON AVE"
+ },
+ {
+   "FIELD1": "3924 KENYON AVE"
+ },
+ {
+   "FIELD1": "313 KERNEWAY"
+ },
+ {
+   "FIELD1": "3529 KESWICK ROAD"
+ },
+ {
+   "FIELD1": "3618 KESWICK ROAD"
+ },
+ {
+   "FIELD1": "3705 KESWICK ROAD"
+ },
+ {
+   "FIELD1": "810 KEVIN ROAD"
+ },
+ {
+   "FIELD1": "910 KEVIN ROAD"
+ },
+ {
+   "FIELD1": "929 KEVIN ROAD"
+ },
+ {
+   "FIELD1": "1008 KEVIN ROAD"
+ },
+ {
+   "FIELD1": "1120 KEVIN ROAD"
+ },
+ {
+   "FIELD1": "1127 KEVIN ROAD"
+ },
+ {
+   "FIELD1": "1206 KEVIN ROAD"
+ },
+ {
+   "FIELD1": "1225 KEVIN ROAD"
+ },
+ {
+   "FIELD1": "5610 KEY AVE"
+ },
+ {
+   "FIELD1": "5709 KEY AVE"
+ },
+ {
+   "FIELD1": "5908 KEY AVE"
+ },
+ {
+   "FIELD1": "2533 KEYWORTH AVE"
+ },
+ {
+   "FIELD1": "4734 KIMBERLEIGH ROAD"
+ },
+ {
+   "FIELD1": "3608 KIMBLE ROAD"
+ },
+ {
+   "FIELD1": "3920 KIMBLE ROAD"
+ },
+ {
+   "FIELD1": "401 KINGSTON ROAD"
+ },
+ {
+   "FIELD1": "1408 KINGSWAY ROAD"
+ },
+ {
+   "FIELD1": "1420 KINGSWAY ROAD"
+ },
+ {
+   "FIELD1": "1427 KINGSWAY ROAD"
+ },
+ {
+   "FIELD1": "1428 KINGSWAY ROAD"
+ },
+ {
+   "FIELD1": "1502 KINGSWAY ROAD"
+ },
+ {
+   "FIELD1": "1528 KINGSWAY ROAD"
+ },
+ {
+   "FIELD1": "1538 KINGSWAY ROAD"
+ },
+ {
+   "FIELD1": "1547 KINGSWAY ROAD"
+ },
+ {
+   "FIELD1": "1610 KINGSWAY ROAD"
+ },
+ {
+   "FIELD1": "1614 KINGSWAY ROAD"
+ },
+ {
+   "FIELD1": "4125 KINSWAY"
+ },
+ {
+   "FIELD1": "2553 KIRK AVE"
+ },
+ {
+   "FIELD1": "2604 KIRK AVE"
+ },
+ {
+   "FIELD1": "2627 KIRK AVE"
+ },
+ {
+   "FIELD1": "1304 KITMORE ROAD"
+ },
+ {
+   "FIELD1": "1311 KITMORE ROAD"
+ },
+ {
+   "FIELD1": "1312 KITMORE ROAD"
+ },
+ {
+   "FIELD1": "1317 KITMORE ROAD"
+ },
+ {
+   "FIELD1": "1322 KITMORE ROAD"
+ },
+ {
+   "FIELD1": "1350 KITMORE ROAD"
+ },
+ {
+   "FIELD1": "5606 KNELL AVE"
+ },
+ {
+   "FIELD1": "5629 KNELL AVE"
+ },
+ {
+   "FIELD1": "2104 KOKO LANE"
+ },
+ {
+   "FIELD1": "2105 KOKO LANE"
+ },
+ {
+   "FIELD1": "2200 KOKO LANE"
+ },
+ {
+   "FIELD1": "2217 KOKO LANE"
+ },
+ {
+   "FIELD1": "2305 KOKO LANE"
+ },
+ {
+   "FIELD1": "2313 KOKO LANE"
+ },
+ {
+   "FIELD1": "20 N KOSSUTH ST"
+ },
+ {
+   "FIELD1": "101 N KOSSUTH ST"
+ },
+ {
+   "FIELD1": "117 N KOSSUTH ST"
+ },
+ {
+   "FIELD1": "77 S KOSSUTH ST"
+ },
+ {
+   "FIELD1": "109 S KOSSUTH ST"
+ },
+ {
+   "FIELD1": "126 S KOSSUTH ST"
+ },
+ {
+   "FIELD1": "905 N KRESSON ST"
+ },
+ {
+   "FIELD1": "916 N KRESSON ST"
+ },
+ {
+   "FIELD1": "3504 LABYRINTH ROAD"
+ },
+ {
+   "FIELD1": "3904 LABYRINTH ROAD"
+ },
+ {
+   "FIELD1": "4010 LABYRINTH ROAD"
+ },
+ {
+   "FIELD1": "4257 LABYRINTH ROAD"
+ },
+ {
+   "FIELD1": "224 E LAFAYETTE AVE"
+ },
+ {
+   "FIELD1": "1204 E LAFAYETTE AVE"
+ },
+ {
+   "FIELD1": "1916 E LAFAYETTE AVE"
+ },
+ {
+   "FIELD1": "1334 W LAFAYETTE AVE"
+ },
+ {
+   "FIELD1": "1338 W LAFAYETTE AVE"
+ },
+ {
+   "FIELD1": "1712 W LAFAYETTE AVE"
+ },
+ {
+   "FIELD1": "1930 W LAFAYETTE AVE"
+ },
+ {
+   "FIELD1": "2317 W LAFAYETTE AVE"
+ },
+ {
+   "FIELD1": "2411 W LAFAYETTE AVE"
+ },
+ {
+   "FIELD1": "2419 W LAFAYETTE AVE"
+ },
+ {
+   "FIELD1": "2561 W LAFAYETTE AVE"
+ },
+ {
+   "FIELD1": "2612 W LAFAYETTE AVE"
+ },
+ {
+   "FIELD1": "2821 W LAFAYETTE AVE"
+ },
+ {
+   "FIELD1": "2869 W LAFAYETTE AVE"
+ },
+ {
+   "FIELD1": "2838 LAKE AVE"
+ },
+ {
+   "FIELD1": "3231 LAKE AVE"
+ },
+ {
+   "FIELD1": "3232 LAKE AVE"
+ },
+ {
+   "FIELD1": "408 E LAKE AVE"
+ },
+ {
+   "FIELD1": "742 E LAKE AVE"
+ },
+ {
+   "FIELD1": "905 E LAKE AVE"
+ },
+ {
+   "FIELD1": "1009 E LAKE AVE"
+ },
+ {
+   "FIELD1": "1310 LAKESIDE AVE"
+ },
+ {
+   "FIELD1": "1702 LAKESIDE AVE"
+ },
+ {
+   "FIELD1": "10 N LAKEWOOD AVE"
+ },
+ {
+   "FIELD1": "501 N LAKEWOOD AVE"
+ },
+ {
+   "FIELD1": "810 N LAKEWOOD AVE"
+ },
+ {
+   "FIELD1": "818 N LAKEWOOD AVE"
+ },
+ {
+   "FIELD1": "825 N LAKEWOOD AVE"
+ },
+ {
+   "FIELD1": "1309 N LAKEWOOD AVE"
+ },
+ {
+   "FIELD1": "527 S LAKEWOOD AVE"
+ },
+ {
+   "FIELD1": "1619 LANCASTER ST"
+ },
+ {
+   "FIELD1": "1831 LANCASTER ST U# 24"
+ },
+ {
+   "FIELD1": "4812 LANIER AVE"
+ },
+ {
+   "FIELD1": "1237 E LANVALE ST"
+ },
+ {
+   "FIELD1": "1241 E LANVALE ST"
+ },
+ {
+   "FIELD1": "1411 E LANVALE ST"
+ },
+ {
+   "FIELD1": "1422 E LANVALE ST"
+ },
+ {
+   "FIELD1": "1720 E LANVALE ST"
+ },
+ {
+   "FIELD1": "2025 E LANVALE ST"
+ },
+ {
+   "FIELD1": "2026 E LANVALE ST"
+ },
+ {
+   "FIELD1": "2038 E LANVALE ST"
+ },
+ {
+   "FIELD1": "526 W LANVALE ST"
+ },
+ {
+   "FIELD1": "1101 W LANVALE ST U# 8"
+ },
+ {
+   "FIELD1": "1312 W LANVALE ST"
+ },
+ {
+   "FIELD1": "1323 W LANVALE ST"
+ },
+ {
+   "FIELD1": "1919 W LANVALE ST"
+ },
+ {
+   "FIELD1": "2311 W LANVALE ST"
+ },
+ {
+   "FIELD1": "2502 W LANVALE ST"
+ },
+ {
+   "FIELD1": "2508 W LANVALE ST"
+ },
+ {
+   "FIELD1": "2509 W LANVALE ST"
+ },
+ {
+   "FIELD1": "2512 W LANVALE ST"
+ },
+ {
+   "FIELD1": "2534 W LANVALE ST"
+ },
+ {
+   "FIELD1": "3001 W LANVALE ST"
+ },
+ {
+   "FIELD1": "3022 W LANVALE ST"
+ },
+ {
+   "FIELD1": "4447 LAPLATA AVE"
+ },
+ {
+   "FIELD1": "3017 LARUE SQUARE EAST"
+ },
+ {
+   "FIELD1": "1524 LATROBE PARK TERR"
+ },
+ {
+   "FIELD1": "4800 LAUREL AVE"
+ },
+ {
+   "FIELD1": "5105 LAUREL AVE"
+ },
+ {
+   "FIELD1": "5122 LAUREL AVE"
+ },
+ {
+   "FIELD1": "5613 LAURELTON AVE"
+ },
+ {
+   "FIELD1": "6306 LAURELTON AVE"
+ },
+ {
+   "FIELD1": "535 LAURENS ST"
+ },
+ {
+   "FIELD1": "1907 LAURETTA AVE"
+ },
+ {
+   "FIELD1": "2304 LAURETTA AVE"
+ },
+ {
+   "FIELD1": "2306 LAURETTA AVE"
+ },
+ {
+   "FIELD1": "2325 LAURETTA AVE"
+ },
+ {
+   "FIELD1": "2346 LAURETTA AVE"
+ },
+ {
+   "FIELD1": "2417 LAURETTA AVE"
+ },
+ {
+   "FIELD1": "2424 LAURETTA AVE"
+ },
+ {
+   "FIELD1": "2429 LAURETTA AVE"
+ },
+ {
+   "FIELD1": "2435 LAURETTA AVE"
+ },
+ {
+   "FIELD1": "2451 LAURETTA AVE"
+ },
+ {
+   "FIELD1": "2534 LAURETTA AVE"
+ },
+ {
+   "FIELD1": "2537 LAURETTA AVE"
+ },
+ {
+   "FIELD1": "2607 LAURETTA AVE"
+ },
+ {
+   "FIELD1": "2665 LAURETTA AVE"
+ },
+ {
+   "FIELD1": "3107 LAWNVIEW AVE"
+ },
+ {
+   "FIELD1": "3321 LAWNVIEW AVE"
+ },
+ {
+   "FIELD1": "6 W LEE ST U# R64"
+ },
+ {
+   "FIELD1": "3142 LEEDS ST"
+ },
+ {
+   "FIELD1": "3154 LEEDS ST"
+ },
+ {
+   "FIELD1": "3225 LEEDS ST"
+ },
+ {
+   "FIELD1": "3101 LEIGHTON AVE"
+ },
+ {
+   "FIELD1": "3108 LEIGHTON AVE"
+ },
+ {
+   "FIELD1": "5800 LEITH WALK"
+ },
+ {
+   "FIELD1": "5824 LEITH WALK"
+ },
+ {
+   "FIELD1": "604 LENNOX ST"
+ },
+ {
+   "FIELD1": "1008 LENTON AVE"
+ },
+ {
+   "FIELD1": "1908 LETITIA AVE"
+ },
+ {
+   "FIELD1": "2006 LETITIA AVE"
+ },
+ {
+   "FIELD1": "2007 LETITIA AVE"
+ },
+ {
+   "FIELD1": "5111 LEVINDALE ROAD"
+ },
+ {
+   "FIELD1": "5121 LEVINDALE ROAD"
+ },
+ {
+   "FIELD1": "3835 LEWIN AVE"
+ },
+ {
+   "FIELD1": "4025 LEWISTON AVE"
+ },
+ {
+   "FIELD1": "1947 W LEXINGTON ST"
+ },
+ {
+   "FIELD1": "2334 W LEXINGTON ST"
+ },
+ {
+   "FIELD1": "2336 W LEXINGTON ST"
+ },
+ {
+   "FIELD1": "3600 W LEXINGTON ST"
+ },
+ {
+   "FIELD1": "3601 W LEXINGTON ST"
+ },
+ {
+   "FIELD1": "2101 LIBERTY HEIGHTS AVE"
+ },
+ {
+   "FIELD1": "2603 LIBERTY HEIGHTS AVE"
+ },
+ {
+   "FIELD1": "2709 LIBERTY HEIGHTS AVE"
+ },
+ {
+   "FIELD1": "3202 LIBERTY HEIGHTS AVE"
+ },
+ {
+   "FIELD1": "3317 LIBERTY HEIGHTS AVE U# 201"
+ },
+ {
+   "FIELD1": "3425 LIBERTY HEIGHTS AVE"
+ },
+ {
+   "FIELD1": "3510 LIBERTY HEIGHTS AVE"
+ },
+ {
+   "FIELD1": "3535 LIBERTY HEIGHTS AVE"
+ },
+ {
+   "FIELD1": "5118 LIBERTY HEIGHTS AVE"
+ },
+ {
+   "FIELD1": "5303 LIBERTY HEIGHTS AVE"
+ },
+ {
+   "FIELD1": "5322 LIBERTY HEIGHTS AVE"
+ },
+ {
+   "FIELD1": "726 LIGHT ST"
+ },
+ {
+   "FIELD1": "1710 LIGHT ST"
+ },
+ {
+   "FIELD1": "1366 LIMIT AVE"
+ },
+ {
+   "FIELD1": "1369 LIMIT AVE"
+ },
+ {
+   "FIELD1": "5229 LINDEN HEIGHTS AVE"
+ },
+ {
+   "FIELD1": "4914 LINDSAY ROAD"
+ },
+ {
+   "FIELD1": "4928 LINDSAY ROAD"
+ },
+ {
+   "FIELD1": "4936 LINDSAY ROAD"
+ },
+ {
+   "FIELD1": "5008 LINDSAY ROAD"
+ },
+ {
+   "FIELD1": "610 LINNARD ST"
+ },
+ {
+   "FIELD1": "750 LINNARD ST"
+ },
+ {
+   "FIELD1": "103 N LINWOOD AVE"
+ },
+ {
+   "FIELD1": "444 N LINWOOD AVE"
+ },
+ {
+   "FIELD1": "742 N LINWOOD AVE"
+ },
+ {
+   "FIELD1": "826 N LINWOOD AVE"
+ },
+ {
+   "FIELD1": "915 N LINWOOD AVE"
+ },
+ {
+   "FIELD1": "1311 N LINWOOD AVE"
+ },
+ {
+   "FIELD1": "1408 N LINWOOD AVE"
+ },
+ {
+   "FIELD1": "3707 LOCH RAVEN BLVD"
+ },
+ {
+   "FIELD1": "3711 LOCH RAVEN BLVD"
+ },
+ {
+   "FIELD1": "3911 LOCH RAVEN BLVD"
+ },
+ {
+   "FIELD1": "6026 LOCH RAVEN BLVD"
+ },
+ {
+   "FIELD1": "1514 LOCHWOOD ROAD"
+ },
+ {
+   "FIELD1": "1522 LOCHWOOD ROAD"
+ },
+ {
+   "FIELD1": "1526 LOCHWOOD ROAD"
+ },
+ {
+   "FIELD1": "1544 LOCHWOOD ROAD"
+ },
+ {
+   "FIELD1": "1421 LOCUST ST"
+ },
+ {
+   "FIELD1": "2022 E LOMBARD ST"
+ },
+ {
+   "FIELD1": "1410 W LOMBARD ST"
+ },
+ {
+   "FIELD1": "1431 W LOMBARD ST"
+ },
+ {
+   "FIELD1": "1722 W LOMBARD ST"
+ },
+ {
+   "FIELD1": "2103 N LONGWOOD ST"
+ },
+ {
+   "FIELD1": "2510 N LONGWOOD ST"
+ },
+ {
+   "FIELD1": "2518 N LONGWOOD ST"
+ },
+ {
+   "FIELD1": "2608 N LONGWOOD ST"
+ },
+ {
+   "FIELD1": "5323 LOTHIAN ROAD"
+ },
+ {
+   "FIELD1": "416 N LOUDON AVE"
+ },
+ {
+   "FIELD1": "418 N LOUDON AVE"
+ },
+ {
+   "FIELD1": "515 N LOUDON AVE"
+ },
+ {
+   "FIELD1": "2904 N LOUDON AVE"
+ },
+ {
+   "FIELD1": "2916 N LOUDON AVE"
+ },
+ {
+   "FIELD1": "231 S LOUDON AVE"
+ },
+ {
+   "FIELD1": "2107 LOUISE AVE"
+ },
+ {
+   "FIELD1": "2210 LOUISE AVE"
+ },
+ {
+   "FIELD1": "2718 LOUISE AVE"
+ },
+ {
+   "FIELD1": "2820 LOUISE AVE"
+ },
+ {
+   "FIELD1": "2508 LOYOLA SOUTHWAY"
+ },
+ {
+   "FIELD1": "2511 LOYOLA SOUTHWAY"
+ },
+ {
+   "FIELD1": "580 LUCIA AVE"
+ },
+ {
+   "FIELD1": "611 LUCIA AVE"
+ },
+ {
+   "FIELD1": "614 LUCIA AVE"
+ },
+ {
+   "FIELD1": "621 LUCIA AVE"
+ },
+ {
+   "FIELD1": "633 LUCIA AVE"
+ },
+ {
+   "FIELD1": "3414 LUDGATE ROAD"
+ },
+ {
+   "FIELD1": "4503 LUERSSEN AVE"
+ },
+ {
+   "FIELD1": "20 N LUZERNE AVE"
+ },
+ {
+   "FIELD1": "1050 N LUZERNE AVE"
+ },
+ {
+   "FIELD1": "1304 N LUZERNE AVE"
+ },
+ {
+   "FIELD1": "1315 N LUZERNE AVE"
+ },
+ {
+   "FIELD1": "1809 LYDONLEA WAY"
+ },
+ {
+   "FIELD1": "3509 LYNCHESTER ROAD"
+ },
+ {
+   "FIELD1": "3515 LYNCHESTER ROAD"
+ },
+ {
+   "FIELD1": "3534 LYNCHESTER ROAD"
+ },
+ {
+   "FIELD1": "3538 LYNCHESTER ROAD"
+ },
+ {
+   "FIELD1": "3216 LYNDALE AVE"
+ },
+ {
+   "FIELD1": "3317 LYNDALE AVE"
+ },
+ {
+   "FIELD1": "3318 LYNDALE AVE"
+ },
+ {
+   "FIELD1": "3425 LYNDALE AVE"
+ },
+ {
+   "FIELD1": "3443 LYNDALE AVE"
+ },
+ {
+   "FIELD1": "3830 LYNDALE AVE"
+ },
+ {
+   "FIELD1": "3856 LYNDALE AVE"
+ },
+ {
+   "FIELD1": "4005 LYNDALE AVE"
+ },
+ {
+   "FIELD1": "2115 LYNDHURST AVE"
+ },
+ {
+   "FIELD1": "407 LYNDHURST ST"
+ },
+ {
+   "FIELD1": "412 LYNDHURST ST"
+ },
+ {
+   "FIELD1": "414 LYNDHURST ST"
+ },
+ {
+   "FIELD1": "509 LYNDHURST ST"
+ },
+ {
+   "FIELD1": "917 LYNDHURST ST"
+ },
+ {
+   "FIELD1": "1102 LYNDHURST ST"
+ },
+ {
+   "FIELD1": "1108 LYNDHURST ST"
+ },
+ {
+   "FIELD1": "5426 LYNVIEW AVE"
+ },
+ {
+   "FIELD1": "5442 LYNVIEW AVE"
+ },
+ {
+   "FIELD1": "3009 LYTTLETON ROAD"
+ },
+ {
+   "FIELD1": "3511 MACTAVISH AVE"
+ },
+ {
+   "FIELD1": "3630 MACTAVISH AVE"
+ },
+ {
+   "FIELD1": "3807 MACTAVISH AVE"
+ },
+ {
+   "FIELD1": "720 N MADEIRA ST"
+ },
+ {
+   "FIELD1": "510 S MADEIRA ST"
+ },
+ {
+   "FIELD1": "1419 MADISON AVE"
+ },
+ {
+   "FIELD1": "1908 MADISON AVE"
+ },
+ {
+   "FIELD1": "2011 MADISON AVE"
+ },
+ {
+   "FIELD1": "2321 MADISON AVE"
+ },
+ {
+   "FIELD1": "2512 MADISON AVE"
+ },
+ {
+   "FIELD1": "2522 MADISON AVE"
+ },
+ {
+   "FIELD1": "2508 E MADISON ST"
+ },
+ {
+   "FIELD1": "2515 E MADISON ST"
+ },
+ {
+   "FIELD1": "2517 E MADISON ST"
+ },
+ {
+   "FIELD1": "2613 E MADISON ST"
+ },
+ {
+   "FIELD1": "3912 MAINE AVE"
+ },
+ {
+   "FIELD1": "4105 MAINE AVE"
+ },
+ {
+   "FIELD1": "2703 MAISEL ST"
+ },
+ {
+   "FIELD1": "16 MALLOW HILL ROAD"
+ },
+ {
+   "FIELD1": "220 MALLOW HILL ROAD"
+ },
+ {
+   "FIELD1": "1700 MALVERN ST"
+ },
+ {
+   "FIELD1": "3606 MANCHESTER AVE"
+ },
+ {
+   "FIELD1": "3713 MANCHESTER AVE"
+ },
+ {
+   "FIELD1": "3005 MANHATTAN AVE"
+ },
+ {
+   "FIELD1": "4501 MANNASOTA AVE"
+ },
+ {
+   "FIELD1": "6032 MANNINGTON AVE"
+ },
+ {
+   "FIELD1": "4417 MANORVIEW ROAD"
+ },
+ {
+   "FIELD1": "5319 MAPLE AVE"
+ },
+ {
+   "FIELD1": "6604 MAPLE AVE"
+ },
+ {
+   "FIELD1": "5722 MAPLEHILL ROAD"
+ },
+ {
+   "FIELD1": "5748 MAPLEHILL ROAD"
+ },
+ {
+   "FIELD1": "4609 MARBLE HALL ROAD"
+ },
+ {
+   "FIELD1": "4616 MARBLE HALL ROAD"
+ },
+ {
+   "FIELD1": "4627 MARBLE HALL ROAD"
+ },
+ {
+   "FIELD1": "4644 MARBLE HALL ROAD"
+ },
+ {
+   "FIELD1": "2534 MARBOURNE AVE"
+ },
+ {
+   "FIELD1": "604 MARKHAM ROAD"
+ },
+ {
+   "FIELD1": "626 MARKHAM ROAD"
+ },
+ {
+   "FIELD1": "3617 MARMON AVE"
+ },
+ {
+   "FIELD1": "3713 MARMON AVE"
+ },
+ {
+   "FIELD1": "307 MARTINGALE AVE"
+ },
+ {
+   "FIELD1": "355 MARTINGALE AVE"
+ },
+ {
+   "FIELD1": "4006 MARX AVE"
+ },
+ {
+   "FIELD1": "3205 MASSACHUSETTS AVE"
+ },
+ {
+   "FIELD1": "4214 MASSACHUSETTS AVE"
+ },
+ {
+   "FIELD1": "612 MAUDE AVE"
+ },
+ {
+   "FIELD1": "3009 MAYFIELD AVE"
+ },
+ {
+   "FIELD1": "3049 MAYFIELD AVE"
+ },
+ {
+   "FIELD1": "3405 MAYFIELD AVE"
+ },
+ {
+   "FIELD1": "3427 MAYFIELD AVE"
+ },
+ {
+   "FIELD1": "6114 MAYWOOD AVE"
+ },
+ {
+   "FIELD1": "505 MCCABE AVE"
+ },
+ {
+   "FIELD1": "506 MCCABE AVE"
+ },
+ {
+   "FIELD1": "745 MCCABE AVE"
+ },
+ {
+   "FIELD1": "6201 MCCLEAN BLVD"
+ },
+ {
+   "FIELD1": "1422 MCCULLOH ST"
+ },
+ {
+   "FIELD1": "1728 MCCULLOH ST"
+ },
+ {
+   "FIELD1": "2939 MCELDERRY ST"
+ },
+ {
+   "FIELD1": "3121 MCELDERRY ST"
+ },
+ {
+   "FIELD1": "1308 MCHENRY ST"
+ },
+ {
+   "FIELD1": "1626 MCHENRY ST"
+ },
+ {
+   "FIELD1": "1110 MCKEAN AVE"
+ },
+ {
+   "FIELD1": "1112 MCKEAN AVE"
+ },
+ {
+   "FIELD1": "1119 MCKEAN AVE"
+ },
+ {
+   "FIELD1": "1913 MCKEAN AVE"
+ },
+ {
+   "FIELD1": "1327 MEDFIELD AVE"
+ },
+ {
+   "FIELD1": "1506 MEDFORD ROAD"
+ },
+ {
+   "FIELD1": "1530 MEDFORD ROAD"
+ },
+ {
+   "FIELD1": "3315 MENLO DR"
+ },
+ {
+   "FIELD1": "1262 MERIDENE DR"
+ },
+ {
+   "FIELD1": "1339 MERIDENE DR"
+ },
+ {
+   "FIELD1": "1422 MERIDENE DR"
+ },
+ {
+   "FIELD1": "3800 MIDHEIGHTS ROAD"
+ },
+ {
+   "FIELD1": "3814 MIDHEIGHTS ROAD"
+ },
+ {
+   "FIELD1": "4821 MIDLINE ROAD"
+ },
+ {
+   "FIELD1": "4830 MIDLINE ROAD"
+ },
+ {
+   "FIELD1": "4815 MIDWOOD AVE"
+ },
+ {
+   "FIELD1": "4819 MIDWOOD AVE"
+ },
+ {
+   "FIELD1": "4909 MIDWOOD AVE"
+ },
+ {
+   "FIELD1": "5215 MIDWOOD AVE"
+ },
+ {
+   "FIELD1": "5317 MIDWOOD AVE"
+ },
+ {
+   "FIELD1": "5332 MIDWOOD AVE"
+ },
+ {
+   "FIELD1": "2702 MILES AVE"
+ },
+ {
+   "FIELD1": "2937 MILES AVE"
+ },
+ {
+   "FIELD1": "3009 MILFORD AVE"
+ },
+ {
+   "FIELD1": "3127 MILFORD AVE"
+ },
+ {
+   "FIELD1": "3503 MILFORD AVE"
+ },
+ {
+   "FIELD1": "3615 MILFORD AVE"
+ },
+ {
+   "FIELD1": "3816 MILFORD AVE"
+ },
+ {
+   "FIELD1": "116 N MILTON AVE"
+ },
+ {
+   "FIELD1": "125 N MILTON AVE"
+ },
+ {
+   "FIELD1": "221 N MILTON AVE"
+ },
+ {
+   "FIELD1": "235 N MILTON AVE"
+ },
+ {
+   "FIELD1": "502 N MILTON AVE"
+ },
+ {
+   "FIELD1": "538 N MILTON AVE"
+ },
+ {
+   "FIELD1": "1436 N MILTON AVE"
+ },
+ {
+   "FIELD1": "1523 N MILTON AVE"
+ },
+ {
+   "FIELD1": "1649 N MILTON AVE"
+ },
+ {
+   "FIELD1": "1817 N MILTON AVE"
+ },
+ {
+   "FIELD1": "3810 MOHAWK AVE"
+ },
+ {
+   "FIELD1": "11 N MONASTERY AVE"
+ },
+ {
+   "FIELD1": "30 N MONASTERY AVE"
+ },
+ {
+   "FIELD1": "32 N MONASTERY AVE"
+ },
+ {
+   "FIELD1": "108 N MONASTERY AVE"
+ },
+ {
+   "FIELD1": "120 N MONASTERY AVE"
+ },
+ {
+   "FIELD1": "2 S MONASTERY AVE"
+ },
+ {
+   "FIELD1": "115 S MONASTERY AVE"
+ },
+ {
+   "FIELD1": "125 S MONASTERY AVE"
+ },
+ {
+   "FIELD1": "163 S MONASTERY AVE"
+ },
+ {
+   "FIELD1": "3026 MONDAWMIN AVE"
+ },
+ {
+   "FIELD1": "3030 MONDAWMIN AVE"
+ },
+ {
+   "FIELD1": "3205 MONDAWMIN AVE"
+ },
+ {
+   "FIELD1": "3321 MONDAWMIN AVE"
+ },
+ {
+   "FIELD1": "3329 MONDAWMIN AVE"
+ },
+ {
+   "FIELD1": "3332 MONDAWMIN AVE"
+ },
+ {
+   "FIELD1": "3418 MONDAWMIN AVE"
+ },
+ {
+   "FIELD1": "1149 MONROE CIR"
+ },
+ {
+   "FIELD1": "1156 MONROE CIR"
+ },
+ {
+   "FIELD1": "217 N MONROE ST"
+ },
+ {
+   "FIELD1": "220 N MONROE ST"
+ },
+ {
+   "FIELD1": "316 N MONROE ST"
+ },
+ {
+   "FIELD1": "318 N MONROE ST"
+ },
+ {
+   "FIELD1": "810 N MONROE ST"
+ },
+ {
+   "FIELD1": "1604 N MONROE ST"
+ },
+ {
+   "FIELD1": "2340 N MONROE ST"
+ },
+ {
+   "FIELD1": "4111 MONTANA AVE"
+ },
+ {
+   "FIELD1": "2343 MONTEBELLO TERR"
+ },
+ {
+   "FIELD1": "2400 MONTEBELLO TERR"
+ },
+ {
+   "FIELD1": "2407 MONTEBELLO TERR"
+ },
+ {
+   "FIELD1": "2501 MONTEBELLO TERR"
+ },
+ {
+   "FIELD1": "2503 MONTEBELLO TERR"
+ },
+ {
+   "FIELD1": "2824 MONTEBELLO TERR"
+ },
+ {
+   "FIELD1": "2911 MONTEBELLO TERR"
+ },
+ {
+   "FIELD1": "3204 MONTEBELLO TERR"
+ },
+ {
+   "FIELD1": "3714 MONTEREY ROAD"
+ },
+ {
+   "FIELD1": "3718 MONTEREY ROAD"
+ },
+ {
+   "FIELD1": "3830 MONTEREY ROAD"
+ },
+ {
+   "FIELD1": "841 S MONTFORD AVE"
+ },
+ {
+   "FIELD1": "108 W MONTGOMERY ST"
+ },
+ {
+   "FIELD1": "2221 MONTICELLO ROAD"
+ },
+ {
+   "FIELD1": "2310 MONTICELLO ROAD"
+ },
+ {
+   "FIELD1": "2313 MONTICELLO ROAD"
+ },
+ {
+   "FIELD1": "1116 MONTPELIER ST"
+ },
+ {
+   "FIELD1": "1427 MONTPELIER ST"
+ },
+ {
+   "FIELD1": "1515 MONTPELIER ST"
+ },
+ {
+   "FIELD1": "1541 MONTPELIER ST"
+ },
+ {
+   "FIELD1": "1644 MONTPELIER ST"
+ },
+ {
+   "FIELD1": "2907 E MONUMENT ST"
+ },
+ {
+   "FIELD1": "5479 MOORES RUN DR"
+ },
+ {
+   "FIELD1": "3213 MORAVIA ROAD"
+ },
+ {
+   "FIELD1": "5409 MORAVIA ROAD"
+ },
+ {
+   "FIELD1": "5613 MORAVIA ROAD"
+ },
+ {
+   "FIELD1": "5703 MORAVIA ROAD"
+ },
+ {
+   "FIELD1": "5719 MORAVIA ROAD"
+ },
+ {
+   "FIELD1": "5731 MORAVIA ROAD"
+ },
+ {
+   "FIELD1": "1508 MORELAND AVE"
+ },
+ {
+   "FIELD1": "1528 MORELAND AVE"
+ },
+ {
+   "FIELD1": "5308 MORELLO ROAD"
+ },
+ {
+   "FIELD1": "16 N MORLEY ST"
+ },
+ {
+   "FIELD1": "27 N MORLEY ST"
+ },
+ {
+   "FIELD1": "38 S MORLEY ST"
+ },
+ {
+   "FIELD1": "156 S MORLEY ST"
+ },
+ {
+   "FIELD1": "4201 MORRISON CT"
+ },
+ {
+   "FIELD1": "3911 MORTIMER AVE"
+ },
+ {
+   "FIELD1": "4009 MORTIMER AVE"
+ },
+ {
+   "FIELD1": "549 MOSHER ST"
+ },
+ {
+   "FIELD1": "1215 MOSHER ST"
+ },
+ {
+   "FIELD1": "1308 MOSHER ST"
+ },
+ {
+   "FIELD1": "2535 MOSHER ST"
+ },
+ {
+   "FIELD1": "2709 MOSHER ST"
+ },
+ {
+   "FIELD1": "2815 MOSHER ST"
+ },
+ {
+   "FIELD1": "2911 MOSHER ST"
+ },
+ {
+   "FIELD1": "2923 MOSHER ST"
+ },
+ {
+   "FIELD1": "6216 MOSSWAY"
+ },
+ {
+   "FIELD1": "209 MOUNT HOLLY ST"
+ },
+ {
+   "FIELD1": "218 MOUNT HOLLY ST"
+ },
+ {
+   "FIELD1": "309 MOUNT HOLLY ST"
+ },
+ {
+   "FIELD1": "311 MOUNT HOLLY ST"
+ },
+ {
+   "FIELD1": "417 MOUNT HOLLY ST"
+ },
+ {
+   "FIELD1": "503 MOUNT HOLLY ST"
+ },
+ {
+   "FIELD1": "514 MOUNT HOLLY ST"
+ },
+ {
+   "FIELD1": "715 MOUNT HOLLY ST"
+ },
+ {
+   "FIELD1": "716 MOUNT HOLLY ST"
+ },
+ {
+   "FIELD1": "724 MOUNT HOLLY ST"
+ },
+ {
+   "FIELD1": "732 MOUNT HOLLY ST"
+ },
+ {
+   "FIELD1": "828 MOUNT HOLLY ST"
+ },
+ {
+   "FIELD1": "1011 MOUNT HOLLY ST"
+ },
+ {
+   "FIELD1": "1019 MOUNT HOLLY ST"
+ },
+ {
+   "FIELD1": "2123 MOUNT HOLLY ST"
+ },
+ {
+   "FIELD1": "2141 MOUNT HOLLY ST"
+ },
+ {
+   "FIELD1": "2143 MOUNT HOLLY ST"
+ },
+ {
+   "FIELD1": "6 N MOUNT OLIVET LANE"
+ },
+ {
+   "FIELD1": "102 N MOUNT OLIVET LANE"
+ },
+ {
+   "FIELD1": "6 S MOUNT OLIVET LANE"
+ },
+ {
+   "FIELD1": "2212 MOUNT ROYAL TERR"
+ },
+ {
+   "FIELD1": "214 N MOUNT ST"
+ },
+ {
+   "FIELD1": "1153 N MOUNT ST"
+ },
+ {
+   "FIELD1": "4100 MOUNTWOOD ROAD"
+ },
+ {
+   "FIELD1": "4106 MOUNTWOOD ROAD"
+ },
+ {
+   "FIELD1": "4110 MOUNTWOOD ROAD"
+ },
+ {
+   "FIELD1": "1519 W MULBERRY ST"
+ },
+ {
+   "FIELD1": "2103 W MULBERRY ST"
+ },
+ {
+   "FIELD1": "2805 W MULBERRY ST"
+ },
+ {
+   "FIELD1": "3406 W MULBERRY ST"
+ },
+ {
+   "FIELD1": "3909 W MULBERRY ST"
+ },
+ {
+   "FIELD1": "2625 MURA ST"
+ },
+ {
+   "FIELD1": "2723 MURA ST"
+ },
+ {
+   "FIELD1": "2725 MURA ST"
+ },
+ {
+   "FIELD1": "2742 MURA ST"
+ },
+ {
+   "FIELD1": "1406 MYRTLE AVE"
+ },
+ {
+   "FIELD1": "5404 NARCISSUS AVE"
+ },
+ {
+   "FIELD1": "5310 NELSON AVE"
+ },
+ {
+   "FIELD1": "5405 NELSON AVE"
+ },
+ {
+   "FIELD1": "5413 NELSON AVE"
+ },
+ {
+   "FIELD1": "5433 NELSON AVE"
+ },
+ {
+   "FIELD1": "5436 NELSON AVE"
+ },
+ {
+   "FIELD1": "5440 NELSON AVE"
+ },
+ {
+   "FIELD1": "2454 NEVADA ST"
+ },
+ {
+   "FIELD1": "2464 NEVADA ST"
+ },
+ {
+   "FIELD1": "5701 NEWHOLME AVE"
+ },
+ {
+   "FIELD1": "500 S NEWKIRK ST"
+ },
+ {
+   "FIELD1": "441 NICOLL AVE U# 8"
+ },
+ {
+   "FIELD1": "3415 NOBLE ST"
+ },
+ {
+   "FIELD1": "5524 NOME AVE"
+ },
+ {
+   "FIELD1": "2916 NORFOLK AVE"
+ },
+ {
+   "FIELD1": "2919 NORFOLK AVE"
+ },
+ {
+   "FIELD1": "3813 NORFOLK AVE"
+ },
+ {
+   "FIELD1": "3906 NORFOLK AVE"
+ },
+ {
+   "FIELD1": "4112 NORFOLK AVE"
+ },
+ {
+   "FIELD1": "4113 NORFOLK AVE"
+ },
+ {
+   "FIELD1": "4126 NORFOLK AVE"
+ },
+ {
+   "FIELD1": "4217 NORFOLK AVE"
+ },
+ {
+   "FIELD1": "4236 NORFOLK AVE"
+ },
+ {
+   "FIELD1": "4401 NORFOLK AVE"
+ },
+ {
+   "FIELD1": "4503 NORFOLK AVE"
+ },
+ {
+   "FIELD1": "4505 NORFOLK AVE"
+ },
+ {
+   "FIELD1": "4603 NORFOLK AVE"
+ },
+ {
+   "FIELD1": "1625 NORMAL AVE"
+ },
+ {
+   "FIELD1": "407 NORMANDY AVE"
+ },
+ {
+   "FIELD1": "3129 NORMOUNT AVE"
+ },
+ {
+   "FIELD1": "3221 NORMOUNT AVE"
+ },
+ {
+   "FIELD1": "706 E NORTH AVE"
+ },
+ {
+   "FIELD1": "1944 W NORTH AVE"
+ },
+ {
+   "FIELD1": "2826 W NORTH AVE"
+ },
+ {
+   "FIELD1": "2845 W NORTH AVE"
+ },
+ {
+   "FIELD1": "501 NORTH BEND ROAD"
+ },
+ {
+   "FIELD1": "905 NORTH HILL ROAD"
+ },
+ {
+   "FIELD1": "962 NORTH HILL ROAD"
+ },
+ {
+   "FIELD1": "981 NORTH HILL ROAD"
+ },
+ {
+   "FIELD1": "1624 NORTHBOURNE ROAD"
+ },
+ {
+   "FIELD1": "1633 NORTHBOURNE ROAD"
+ },
+ {
+   "FIELD1": "1804 NORTHBOURNE ROAD"
+ },
+ {
+   "FIELD1": "2000 NORTHBOURNE ROAD"
+ },
+ {
+   "FIELD1": "1023 E NORTHERN PKWY"
+ },
+ {
+   "FIELD1": "1179 E NORTHERN PKWY"
+ },
+ {
+   "FIELD1": "1181 E NORTHERN PKWY"
+ },
+ {
+   "FIELD1": "1327 E NORTHERN PKWY"
+ },
+ {
+   "FIELD1": "3013 E NORTHERN PKWY"
+ },
+ {
+   "FIELD1": "3102 E NORTHERN PKWY"
+ },
+ {
+   "FIELD1": "3502 E NORTHERN PKWY"
+ },
+ {
+   "FIELD1": "300 NORTHFIELD PL"
+ },
+ {
+   "FIELD1": "1507 NORTHGATE ROAD"
+ },
+ {
+   "FIELD1": "1510 NORTHGATE ROAD"
+ },
+ {
+   "FIELD1": "1616 NORTHGATE ROAD"
+ },
+ {
+   "FIELD1": "1619 NORTHGATE ROAD"
+ },
+ {
+   "FIELD1": "1625 NORTHGATE ROAD"
+ },
+ {
+   "FIELD1": "1211 NORTHVIEW ROAD"
+ },
+ {
+   "FIELD1": "3242 NORTHWAY DR"
+ },
+ {
+   "FIELD1": "1514 NORTHWICK ROAD"
+ },
+ {
+   "FIELD1": "1528 NORTHWICK ROAD"
+ },
+ {
+   "FIELD1": "1543 NORTHWICK ROAD"
+ },
+ {
+   "FIELD1": "1647 NORTHWICK ROAD"
+ },
+ {
+   "FIELD1": "4515 NORTHWOOD DR"
+ },
+ {
+   "FIELD1": "4519 NORTHWOOD DR"
+ },
+ {
+   "FIELD1": "4537 NORTHWOOD DR"
+ },
+ {
+   "FIELD1": "4627 NORTHWOOD DR"
+ },
+ {
+   "FIELD1": "5424 NORTHWOOD DR"
+ },
+ {
+   "FIELD1": "5504 NORTHWOOD DR"
+ },
+ {
+   "FIELD1": "5702 NORTHWOOD DR"
+ },
+ {
+   "FIELD1": "5932 NORTHWOOD DR"
+ },
+ {
+   "FIELD1": "6102 NORTHWOOD DR"
+ },
+ {
+   "FIELD1": "3743 NORTONIA ROAD"
+ },
+ {
+   "FIELD1": "4707 NORWOOD AVE"
+ },
+ {
+   "FIELD1": "5503 NORWOOD AVE"
+ },
+ {
+   "FIELD1": "5519 NORWOOD AVE"
+ },
+ {
+   "FIELD1": "5110 NORWOOD ROAD"
+ },
+ {
+   "FIELD1": "3112 O'DONNELL ST"
+ },
+ {
+   "FIELD1": "6448 O'DONNELL ST"
+ },
+ {
+   "FIELD1": "2916 OAK HILL AVE"
+ },
+ {
+   "FIELD1": "3019 OAKCREST AVE"
+ },
+ {
+   "FIELD1": "192 OAKDALE ROAD"
+ },
+ {
+   "FIELD1": "198 OAKDALE ROAD"
+ },
+ {
+   "FIELD1": "2832 OAKFORD AVE"
+ },
+ {
+   "FIELD1": "2916 OAKFORD AVE"
+ },
+ {
+   "FIELD1": "2926 OAKFORD AVE"
+ },
+ {
+   "FIELD1": "3008 OAKFORD AVE"
+ },
+ {
+   "FIELD1": "3954 OAKFORD AVE"
+ },
+ {
+   "FIELD1": "4202 OAKFORD AVE"
+ },
+ {
+   "FIELD1": "4211 OAKFORD AVE"
+ },
+ {
+   "FIELD1": "1225 OAKHURST PL"
+ },
+ {
+   "FIELD1": "509 OAKLAND AVE"
+ },
+ {
+   "FIELD1": "2511 OAKLEY AVE"
+ },
+ {
+   "FIELD1": "2842 OAKLEY AVE"
+ },
+ {
+   "FIELD1": "2902 OAKLEY AVE"
+ },
+ {
+   "FIELD1": "3500 OAKMONT AVE"
+ },
+ {
+   "FIELD1": "2324 OCALA AVE"
+ },
+ {
+   "FIELD1": "1303 W OLD COLD SPRING LANE"
+ },
+ {
+   "FIELD1": "3447 OLD FREDERICK ROAD"
+ },
+ {
+   "FIELD1": "3704 OLD FREDERICK ROAD"
+ },
+ {
+   "FIELD1": "4107 OLD FREDERICK ROAD"
+ },
+ {
+   "FIELD1": "4223 OLD FREDERICK ROAD"
+ },
+ {
+   "FIELD1": "4233 OLD FREDERICK ROAD"
+ },
+ {
+   "FIELD1": "4433 OLD FREDERICK ROAD"
+ },
+ {
+   "FIELD1": "4437 OLD FREDERICK ROAD"
+ },
+ {
+   "FIELD1": "4459 OLD FREDERICK ROAD"
+ },
+ {
+   "FIELD1": "6605 OLD HARFORD ROAD"
+ },
+ {
+   "FIELD1": "3508 OLD YORK ROAD"
+ },
+ {
+   "FIELD1": "3513 OLD YORK ROAD"
+ },
+ {
+   "FIELD1": "4403 OLD YORK ROAD"
+ },
+ {
+   "FIELD1": "4423 OLD YORK ROAD"
+ },
+ {
+   "FIELD1": "4435 OLD YORK ROAD"
+ },
+ {
+   "FIELD1": "4704 OLD YORK ROAD"
+ },
+ {
+   "FIELD1": "4705 OLD YORK ROAD"
+ },
+ {
+   "FIELD1": "4800 OLD YORK ROAD"
+ },
+ {
+   "FIELD1": "624 OLDHAM ST"
+ },
+ {
+   "FIELD1": "921 OLDHAM ST"
+ },
+ {
+   "FIELD1": "1231 E OLIVER ST"
+ },
+ {
+   "FIELD1": "1504 E OLIVER ST"
+ },
+ {
+   "FIELD1": "1746 E OLIVER ST"
+ },
+ {
+   "FIELD1": "5713 ONNEN ROAD"
+ },
+ {
+   "FIELD1": "602 ORKNEY ROAD"
+ },
+ {
+   "FIELD1": "3101 ORLANDO AVE"
+ },
+ {
+   "FIELD1": "3404 ORLANDO AVE"
+ },
+ {
+   "FIELD1": "137 W OSTEND ST"
+ },
+ {
+   "FIELD1": "2805 OSWEGO AVE"
+ },
+ {
+   "FIELD1": "5202 OVERCREST AVE"
+ },
+ {
+   "FIELD1": "2807 OVERLAND AVE"
+ },
+ {
+   "FIELD1": "3705 OVERVIEW ROAD"
+ },
+ {
+   "FIELD1": "3713 OVERVIEW ROAD"
+ },
+ {
+   "FIELD1": "3720 OVERVIEW ROAD"
+ },
+ {
+   "FIELD1": "3721 OVERVIEW ROAD"
+ },
+ {
+   "FIELD1": "3725 OVERVIEW ROAD"
+ },
+ {
+   "FIELD1": "3728 OVERVIEW ROAD"
+ },
+ {
+   "FIELD1": "3731 OVERVIEW ROAD"
+ },
+ {
+   "FIELD1": "3732 OVERVIEW ROAD"
+ },
+ {
+   "FIELD1": "2531 S PACA ST"
+ },
+ {
+   "FIELD1": "2617 S PACA ST"
+ },
+ {
+   "FIELD1": "3329 PAINE ST"
+ },
+ {
+   "FIELD1": "4438 PALL MALL ROAD"
+ },
+ {
+   "FIELD1": "135 PALORMO AVE"
+ },
+ {
+   "FIELD1": "845 PARK AVE"
+ },
+ {
+   "FIELD1": "2120 PARK AVE"
+ },
+ {
+   "FIELD1": "2208 PARK AVE"
+ },
+ {
+   "FIELD1": "3436 PARK HEIGHTS AVE"
+ },
+ {
+   "FIELD1": "3726 PARK HEIGHTS AVE"
+ },
+ {
+   "FIELD1": "6414 PARK HEIGHTS AVE U# B4"
+ },
+ {
+   "FIELD1": "6611 PARK HEIGHTS AVE"
+ },
+ {
+   "FIELD1": "6701 PARK HEIGHTS AVE U# 2E"
+ },
+ {
+   "FIELD1": "2517 PARK HEIGHTS TERR"
+ },
+ {
+   "FIELD1": "1633 PARKMAN AVE"
+ },
+ {
+   "FIELD1": "1635 PARKMAN AVE"
+ },
+ {
+   "FIELD1": "3801 PARKSIDE DR"
+ },
+ {
+   "FIELD1": "3806 PARKSIDE DR"
+ },
+ {
+   "FIELD1": "515 PARKSLEY AVE"
+ },
+ {
+   "FIELD1": "2134 PARKSLEY AVE"
+ },
+ {
+   "FIELD1": "2732 PARKWOOD AVE"
+ },
+ {
+   "FIELD1": "1225 N PARRISH ST"
+ },
+ {
+   "FIELD1": "406 S PARRISH ST"
+ },
+ {
+   "FIELD1": "715 E PATAPSCO AVE"
+ },
+ {
+   "FIELD1": "2409 W PATAPSCO AVE"
+ },
+ {
+   "FIELD1": "1426 PATAPSCO ST"
+ },
+ {
+   "FIELD1": "1515 N PATTERSON PARK AVE"
+ },
+ {
+   "FIELD1": "115 N PAYSON ST"
+ },
+ {
+   "FIELD1": "706 N PAYSON ST"
+ },
+ {
+   "FIELD1": "1012 N PAYSON ST"
+ },
+ {
+   "FIELD1": "1511 N PAYSON ST"
+ },
+ {
+   "FIELD1": "1516 N PAYSON ST"
+ },
+ {
+   "FIELD1": "1635 N PAYSON ST"
+ },
+ {
+   "FIELD1": "1730 N PAYSON ST"
+ },
+ {
+   "FIELD1": "1921 N PAYSON ST"
+ },
+ {
+   "FIELD1": "2 S PAYSON ST"
+ },
+ {
+   "FIELD1": "5305 PEERLESS AVE"
+ },
+ {
+   "FIELD1": "2204 PELHAM AVE"
+ },
+ {
+   "FIELD1": "2208 PELHAM AVE"
+ },
+ {
+   "FIELD1": "2235 PELHAM AVE"
+ },
+ {
+   "FIELD1": "2873 PELHAM AVE"
+ },
+ {
+   "FIELD1": "3006 PELHAM AVE"
+ },
+ {
+   "FIELD1": "3534 PELHAM AVE"
+ },
+ {
+   "FIELD1": "5004 PEMBRIDGE AVE"
+ },
+ {
+   "FIELD1": "5024 PEMBRIDGE AVE"
+ },
+ {
+   "FIELD1": "5109 PEMBRIDGE AVE"
+ },
+ {
+   "FIELD1": "5115 PEMBRIDGE AVE"
+ },
+ {
+   "FIELD1": "5121 PEMBROKE AVE"
+ },
+ {
+   "FIELD1": "4413 PEN LUCY ROAD"
+ },
+ {
+   "FIELD1": "4423 PEN LUCY ROAD"
+ },
+ {
+   "FIELD1": "4512 PEN LUCY ROAD"
+ },
+ {
+   "FIELD1": "3814 PENHURST AVE"
+ },
+ {
+   "FIELD1": "3817 PENHURST AVE"
+ },
+ {
+   "FIELD1": "4121 PENHURST AVE"
+ },
+ {
+   "FIELD1": "4400 PENHURST AVE"
+ },
+ {
+   "FIELD1": "4505 PENHURST AVE"
+ },
+ {
+   "FIELD1": "4932 PENNINGTON AVE"
+ },
+ {
+   "FIELD1": "1502 PENROSE AVE"
+ },
+ {
+   "FIELD1": "2132 PENROSE AVE"
+ },
+ {
+   "FIELD1": "2143 PENROSE AVE"
+ },
+ {
+   "FIELD1": "2209 PENROSE AVE"
+ },
+ {
+   "FIELD1": "2218 PENROSE AVE"
+ },
+ {
+   "FIELD1": "1304 PENTRIDGE ROAD"
+ },
+ {
+   "FIELD1": "1325 PENTRIDGE ROAD"
+ },
+ {
+   "FIELD1": "1353 PENTRIDGE ROAD"
+ },
+ {
+   "FIELD1": "1355 PENTRIDGE ROAD"
+ },
+ {
+   "FIELD1": "1332 PENTWOOD ROAD"
+ },
+ {
+   "FIELD1": "1335 PENTWOOD ROAD"
+ },
+ {
+   "FIELD1": "1342 PENTWOOD ROAD"
+ },
+ {
+   "FIELD1": "1369 PENTWOOD ROAD"
+ },
+ {
+   "FIELD1": "1512 PENTWOOD ROAD"
+ },
+ {
+   "FIELD1": "1624 PENTWOOD ROAD"
+ },
+ {
+   "FIELD1": "3200 PHELPS LANE"
+ },
+ {
+   "FIELD1": "3403 PIEDMONT AVE"
+ },
+ {
+   "FIELD1": "4707 PILGRIM ROAD"
+ },
+ {
+   "FIELD1": "4715 PILGRIM ROAD"
+ },
+ {
+   "FIELD1": "4903 PILGRIM ROAD"
+ },
+ {
+   "FIELD1": "6217 PILGRIM ROAD"
+ },
+ {
+   "FIELD1": "6222 PILGRIM ROAD"
+ },
+ {
+   "FIELD1": "6227 PILGRIM ROAD"
+ },
+ {
+   "FIELD1": "4015 PIMLICO ROAD"
+ },
+ {
+   "FIELD1": "4526 PIMLICO ROAD"
+ },
+ {
+   "FIELD1": "1039 PINE HEIGHTS AVE"
+ },
+ {
+   "FIELD1": "2826 PINEWOOD AVE"
+ },
+ {
+   "FIELD1": "2911 PINEWOOD AVE"
+ },
+ {
+   "FIELD1": "5607 PIONEER DR"
+ },
+ {
+   "FIELD1": "5643 PIONEER DR"
+ },
+ {
+   "FIELD1": "407 PITMAN PL"
+ },
+ {
+   "FIELD1": "4326 PLAINFIELD AVE"
+ },
+ {
+   "FIELD1": "5312 - 5314 PLAINFIELD AVE"
+ },
+ {
+   "FIELD1": "3504 PLATEAU AVE"
+ },
+ {
+   "FIELD1": "3612 PLATEAU AVE"
+ },
+ {
+   "FIELD1": "4813 PLEASANT VIEW AVE"
+ },
+ {
+   "FIELD1": "4817 PLEASANT VIEW AVE"
+ },
+ {
+   "FIELD1": "5012 PLYMOUTH ROAD"
+ },
+ {
+   "FIELD1": "5033 PLYMOUTH ROAD"
+ },
+ {
+   "FIELD1": "6208 PLYMOUTH ROAD"
+ },
+ {
+   "FIELD1": "6209 PLYMOUTH ROAD"
+ },
+ {
+   "FIELD1": "4906 POE AVE"
+ },
+ {
+   "FIELD1": "634 PONCA ST"
+ },
+ {
+   "FIELD1": "100 PONTIAC AVE"
+ },
+ {
+   "FIELD1": "1737 POPLAR GROVE ST"
+ },
+ {
+   "FIELD1": "2211 POPLAR GROVE ST"
+ },
+ {
+   "FIELD1": "2225 POPLAR GROVE ST"
+ },
+ {
+   "FIELD1": "3000 POPLAR TERR"
+ },
+ {
+   "FIELD1": "3008 POPLAR TERR"
+ },
+ {
+   "FIELD1": "657 PORTLAND ST"
+ },
+ {
+   "FIELD1": "658 PORTLAND ST"
+ },
+ {
+   "FIELD1": "1417 N POTOMAC ST"
+ },
+ {
+   "FIELD1": "1420 N POTOMAC ST"
+ },
+ {
+   "FIELD1": "1422 N POTOMAC ST"
+ },
+ {
+   "FIELD1": "1515 N POTOMAC ST"
+ },
+ {
+   "FIELD1": "28 POULTNEY ST"
+ },
+ {
+   "FIELD1": "4411 POWELL AVE"
+ },
+ {
+   "FIELD1": "2001 E PRATT ST"
+ },
+ {
+   "FIELD1": "2003 E PRATT ST"
+ },
+ {
+   "FIELD1": "1514 W PRATT ST"
+ },
+ {
+   "FIELD1": "2528 W PRATT ST"
+ },
+ {
+   "FIELD1": "2552 W PRATT ST"
+ },
+ {
+   "FIELD1": "2221 PRENTISS PL"
+ },
+ {
+   "FIELD1": "2014 PRESBURY ST"
+ },
+ {
+   "FIELD1": "3007 PRESBURY ST"
+ },
+ {
+   "FIELD1": "3009 PRESBURY ST"
+ },
+ {
+   "FIELD1": "3113 PRESBURY ST"
+ },
+ {
+   "FIELD1": "3202 PRESBURY ST"
+ },
+ {
+   "FIELD1": "555 PRESSTMAN ST"
+ },
+ {
+   "FIELD1": "571 PRESSTMAN ST"
+ },
+ {
+   "FIELD1": "2913 PRESSTMAN ST"
+ },
+ {
+   "FIELD1": "3301 PRESSTMAN ST"
+ },
+ {
+   "FIELD1": "801 E PRESTON ST"
+ },
+ {
+   "FIELD1": "1213 E PRESTON ST"
+ },
+ {
+   "FIELD1": "2016 E PRESTON ST"
+ },
+ {
+   "FIELD1": "2700 E PRESTON ST"
+ },
+ {
+   "FIELD1": "2704 E PRESTON ST"
+ },
+ {
+   "FIELD1": "2743 E PRESTON ST"
+ },
+ {
+   "FIELD1": "3117 E PRESTON ST"
+ },
+ {
+   "FIELD1": "5415 PRICE AVE"
+ },
+ {
+   "FIELD1": "5421 PRICE AVE"
+ },
+ {
+   "FIELD1": "5430 PRICE AVE"
+ },
+ {
+   "FIELD1": "5434 PRICE AVE"
+ },
+ {
+   "FIELD1": "5512 PRICE AVE"
+ },
+ {
+   "FIELD1": "2602 PUGET ST"
+ },
+ {
+   "FIELD1": "612 N PULASKI ST"
+ },
+ {
+   "FIELD1": "1608 N PULASKI ST"
+ },
+ {
+   "FIELD1": "1716 N PULASKI ST"
+ },
+ {
+   "FIELD1": "1810 N PULASKI ST"
+ },
+ {
+   "FIELD1": "2207 N PULASKI ST"
+ },
+ {
+   "FIELD1": "5420 PURDUE AVE"
+ },
+ {
+   "FIELD1": "5207 PUTNEY WAY"
+ },
+ {
+   "FIELD1": "806 QUAIL ST"
+ },
+ {
+   "FIELD1": "2529 QUANTICO AVE"
+ },
+ {
+   "FIELD1": "2535 QUANTICO AVE"
+ },
+ {
+   "FIELD1": "2819 QUANTICO AVE"
+ },
+ {
+   "FIELD1": "4915 QUEENSBERRY AVE"
+ },
+ {
+   "FIELD1": "5701 RADECKE AVE"
+ },
+ {
+   "FIELD1": "517 RADNOR AVE"
+ },
+ {
+   "FIELD1": "521 RADNOR AVE"
+ },
+ {
+   "FIELD1": "552 RADNOR AVE"
+ },
+ {
+   "FIELD1": "570 RADNOR AVE"
+ },
+ {
+   "FIELD1": "808 RADNOR AVE"
+ },
+ {
+   "FIELD1": "316 RADNOR ROAD"
+ },
+ {
+   "FIELD1": "6720 RAILWAY AVE"
+ },
+ {
+   "FIELD1": "1534 RALWORTH ROAD"
+ },
+ {
+   "FIELD1": "1656 RALWORTH ROAD"
+ },
+ {
+   "FIELD1": "1222 RAMBLEWOOD ROAD"
+ },
+ {
+   "FIELD1": "1723 RAMBLEWOOD ROAD"
+ },
+ {
+   "FIELD1": "3418 RAMONA AVE"
+ },
+ {
+   "FIELD1": "1327 RAMSAY ST"
+ },
+ {
+   "FIELD1": "1329 RAMSAY ST"
+ },
+ {
+   "FIELD1": "1849 RAMSAY ST"
+ },
+ {
+   "FIELD1": "2006 RAMSAY ST"
+ },
+ {
+   "FIELD1": "22 E RANDALL ST"
+ },
+ {
+   "FIELD1": "416 RANDOM ROAD"
+ },
+ {
+   "FIELD1": "443 RANDOM ROAD"
+ },
+ {
+   "FIELD1": "444 RANDOM ROAD"
+ },
+ {
+   "FIELD1": "512 RANDOM ROAD"
+ },
+ {
+   "FIELD1": "615 RAPPOLLA ST"
+ },
+ {
+   "FIELD1": "3129 RAVENWOOD AVE"
+ },
+ {
+   "FIELD1": "4015 RAYMONN AVE"
+ },
+ {
+   "FIELD1": "4130 RAYMONN AVE"
+ },
+ {
+   "FIELD1": "2860 RAYNER AVE"
+ },
+ {
+   "FIELD1": "2862 RAYNER AVE"
+ },
+ {
+   "FIELD1": "3013 RAYNER AVE"
+ },
+ {
+   "FIELD1": "2901 RAYSHIRE ROAD"
+ },
+ {
+   "FIELD1": "2932 RAYSHIRE ROAD"
+ },
+ {
+   "FIELD1": "5208 READY AVE"
+ },
+ {
+   "FIELD1": "5300 READY AVE"
+ },
+ {
+   "FIELD1": "5402 READY AVE"
+ },
+ {
+   "FIELD1": "5625 READY AVE"
+ },
+ {
+   "FIELD1": "6300 RED CEDAR PL U# 211"
+ },
+ {
+   "FIELD1": "6300 RED CEDAR PL U# 300"
+ },
+ {
+   "FIELD1": "702 S REGESTER ST"
+ },
+ {
+   "FIELD1": "852 REINHARDT ST"
+ },
+ {
+   "FIELD1": "3106 REISTERSTOWN ROAD"
+ },
+ {
+   "FIELD1": "4029 REISTERSTOWN ROAD"
+ },
+ {
+   "FIELD1": "4642 REISTERSTOWN ROAD"
+ },
+ {
+   "FIELD1": "5409 REMMELL AVE"
+ },
+ {
+   "FIELD1": "1507 RETREAT ST"
+ },
+ {
+   "FIELD1": "1523 RETREAT ST"
+ },
+ {
+   "FIELD1": "822 REVERDY ROAD"
+ },
+ {
+   "FIELD1": "1028 REVERDY ROAD"
+ },
+ {
+   "FIELD1": "3817 REXMERE ROAD"
+ },
+ {
+   "FIELD1": "3823 REXMERE ROAD"
+ },
+ {
+   "FIELD1": "3901 REXMERE ROAD"
+ },
+ {
+   "FIELD1": "4818 RICHARD AVE"
+ },
+ {
+   "FIELD1": "3308 RICHMOND AVE"
+ },
+ {
+   "FIELD1": "507 RICHWOOD AVE"
+ },
+ {
+   "FIELD1": "508 RICHWOOD AVE"
+ },
+ {
+   "FIELD1": "516 RICHWOOD AVE"
+ },
+ {
+   "FIELD1": "606 RICHWOOD AVE"
+ },
+ {
+   "FIELD1": "716 RICHWOOD AVE"
+ },
+ {
+   "FIELD1": "748 RICHWOOD AVE"
+ },
+ {
+   "FIELD1": "2001 RIDGEHILL AVE"
+ },
+ {
+   "FIELD1": "1529 RIDGELY ST"
+ },
+ {
+   "FIELD1": "2406 RIDGELY ST"
+ },
+ {
+   "FIELD1": "2415 RIDGELY ST"
+ },
+ {
+   "FIELD1": "2511 RIDGELY ST"
+ },
+ {
+   "FIELD1": "3804 RIDGEWOOD AVE"
+ },
+ {
+   "FIELD1": "3814 RIDGEWOOD AVE"
+ },
+ {
+   "FIELD1": "4222 RIDGEWOOD AVE"
+ },
+ {
+   "FIELD1": "2504 RIGGS AVE"
+ },
+ {
+   "FIELD1": "2516 RIGGS AVE"
+ },
+ {
+   "FIELD1": "2524 RIGGS AVE"
+ },
+ {
+   "FIELD1": "2704 RIGGS AVE"
+ },
+ {
+   "FIELD1": "2720 RIGGS AVE"
+ },
+ {
+   "FIELD1": "2800 RIGGS AVE"
+ },
+ {
+   "FIELD1": "2814 RIGGS AVE"
+ },
+ {
+   "FIELD1": "2815 RIGGS AVE"
+ },
+ {
+   "FIELD1": "2914 RIGGS AVE"
+ },
+ {
+   "FIELD1": "6542 RIVERVIEW AVE"
+ },
+ {
+   "FIELD1": "2006 ROBB ST"
+ },
+ {
+   "FIELD1": "2556 ROBB ST"
+ },
+ {
+   "FIELD1": "326 N ROBINSON ST"
+ },
+ {
+   "FIELD1": "401 N ROBINSON ST"
+ },
+ {
+   "FIELD1": "421 N ROBINSON ST"
+ },
+ {
+   "FIELD1": "608 N ROBINSON ST"
+ },
+ {
+   "FIELD1": "10 S ROBINSON ST"
+ },
+ {
+   "FIELD1": "205 S ROBINSON ST"
+ },
+ {
+   "FIELD1": "5504 ROBINWOOD AVE"
+ },
+ {
+   "FIELD1": "5520 ROBINWOOD AVE"
+ },
+ {
+   "FIELD1": "133 ROCHESTER PL"
+ },
+ {
+   "FIELD1": "406 N ROCK GLEN ROAD"
+ },
+ {
+   "FIELD1": "4109 ROCKFIELD AVE"
+ },
+ {
+   "FIELD1": "1028 ROCKHILL AVE"
+ },
+ {
+   "FIELD1": "5717 ROCKSPRING ROAD"
+ },
+ {
+   "FIELD1": "2623 ROCKWOOD AVE"
+ },
+ {
+   "FIELD1": "2905 N ROGERS AVE"
+ },
+ {
+   "FIELD1": "3605 N ROGERS AVE"
+ },
+ {
+   "FIELD1": "3810 N ROGERS AVE"
+ },
+ {
+   "FIELD1": "4027 N ROGERS AVE"
+ },
+ {
+   "FIELD1": "4111 N ROGERS AVE"
+ },
+ {
+   "FIELD1": "4312 N ROGERS AVE"
+ },
+ {
+   "FIELD1": "2023 W ROGERS AVE"
+ },
+ {
+   "FIELD1": "3312 W ROGERS AVE"
+ },
+ {
+   "FIELD1": "3408 W ROGERS AVE"
+ },
+ {
+   "FIELD1": "3901 W ROGERS AVE"
+ },
+ {
+   "FIELD1": "4216 W ROGERS AVE"
+ },
+ {
+   "FIELD1": "3801 ROKEBY ROAD"
+ },
+ {
+   "FIELD1": "3917 ROKEBY ROAD"
+ },
+ {
+   "FIELD1": "4203 ROKEBY ROAD"
+ },
+ {
+   "FIELD1": "4233 ROKEBY ROAD"
+ },
+ {
+   "FIELD1": "4411 ROKEBY ROAD"
+ },
+ {
+   "FIELD1": "4633 ROKEBY ROAD"
+ },
+ {
+   "FIELD1": "3917 ROLAND AVE"
+ },
+ {
+   "FIELD1": "4019 ROLAND AVE"
+ },
+ {
+   "FIELD1": "4707 ROLAND AVE"
+ },
+ {
+   "FIELD1": "5100 ROLAND AVE"
+ },
+ {
+   "FIELD1": "5511 ROLAND AVE"
+ },
+ {
+   "FIELD1": "1115 ROLAND HEIGHTS AVE"
+ },
+ {
+   "FIELD1": "1321 ROLAND HEIGHTS AVE"
+ },
+ {
+   "FIELD1": "3807 ROLAND VIEW AVE"
+ },
+ {
+   "FIELD1": "3810 ROLAND VIEW AVE"
+ },
+ {
+   "FIELD1": "4229 ROLAND VIEW AVE"
+ },
+ {
+   "FIELD1": "3319 ROSALIE AVE"
+ },
+ {
+   "FIELD1": "216 N ROSE ST"
+ },
+ {
+   "FIELD1": "3901 ROSECREST AVE"
+ },
+ {
+   "FIELD1": "3925 ROSECREST AVE"
+ },
+ {
+   "FIELD1": "3927 ROSECREST AVE"
+ },
+ {
+   "FIELD1": "3929 ROSECREST AVE"
+ },
+ {
+   "FIELD1": "4004 ROSECREST AVE"
+ },
+ {
+   "FIELD1": "4021 ROSECREST AVE"
+ },
+ {
+   "FIELD1": "422 ROSECROFT TERR"
+ },
+ {
+   "FIELD1": "430 ROSECROFT TERR"
+ },
+ {
+   "FIELD1": "3502 ROSEDALE ROAD"
+ },
+ {
+   "FIELD1": "4 N ROSEDALE ST"
+ },
+ {
+   "FIELD1": "32 N ROSEDALE ST"
+ },
+ {
+   "FIELD1": "623 N ROSEDALE ST"
+ },
+ {
+   "FIELD1": "905 N ROSEDALE ST"
+ },
+ {
+   "FIELD1": "1623 N ROSEDALE ST"
+ },
+ {
+   "FIELD1": "2506 N ROSEDALE ST"
+ },
+ {
+   "FIELD1": "5 S ROSEDALE ST"
+ },
+ {
+   "FIELD1": "3309 ROSEKEMP AVE"
+ },
+ {
+   "FIELD1": "6410 ROSEMONT AVE"
+ },
+ {
+   "FIELD1": "6415 ROSEMONT AVE"
+ },
+ {
+   "FIELD1": "2501 ROSLYN AVE"
+ },
+ {
+   "FIELD1": "524 ROSSITER AVE"
+ },
+ {
+   "FIELD1": "534 ROSSITER AVE"
+ },
+ {
+   "FIELD1": "2737 ROUND ROAD"
+ },
+ {
+   "FIELD1": "1616 ROUNDHILL ROAD"
+ },
+ {
+   "FIELD1": "217 ROUNDHOUSE CT"
+ },
+ {
+   "FIELD1": "437 ROUNDVIEW ROAD"
+ },
+ {
+   "FIELD1": "2607 ROYAL OAK AVE"
+ },
+ {
+   "FIELD1": "3402 ROYCE AVE"
+ },
+ {
+   "FIELD1": "3419 ROYCE AVE"
+ },
+ {
+   "FIELD1": "5522 RUBIN AVE"
+ },
+ {
+   "FIELD1": "3112 RUECKERT AVE"
+ },
+ {
+   "FIELD1": "4303 RUGBY ROAD"
+ },
+ {
+   "FIELD1": "2506 RUSCOMBE LANE"
+ },
+ {
+   "FIELD1": "2511 RUSCOMBE LANE"
+ },
+ {
+   "FIELD1": "2807 RUSCOMBE LANE"
+ },
+ {
+   "FIELD1": "5528 RUSK AVE"
+ },
+ {
+   "FIELD1": "2206 RUSKIN AVE"
+ },
+ {
+   "FIELD1": "2208 RUSKIN AVE"
+ },
+ {
+   "FIELD1": "2302 RUSKIN AVE"
+ },
+ {
+   "FIELD1": "1653 RUXTON AVE"
+ },
+ {
+   "FIELD1": "1724 RUXTON AVE"
+ },
+ {
+   "FIELD1": "1730 RUXTON AVE"
+ },
+ {
+   "FIELD1": "5405 SAGRA ROAD"
+ },
+ {
+   "FIELD1": "5630 SAGRA ROAD"
+ },
+ {
+   "FIELD1": "621 SAINT ANNS AVE"
+ },
+ {
+   "FIELD1": "803 SAINT DUNSTANS ROAD"
+ },
+ {
+   "FIELD1": "4508 SAINT GEORGES AVE"
+ },
+ {
+   "FIELD1": "5108 SAINT GEORGES AVE"
+ },
+ {
+   "FIELD1": "5110 SAINT GEORGES AVE"
+ },
+ {
+   "FIELD1": "634 SAINT JOHNS ROAD"
+ },
+ {
+   "FIELD1": "534 SAINT MARY ST"
+ },
+ {
+   "FIELD1": "919 SAINT PAUL ST"
+ },
+ {
+   "FIELD1": "2505 SAINT PAUL ST"
+ },
+ {
+   "FIELD1": "2917 SAINT PAUL ST"
+ },
+ {
+   "FIELD1": "4106 SAINT THOMAS AVE"
+ },
+ {
+   "FIELD1": "3707 SAINT VICTOR ST"
+ },
+ {
+   "FIELD1": "523 SANFORD PL"
+ },
+ {
+   "FIELD1": "532 SANFORD PL"
+ },
+ {
+   "FIELD1": "1920 W SARATOGA ST"
+ },
+ {
+   "FIELD1": "2022 W SARATOGA ST"
+ },
+ {
+   "FIELD1": "2211 W SARATOGA ST"
+ },
+ {
+   "FIELD1": "3608 W SARATOGA ST"
+ },
+ {
+   "FIELD1": "3610 W SARATOGA ST"
+ },
+ {
+   "FIELD1": "3707 W SARATOGA ST"
+ },
+ {
+   "FIELD1": "3805 W SARATOGA ST"
+ },
+ {
+   "FIELD1": "1155 SARGEANT ST"
+ },
+ {
+   "FIELD1": "1351 SARGEANT ST"
+ },
+ {
+   "FIELD1": "4941 SCHAUB AVE"
+ },
+ {
+   "FIELD1": "5021 SCHAUB AVE"
+ },
+ {
+   "FIELD1": "5023 SCHAUB AVE"
+ },
+ {
+   "FIELD1": "4508 SCHLEY AVE"
+ },
+ {
+   "FIELD1": "112 N SCHROEDER ST"
+ },
+ {
+   "FIELD1": "118 N SCHROEDER ST"
+ },
+ {
+   "FIELD1": "509 SEAGULL AVE"
+ },
+ {
+   "FIELD1": "5516 SEFTON AVE"
+ },
+ {
+   "FIELD1": "1122 SEMINOLE AVE"
+ },
+ {
+   "FIELD1": "1206 SEMINOLE AVE"
+ },
+ {
+   "FIELD1": "1212 SEMINOLE AVE"
+ },
+ {
+   "FIELD1": "3317 SEQUOIA AVE"
+ },
+ {
+   "FIELD1": "3321 SEQUOIA AVE"
+ },
+ {
+   "FIELD1": "3706 SEQUOIA AVE"
+ },
+ {
+   "FIELD1": "3803 SEQUOIA AVE"
+ },
+ {
+   "FIELD1": "5602 SEWARD AVE"
+ },
+ {
+   "FIELD1": "1622 SHADYSIDE ROAD"
+ },
+ {
+   "FIELD1": "1650 SHADYSIDE ROAD"
+ },
+ {
+   "FIELD1": "4414 SHAMROCK AVE"
+ },
+ {
+   "FIELD1": "4511 SHAMROCK AVE"
+ },
+ {
+   "FIELD1": "4631 SHAMROCK AVE"
+ },
+ {
+   "FIELD1": "4717 SHAMROCK AVE"
+ },
+ {
+   "FIELD1": "4756 SHAMROCK AVE"
+ },
+ {
+   "FIELD1": "4791 SHAMROCK AVE"
+ },
+ {
+   "FIELD1": "3033 SHANNON DR"
+ },
+ {
+   "FIELD1": "4011 SHANNON DR"
+ },
+ {
+   "FIELD1": "4109 SHANNON DR"
+ },
+ {
+   "FIELD1": "1502 SHEFFIELD ROAD"
+ },
+ {
+   "FIELD1": "1518 SHEFFIELD ROAD"
+ },
+ {
+   "FIELD1": "1526 SHEFFIELD ROAD"
+ },
+ {
+   "FIELD1": "1537 SHEFFIELD ROAD"
+ },
+ {
+   "FIELD1": "3313 SHELBURNE ROAD"
+ },
+ {
+   "FIELD1": "2506 SHELLYDALE DR"
+ },
+ {
+   "FIELD1": "731 SHERIDAN AVE"
+ },
+ {
+   "FIELD1": "1215 SHERIDAN AVE"
+ },
+ {
+   "FIELD1": "1304 SHERWOOD AVE"
+ },
+ {
+   "FIELD1": "1307 SHERWOOD AVE"
+ },
+ {
+   "FIELD1": "1308 SHERWOOD AVE"
+ },
+ {
+   "FIELD1": "1804 SHERWOOD AVE"
+ },
+ {
+   "FIELD1": "2806 SHIREY AVE"
+ },
+ {
+   "FIELD1": "2906 SHIREY AVE"
+ },
+ {
+   "FIELD1": "2259 SIDNEY AVE"
+ },
+ {
+   "FIELD1": "2921 SILVER HILL AVE"
+ },
+ {
+   "FIELD1": "2922 SILVER HILL AVE"
+ },
+ {
+   "FIELD1": "5520 SILVERBELL ROAD"
+ },
+ {
+   "FIELD1": "1218 SILVERTHORNE ROAD"
+ },
+ {
+   "FIELD1": "1329 SILVERTHORNE ROAD"
+ },
+ {
+   "FIELD1": "1349 SILVERTHORNE ROAD"
+ },
+ {
+   "FIELD1": "2023 SINCLAIR LANE"
+ },
+ {
+   "FIELD1": "3848 SINCLAIR LANE"
+ },
+ {
+   "FIELD1": "4805 SINCLAIR LANE"
+ },
+ {
+   "FIELD1": "116 N SMALLWOOD ST"
+ },
+ {
+   "FIELD1": "1626 N SMALLWOOD ST"
+ },
+ {
+   "FIELD1": "1644 N SMALLWOOD ST"
+ },
+ {
+   "FIELD1": "2010 N SMALLWOOD ST"
+ },
+ {
+   "FIELD1": "2134 N SMALLWOOD ST"
+ },
+ {
+   "FIELD1": "2136 N SMALLWOOD ST"
+ },
+ {
+   "FIELD1": "4807 SNADER AVE"
+ },
+ {
+   "FIELD1": "4815 SNADER AVE"
+ },
+ {
+   "FIELD1": "1120 SOMERSET ST"
+ },
+ {
+   "FIELD1": "2907 SOUTHERN AVE"
+ },
+ {
+   "FIELD1": "3310 SOUTHERN AVE"
+ },
+ {
+   "FIELD1": "3800 SOUTHERN AVE"
+ },
+ {
+   "FIELD1": "2708 SPAULDING AVE"
+ },
+ {
+   "FIELD1": "2712 SPAULDING AVE"
+ },
+ {
+   "FIELD1": "2719 SPAULDING AVE"
+ },
+ {
+   "FIELD1": "3031 SPAULDING AVE"
+ },
+ {
+   "FIELD1": "3225 SPAULDING AVE"
+ },
+ {
+   "FIELD1": "3227 SPAULDING AVE"
+ },
+ {
+   "FIELD1": "1504 N SPRING ST"
+ },
+ {
+   "FIELD1": "1517 N SPRING ST"
+ },
+ {
+   "FIELD1": "3409 SPRINGDALE AVE"
+ },
+ {
+   "FIELD1": "4410 SPRINGDALE AVE"
+ },
+ {
+   "FIELD1": "1014 SPRINGFIELD AVE"
+ },
+ {
+   "FIELD1": "5409 SPRINGLAKE WAY"
+ },
+ {
+   "FIELD1": "5437 SPRINGLAKE WAY"
+ },
+ {
+   "FIELD1": "4204 SPRINGWOOD AVE"
+ },
+ {
+   "FIELD1": "5141 STAFFORD ROAD"
+ },
+ {
+   "FIELD1": "5144 STAFFORD ROAD"
+ },
+ {
+   "FIELD1": "5145 STAFFORD ROAD"
+ },
+ {
+   "FIELD1": "3103 STAFFORD ST"
+ },
+ {
+   "FIELD1": "705 STAMFORD ROAD"
+ },
+ {
+   "FIELD1": "717 STAMFORD ROAD"
+ },
+ {
+   "FIELD1": "721 STAMFORD ROAD"
+ },
+ {
+   "FIELD1": "1103 STAMFORD ROAD"
+ },
+ {
+   "FIELD1": "4210 STANWOOD AVE"
+ },
+ {
+   "FIELD1": "1315 N STOCKTON ST"
+ },
+ {
+   "FIELD1": "2409 N STOCKTON ST"
+ },
+ {
+   "FIELD1": "2411 N STOCKTON ST"
+ },
+ {
+   "FIELD1": "2412 N STOCKTON ST"
+ },
+ {
+   "FIELD1": "3803 STOKES DR"
+ },
+ {
+   "FIELD1": "1309 STONEWOOD ROAD"
+ },
+ {
+   "FIELD1": "1312 STONEWOOD ROAD"
+ },
+ {
+   "FIELD1": "1327 STONEWOOD ROAD"
+ },
+ {
+   "FIELD1": "1340 STONEWOOD ROAD"
+ },
+ {
+   "FIELD1": "1352 STONEWOOD ROAD"
+ },
+ {
+   "FIELD1": "1408 STONEWOOD ROAD"
+ },
+ {
+   "FIELD1": "1416 STONEWOOD ROAD"
+ },
+ {
+   "FIELD1": "1421 STONEWOOD ROAD"
+ },
+ {
+   "FIELD1": "1501 STONEWOOD ROAD"
+ },
+ {
+   "FIELD1": "1523 STONEWOOD ROAD"
+ },
+ {
+   "FIELD1": "1579 STONEWOOD ROAD"
+ },
+ {
+   "FIELD1": "1627 STONEWOOD ROAD"
+ },
+ {
+   "FIELD1": "5612 STONINGTON AVE"
+ },
+ {
+   "FIELD1": "2501 E STRATHMORE AVE"
+ },
+ {
+   "FIELD1": "2805 W STRATHMORE AVE"
+ },
+ {
+   "FIELD1": "2905 W STRATHMORE AVE"
+ },
+ {
+   "FIELD1": "3002 W STRATHMORE AVE"
+ },
+ {
+   "FIELD1": "3213 W STRATHMORE AVE"
+ },
+ {
+   "FIELD1": "3710 W STRATHMORE AVE"
+ },
+ {
+   "FIELD1": "505 N STREEPER ST"
+ },
+ {
+   "FIELD1": "714 N STREEPER ST"
+ },
+ {
+   "FIELD1": "1134 N STRICKER ST"
+ },
+ {
+   "FIELD1": "7 S STRICKER ST"
+ },
+ {
+   "FIELD1": "3027 STRICKLAND ST"
+ },
+ {
+   "FIELD1": "5811 STUART AVE"
+ },
+ {
+   "FIELD1": "4811 SUNBROOK AVE"
+ },
+ {
+   "FIELD1": "4118 SUNNYSIDE AVE"
+ },
+ {
+   "FIELD1": "5003 SUNSET ROAD"
+ },
+ {
+   "FIELD1": "5101 SUNSET ROAD"
+ },
+ {
+   "FIELD1": "5103 SUNSET ROAD"
+ },
+ {
+   "FIELD1": "5117 SUNSET ROAD"
+ },
+ {
+   "FIELD1": "402 SWALE AVE"
+ },
+ {
+   "FIELD1": "418 SWALE AVE"
+ },
+ {
+   "FIELD1": "435 SWALE AVE"
+ },
+ {
+   "FIELD1": "2001 SWANSEA ROAD"
+ },
+ {
+   "FIELD1": "2003 SWANSEA ROAD"
+ },
+ {
+   "FIELD1": "2026 SWANSEA ROAD"
+ },
+ {
+   "FIELD1": "2519 TALBOT ROAD"
+ },
+ {
+   "FIELD1": "2 W TALBOTT ST"
+ },
+ {
+   "FIELD1": "41 W TALBOTT ST"
+ },
+ {
+   "FIELD1": "2905 TANEY ROAD"
+ },
+ {
+   "FIELD1": "3205 TANEY ROAD"
+ },
+ {
+   "FIELD1": "205 TAPLOW ROAD"
+ },
+ {
+   "FIELD1": "2433 TERRA FIRMA ROAD"
+ },
+ {
+   "FIELD1": "2532 TERRA FIRMA ROAD"
+ },
+ {
+   "FIELD1": "2715 THE ALAMEDA"
+ },
+ {
+   "FIELD1": "2918 THE ALAMEDA"
+ },
+ {
+   "FIELD1": "3830 THE ALAMEDA"
+ },
+ {
+   "FIELD1": "4009 THE ALAMEDA"
+ },
+ {
+   "FIELD1": "4112 THE ALAMEDA"
+ },
+ {
+   "FIELD1": "4121 THE ALAMEDA"
+ },
+ {
+   "FIELD1": "4123 THE ALAMEDA"
+ },
+ {
+   "FIELD1": "4915 THE ALAMEDA"
+ },
+ {
+   "FIELD1": "5411 THE ALAMEDA"
+ },
+ {
+   "FIELD1": "5423 THE ALAMEDA"
+ },
+ {
+   "FIELD1": "5429 THE ALAMEDA"
+ },
+ {
+   "FIELD1": "5908 THE ALAMEDA"
+ },
+ {
+   "FIELD1": "4558 THE STRAND"
+ },
+ {
+   "FIELD1": "2301 TIOGA PKWY"
+ },
+ {
+   "FIELD1": "5304 TIPPETT AVE"
+ },
+ {
+   "FIELD1": "5409 TODD AVE"
+ },
+ {
+   "FIELD1": "809 TOLNA ST"
+ },
+ {
+   "FIELD1": "819 TOLNA ST"
+ },
+ {
+   "FIELD1": "4241 TOWANDA AVE"
+ },
+ {
+   "FIELD1": "1427 TOWNWAY"
+ },
+ {
+   "FIELD1": "1430 TOWSON ST"
+ },
+ {
+   "FIELD1": "5203 TRAMORE ROAD"
+ },
+ {
+   "FIELD1": "5212 TRAMORE ROAD"
+ },
+ {
+   "FIELD1": "5625 TRAMORE ROAD"
+ },
+ {
+   "FIELD1": "6225 TRAMORE ROAD"
+ },
+ {
+   "FIELD1": "347 TUNBRIDGE ROAD"
+ },
+ {
+   "FIELD1": "609 TUNBRIDGE ROAD"
+ },
+ {
+   "FIELD1": "616 TUNBRIDGE ROAD"
+ },
+ {
+   "FIELD1": "633 TUNBRIDGE ROAD"
+ },
+ {
+   "FIELD1": "1016 TUNBRIDGE ROAD"
+ },
+ {
+   "FIELD1": "1042 TUNBRIDGE ROAD"
+ },
+ {
+   "FIELD1": "1044 TUNBRIDGE ROAD"
+ },
+ {
+   "FIELD1": "1058 TUNBRIDGE ROAD"
+ },
+ {
+   "FIELD1": "1080 TUNBRIDGE ROAD"
+ },
+ {
+   "FIELD1": "1530 TUNLAW ROAD"
+ },
+ {
+   "FIELD1": "1532 TUNLAW ROAD"
+ },
+ {
+   "FIELD1": "3220 TYNDALE AVE"
+ },
+ {
+   "FIELD1": "610 UMBRA ST"
+ },
+ {
+   "FIELD1": "633 UMBRA ST"
+ },
+ {
+   "FIELD1": "703 UMBRA ST"
+ },
+ {
+   "FIELD1": "732 UMBRA ST"
+ },
+ {
+   "FIELD1": "4416 UNDERWOOD ROAD"
+ },
+ {
+   "FIELD1": "304 E UNIVERSITY PKWY"
+ },
+ {
+   "FIELD1": "623 W UNIVERSITY PKWY"
+ },
+ {
+   "FIELD1": "52 UPMANOR ROAD"
+ },
+ {
+   "FIELD1": "1051 UPNOR ROAD"
+ },
+ {
+   "FIELD1": "1057 UPNOR ROAD"
+ },
+ {
+   "FIELD1": "1539 UPSHIRE ROAD"
+ },
+ {
+   "FIELD1": "1548 UPSHIRE ROAD"
+ },
+ {
+   "FIELD1": "5310 VALIQUET AVE"
+ },
+ {
+   "FIELD1": "4702 VANCOUVER ROAD"
+ },
+ {
+   "FIELD1": "4710 VANCOUVER ROAD"
+ },
+ {
+   "FIELD1": "804 VENABLE AVE"
+ },
+ {
+   "FIELD1": "816 VENABLE AVE"
+ },
+ {
+   "FIELD1": "3225 VICKERS ROAD"
+ },
+ {
+   "FIELD1": "404 S VINCENT ST"
+ },
+ {
+   "FIELD1": "2152 VINE ST"
+ },
+ {
+   "FIELD1": "2920 VIRGINIA AVE"
+ },
+ {
+   "FIELD1": "3005 VIRGINIA AVE"
+ },
+ {
+   "FIELD1": "3036 VIRGINIA AVE"
+ },
+ {
+   "FIELD1": "3506 VIRGINIA AVE"
+ },
+ {
+   "FIELD1": "3500 WABASH AVE"
+ },
+ {
+   "FIELD1": "3509 WABASH AVE"
+ },
+ {
+   "FIELD1": "3635 WABASH AVE"
+ },
+ {
+   "FIELD1": "1526 WADSWORTH WAY"
+ },
+ {
+   "FIELD1": "1533 WADSWORTH WAY"
+ },
+ {
+   "FIELD1": "1715 WADSWORTH WAY"
+ },
+ {
+   "FIELD1": "1723 WADSWORTH WAY"
+ },
+ {
+   "FIELD1": "1808 WADSWORTH WAY"
+ },
+ {
+   "FIELD1": "4500 WAKEFIELD ROAD"
+ },
+ {
+   "FIELD1": "4701 WAKEFIELD ROAD"
+ },
+ {
+   "FIELD1": "1824 WALBROOK AVE"
+ },
+ {
+   "FIELD1": "3310 WALBROOK AVE"
+ },
+ {
+   "FIELD1": "2804 WALDORF AVE"
+ },
+ {
+   "FIELD1": "1105 WALKER AVE"
+ },
+ {
+   "FIELD1": "1219 WALKER AVE"
+ },
+ {
+   "FIELD1": "1262 WALKER AVE"
+ },
+ {
+   "FIELD1": "1362 WALKER AVE"
+ },
+ {
+   "FIELD1": "1432 WALKER AVE"
+ },
+ {
+   "FIELD1": "2215 WALSHIRE AVE"
+ },
+ {
+   "FIELD1": "2222 WALSHIRE AVE"
+ },
+ {
+   "FIELD1": "1212 WALTERS AVE"
+ },
+ {
+   "FIELD1": "1219 WALTERS AVE"
+ },
+ {
+   "FIELD1": "1234 WALTERS AVE"
+ },
+ {
+   "FIELD1": "1301 WALTERS AVE"
+ },
+ {
+   "FIELD1": "1608 WALTERSWOOD ROAD"
+ },
+ {
+   "FIELD1": "1615 WALTERSWOOD ROAD"
+ },
+ {
+   "FIELD1": "1628 WALTERSWOOD ROAD"
+ },
+ {
+   "FIELD1": "4907 WALTHER AVE"
+ },
+ {
+   "FIELD1": "1339 WARD ST"
+ },
+ {
+   "FIELD1": "102 WARRENTON ROAD"
+ },
+ {
+   "FIELD1": "814 WASHBURN AVE"
+ },
+ {
+   "FIELD1": "800 WASHINGTON BLVD"
+ },
+ {
+   "FIELD1": "1340 WASHINGTON BLVD"
+ },
+ {
+   "FIELD1": "2613 WASHINGTON BLVD"
+ },
+ {
+   "FIELD1": "802 N WASHINGTON ST"
+ },
+ {
+   "FIELD1": "809 N WASHINGTON ST"
+ },
+ {
+   "FIELD1": "1803 N WASHINGTON ST"
+ },
+ {
+   "FIELD1": "5800 WAYCROSS ROAD"
+ },
+ {
+   "FIELD1": "5812 WAYCROSS ROAD"
+ },
+ {
+   "FIELD1": "5516 WAYNE AVE"
+ },
+ {
+   "FIELD1": "5625 WAYNE AVE"
+ },
+ {
+   "FIELD1": "3120 WEAVER AVE"
+ },
+ {
+   "FIELD1": "1333 WEBSTER ST"
+ },
+ {
+   "FIELD1": "1007 WEDGEWOOD ROAD"
+ },
+ {
+   "FIELD1": "1019 WEDGEWOOD ROAD"
+ },
+ {
+   "FIELD1": "1028 WEDGEWOOD ROAD"
+ },
+ {
+   "FIELD1": "2717 WEGWORTH LANE"
+ },
+ {
+   "FIELD1": "4102 WENTWORTH ROAD"
+ },
+ {
+   "FIELD1": "4105 WENTWORTH ROAD"
+ },
+ {
+   "FIELD1": "4213 WENTWORTH ROAD"
+ },
+ {
+   "FIELD1": "4300 WENTWORTH ROAD"
+ },
+ {
+   "FIELD1": "4412 WENTWORTH ROAD"
+ },
+ {
+   "FIELD1": "5306 WESLEY AVE"
+ },
+ {
+   "FIELD1": "5315 WESLEY AVE"
+ },
+ {
+   "FIELD1": "5516 WESLEY AVE"
+ },
+ {
+   "FIELD1": "5600 WESLEY AVE"
+ },
+ {
+   "FIELD1": "5610 WESLEY AVE"
+ },
+ {
+   "FIELD1": "4113 WESTCHESTER ROAD"
+ },
+ {
+   "FIELD1": "3313 WESTERWALD AVE"
+ },
+ {
+   "FIELD1": "4906 WESTHILLS ROAD"
+ },
+ {
+   "FIELD1": "4940 WESTHILLS ROAD"
+ },
+ {
+   "FIELD1": "5011 WESTHILLS ROAD"
+ },
+ {
+   "FIELD1": "5014 WESTHILLS ROAD"
+ },
+ {
+   "FIELD1": "4815 WESTPARKWAY"
+ },
+ {
+   "FIELD1": "1825 WESTPHAL PL"
+ },
+ {
+   "FIELD1": "2431 WESTPORT ST"
+ },
+ {
+   "FIELD1": "2467 WESTPORT ST"
+ },
+ {
+   "FIELD1": "1618 WESTWOOD AVE"
+ },
+ {
+   "FIELD1": "2913 WESTWOOD AVE"
+ },
+ {
+   "FIELD1": "3203 WESTWOOD AVE"
+ },
+ {
+   "FIELD1": "1201 WHATCOAT ST"
+ },
+ {
+   "FIELD1": "1222 WHATCOAT ST"
+ },
+ {
+   "FIELD1": "908 N WHEELER AVE"
+ },
+ {
+   "FIELD1": "1115 N WHEELER AVE"
+ },
+ {
+   "FIELD1": "2030 WHISTLER AVE"
+ },
+ {
+   "FIELD1": "5524 WHITBY ROAD"
+ },
+ {
+   "FIELD1": "5526 WHITBY ROAD"
+ },
+ {
+   "FIELD1": "5562 WHITBY ROAD"
+ },
+ {
+   "FIELD1": "3023 WHITE AVE"
+ },
+ {
+   "FIELD1": "3402 WHITE AVE"
+ },
+ {
+   "FIELD1": "4400 WHITE AVE"
+ },
+ {
+   "FIELD1": "5765 WHITE AVE"
+ },
+ {
+   "FIELD1": "3520 WHITE CHAPEL ROAD"
+ },
+ {
+   "FIELD1": "3530 WHITE CHAPEL ROAD"
+ },
+ {
+   "FIELD1": "4504 WHITE OAK AVE"
+ },
+ {
+   "FIELD1": "720 WHITMORE AVE"
+ },
+ {
+   "FIELD1": "818 WHITMORE AVE"
+ },
+ {
+   "FIELD1": "904 WHITMORE AVE"
+ },
+ {
+   "FIELD1": "335 WHITRIDGE AVE"
+ },
+ {
+   "FIELD1": "446 WHITRIDGE AVE"
+ },
+ {
+   "FIELD1": "2100 WHITTIER AVE"
+ },
+ {
+   "FIELD1": "2108 WHITTIER AVE"
+ },
+ {
+   "FIELD1": "5460 WHITWOOD ROAD"
+ },
+ {
+   "FIELD1": "401 S WICKHAM ROAD"
+ },
+ {
+   "FIELD1": "615 S WICKHAM ROAD"
+ },
+ {
+   "FIELD1": "620 WICKLOW ROAD"
+ },
+ {
+   "FIELD1": "714 WICKLOW ROAD"
+ },
+ {
+   "FIELD1": "716 WICKLOW ROAD"
+ },
+ {
+   "FIELD1": "723 WICKLOW ROAD"
+ },
+ {
+   "FIELD1": "809 WICKLOW ROAD"
+ },
+ {
+   "FIELD1": "825 WICKLOW ROAD"
+ },
+ {
+   "FIELD1": "919 WICKLOW ROAD"
+ },
+ {
+   "FIELD1": "1028 WICKLOW ROAD"
+ },
+ {
+   "FIELD1": "1100 WICKLOW ROAD"
+ },
+ {
+   "FIELD1": "709 WILBRON AVE"
+ },
+ {
+   "FIELD1": "2508 WILDPARK AVE"
+ },
+ {
+   "FIELD1": "511 WILDWOOD PKWY"
+ },
+ {
+   "FIELD1": "640 WILDWOOD PKWY"
+ },
+ {
+   "FIELD1": "807 WILDWOOD PKWY"
+ },
+ {
+   "FIELD1": "810 WILDWOOD PKWY"
+ },
+ {
+   "FIELD1": "1001 WILDWOOD PKWY"
+ },
+ {
+   "FIELD1": "1112 WILDWOOD PKWY"
+ },
+ {
+   "FIELD1": "1817 WILHELM ST"
+ },
+ {
+   "FIELD1": "2111 WILHELM ST"
+ },
+ {
+   "FIELD1": "4109 WILKE AVE"
+ },
+ {
+   "FIELD1": "2110 WILKENS AVE"
+ },
+ {
+   "FIELD1": "2231 WILKENS AVE"
+ },
+ {
+   "FIELD1": "1287 WILLIAM ST"
+ },
+ {
+   "FIELD1": "4802 WILLISTON ST"
+ },
+ {
+   "FIELD1": "4816 WILLISTON ST"
+ },
+ {
+   "FIELD1": "515 WILLOW AVE"
+ },
+ {
+   "FIELD1": "638 WILLOW AVE"
+ },
+ {
+   "FIELD1": "3952 WILSBY AVE"
+ },
+ {
+   "FIELD1": "5214 WILTON HEIGHTS AVE"
+ },
+ {
+   "FIELD1": "5501 WILVAN AVE"
+ },
+ {
+   "FIELD1": "719 WINANS WAY"
+ },
+ {
+   "FIELD1": "2746 WINCHESTER ST"
+ },
+ {
+   "FIELD1": "2800 WINCHESTER ST"
+ },
+ {
+   "FIELD1": "2829 WINCHESTER ST"
+ },
+ {
+   "FIELD1": "2916 WINCHESTER ST"
+ },
+ {
+   "FIELD1": "1503 WINDEMERE AVE"
+ },
+ {
+   "FIELD1": "1539 WINDEMERE AVE"
+ },
+ {
+   "FIELD1": "1701 WINDEMERE AVE"
+ },
+ {
+   "FIELD1": "2314 WINDER ST"
+ },
+ {
+   "FIELD1": "2924 WINDSOR AVE"
+ },
+ {
+   "FIELD1": "3012 WINDSOR AVE"
+ },
+ {
+   "FIELD1": "3016 WINDSOR AVE"
+ },
+ {
+   "FIELD1": "3032 WINDSOR AVE"
+ },
+ {
+   "FIELD1": "3200 WINDSOR AVE"
+ },
+ {
+   "FIELD1": "3204 WINDSOR AVE"
+ },
+ {
+   "FIELD1": "3337 WINDSOR AVE"
+ },
+ {
+   "FIELD1": "3605 WINDSOR MILL ROAD"
+ },
+ {
+   "FIELD1": "1607 WINFORD ROAD"
+ },
+ {
+   "FIELD1": "1660 WINFORD ROAD"
+ },
+ {
+   "FIELD1": "1710 WINFORD ROAD"
+ },
+ {
+   "FIELD1": "1912 WINFORD ROAD"
+ },
+ {
+   "FIELD1": "5332 WINNER AVE"
+ },
+ {
+   "FIELD1": "5801 WINNER AVE"
+ },
+ {
+   "FIELD1": "323 WINSTON AVE"
+ },
+ {
+   "FIELD1": "327 WINSTON AVE"
+ },
+ {
+   "FIELD1": "531 WINSTON AVE"
+ },
+ {
+   "FIELD1": "702 WINSTON AVE"
+ },
+ {
+   "FIELD1": "1319 WINSTON AVE"
+ },
+ {
+   "FIELD1": "1325 WINSTON AVE"
+ },
+ {
+   "FIELD1": "1329 WINSTON AVE"
+ },
+ {
+   "FIELD1": "1347 WINSTON AVE"
+ },
+ {
+   "FIELD1": "1411 WINSTON AVE"
+ },
+ {
+   "FIELD1": "1424 WINSTON AVE"
+ },
+ {
+   "FIELD1": "1448 WINSTON AVE"
+ },
+ {
+   "FIELD1": "1531 WINSTON AVE"
+ },
+ {
+   "FIELD1": "3700 WINTERBOURNE ROAD"
+ },
+ {
+   "FIELD1": "3722 WINTERBOURNE ROAD"
+ },
+ {
+   "FIELD1": "6203 WIRT AVE"
+ },
+ {
+   "FIELD1": "3113 WISTERIA AVE"
+ },
+ {
+   "FIELD1": "2024 N WOLFE ST"
+ },
+ {
+   "FIELD1": "107 S WOLFE ST"
+ },
+ {
+   "FIELD1": "1102 WOOD HEIGHTS AVE"
+ },
+ {
+   "FIELD1": "3408 WOODBINE AVE"
+ },
+ {
+   "FIELD1": "3706 WOODBINE AVE"
+ },
+ {
+   "FIELD1": "510 WOODBOURNE AVE"
+ },
+ {
+   "FIELD1": "1001 WOODBOURNE AVE"
+ },
+ {
+   "FIELD1": "1103 WOODBOURNE AVE"
+ },
+ {
+   "FIELD1": "1603 WOODBOURNE AVE"
+ },
+ {
+   "FIELD1": "1655 WOODBOURNE AVE"
+ },
+ {
+   "FIELD1": "1707 WOODBOURNE AVE"
+ },
+ {
+   "FIELD1": "1713 WOODBOURNE AVE"
+ },
+ {
+   "FIELD1": "1805 WOODBOURNE AVE"
+ },
+ {
+   "FIELD1": "1807 WOODBOURNE AVE"
+ },
+ {
+   "FIELD1": "1903 WOODBOURNE AVE"
+ },
+ {
+   "FIELD1": "2012 WOODBOURNE AVE"
+ },
+ {
+   "FIELD1": "2421 WOODBROOK AVE"
+ },
+ {
+   "FIELD1": "2424 WOODBROOK AVE"
+ },
+ {
+   "FIELD1": "2511 WOODBROOK AVE"
+ },
+ {
+   "FIELD1": "2522 WOODBROOK AVE"
+ },
+ {
+   "FIELD1": "2809 WOODBROOK AVE"
+ },
+ {
+   "FIELD1": "3509 WOODBROOK AVE"
+ },
+ {
+   "FIELD1": "6008 WOODCREST AVE"
+ },
+ {
+   "FIELD1": "6009 WOODCREST AVE"
+ },
+ {
+   "FIELD1": "4019 WOODHAVEN AVE"
+ },
+ {
+   "FIELD1": "4029 WOODHAVEN AVE"
+ },
+ {
+   "FIELD1": "4108 WOODHAVEN AVE"
+ },
+ {
+   "FIELD1": "3203 WOODHOME AVE"
+ },
+ {
+   "FIELD1": "603 N WOODINGTON ROAD"
+ },
+ {
+   "FIELD1": "716 N WOODINGTON ROAD"
+ },
+ {
+   "FIELD1": "809 N WOODINGTON ROAD"
+ },
+ {
+   "FIELD1": "1002 N WOODINGTON ROAD"
+ },
+ {
+   "FIELD1": "712 S WOODINGTON ROAD"
+ },
+ {
+   "FIELD1": "2510 WOODLAND AVE"
+ },
+ {
+   "FIELD1": "2703 WOODLAND AVE"
+ },
+ {
+   "FIELD1": "2707 WOODLAND AVE"
+ },
+ {
+   "FIELD1": "2803 WOODLAND AVE"
+ },
+ {
+   "FIELD1": "2805 WOODLAND AVE"
+ },
+ {
+   "FIELD1": "2929 WOODLAND AVE"
+ },
+ {
+   "FIELD1": "3129 WOODLAND AVE"
+ },
+ {
+   "FIELD1": "404 WOODLAWN ROAD"
+ },
+ {
+   "FIELD1": "500 WOODLAWN ROAD"
+ },
+ {
+   "FIELD1": "524 WOODLAWN ROAD"
+ },
+ {
+   "FIELD1": "3903 WOODLEA AVE"
+ },
+ {
+   "FIELD1": "4002 WOODMERE AVE"
+ },
+ {
+   "FIELD1": "4201 WOODMERE AVE"
+ },
+ {
+   "FIELD1": "3906 WOODRIDGE ROAD"
+ },
+ {
+   "FIELD1": "3143 WOODRING AVE"
+ },
+ {
+   "FIELD1": "2708 WOODSDALE AVE"
+ },
+ {
+   "FIELD1": "2716 WOODSDALE AVE"
+ },
+ {
+   "FIELD1": "3437 WOODSTOCK AVE"
+ },
+ {
+   "FIELD1": "1205 N WOODYEAR ST"
+ },
+ {
+   "FIELD1": "1209 N WOODYEAR ST"
+ },
+ {
+   "FIELD1": "1212 N WOODYEAR ST"
+ },
+ {
+   "FIELD1": "1540 N WOODYEAR ST"
+ },
+ {
+   "FIELD1": "1545 N WOODYEAR ST"
+ },
+ {
+   "FIELD1": "505 WYANOKE AVE"
+ },
+ {
+   "FIELD1": "335 YALE AVE"
+ },
+ {
+   "FIELD1": "409 YALE AVE"
+ },
+ {
+   "FIELD1": "413 YALE AVE"
+ },
+ {
+   "FIELD1": "423 YALE AVE"
+ },
+ {
+   "FIELD1": "770 YALE AVE"
+ },
+ {
+   "FIELD1": "4311 YORK ROAD"
+ },
+ {
+   "FIELD1": "3202 YOSEMITE AVE"
+ },
+ {
+   "FIELD1": "3212 YOSEMITE AVE"
+ },
+ {
+   "FIELD1": "3245 YOSEMITE AVE"
+ },
+ {
+   "FIELD1": "3706 YOSEMITE AVE"
+ },
+ {
+   "FIELD1": "3707 YOSEMITE AVE"
+ },
+ {
+   "FIELD1": "3602 2ND ST"
+ },
+ {
+   "FIELD1": "3460 6TH ST"
+ },
+ {
+   "FIELD1": "3915 8TH ST"
+ },
+ {
+   "FIELD1": "3700 9TH ST"
+ },
+ {
+   "FIELD1": "922 E 20TH ST"
+ },
+ {
+   "FIELD1": "1102 E 20TH ST"
+ },
+ {
+   "FIELD1": "316 E 21ST ST"
+ },
+ {
+   "FIELD1": "324 E 21ST ST"
+ },
+ {
+   "FIELD1": "712 E 21ST ST"
+ },
+ {
+   "FIELD1": "729 E 21ST ST"
+ },
+ {
+   "FIELD1": "424 E 23RD ST"
+ },
+ {
+   "FIELD1": "504 E 23RD ST"
+ },
+ {
+   "FIELD1": "453 W 24TH ST"
+ },
+ {
+   "FIELD1": "457 W 24TH ST"
+ },
+ {
+   "FIELD1": "1742 E 25TH ST"
+ },
+ {
+   "FIELD1": "508 E 26TH ST"
+ },
+ {
+   "FIELD1": "36 E 27TH ST"
+ },
+ {
+   "FIELD1": "303 E 27TH ST"
+ },
+ {
+   "FIELD1": "326 E 27TH ST"
+ },
+ {
+   "FIELD1": "401 E 27TH ST"
+ },
+ {
+   "FIELD1": "321 W 27TH ST"
+ },
+ {
+   "FIELD1": "421 E 28TH ST"
+ },
+ {
+   "FIELD1": "1624 E 28TH ST"
+ },
+ {
+   "FIELD1": "706 E 30TH ST"
+ },
+ {
+   "FIELD1": "1705 E 30TH ST"
+ },
+ {
+   "FIELD1": "1736 E 30TH ST"
+ },
+ {
+   "FIELD1": "1916 E 30TH ST"
+ },
+ {
+   "FIELD1": "1924 E 30TH ST"
+ },
+ {
+   "FIELD1": "2009 E 30TH ST"
+ },
+ {
+   "FIELD1": "1619 E 31ST ST"
+ },
+ {
+   "FIELD1": "1712 E 31ST ST"
+ },
+ {
+   "FIELD1": "1725 E 31ST ST"
+ },
+ {
+   "FIELD1": "2019 E 31ST ST"
+ },
+ {
+   "FIELD1": "2041 E 31ST ST"
+ },
+ {
+   "FIELD1": "1619 E 32ND ST"
+ },
+ {
+   "FIELD1": "1632 E 32ND ST"
+ },
+ {
+   "FIELD1": "1637 E 32ND ST"
+ },
+ {
+   "FIELD1": "1638 E 32ND ST"
+ },
+ {
+   "FIELD1": "1703 E 32ND ST"
+ },
+ {
+   "FIELD1": "1801 E 32ND ST"
+ },
+ {
+   "FIELD1": "1819 E 32ND ST"
+ },
+ {
+   "FIELD1": "1210 E 33RD ST"
+ },
+ {
+   "FIELD1": "1300 E 33RD ST"
+ },
+ {
+   "FIELD1": "1304 E 33RD ST"
+ },
+ {
+   "FIELD1": "1306 E 33RD ST"
+ },
+ {
+   "FIELD1": "1506 E 33RD ST"
+ },
+ {
+   "FIELD1": "1511 E 33RD ST"
+ },
+ {
+   "FIELD1": "1705 E 33RD ST"
+ },
+ {
+   "FIELD1": "1717 E 33RD ST"
+ },
+ {
+   "FIELD1": "915 W 33RD ST"
+ },
+ {
+   "FIELD1": "610 E 34TH ST"
+ },
+ {
+   "FIELD1": "616 W 34TH ST"
+ },
+ {
+   "FIELD1": "636 E 35TH ST"
+ },
+ {
+   "FIELD1": "730 E 35TH ST"
+ },
+ {
+   "FIELD1": "822 E 35TH ST"
+ },
+ {
+   "FIELD1": "1202 E 35TH ST"
+ },
+ {
+   "FIELD1": "1306 E 35TH ST"
+ },
+ {
+   "FIELD1": "1509 E 35TH ST"
+ },
+ {
+   "FIELD1": "1519 E 35TH ST"
+ },
+ {
+   "FIELD1": "1533 E 35TH ST"
+ },
+ {
+   "FIELD1": "1711 E 35TH ST"
+ },
+ {
+   "FIELD1": "1719 E 35TH ST"
+ },
+ {
+   "FIELD1": "1729 E 35TH ST"
+ },
+ {
+   "FIELD1": "832 W 35TH ST"
+ },
+ {
+   "FIELD1": "624 E 36TH ST"
+ },
+ {
+   "FIELD1": "629 E 36TH ST"
+ },
+ {
+   "FIELD1": "632 E 36TH ST"
+ },
+ {
+   "FIELD1": "714 E 36TH ST"
+ },
+ {
+   "FIELD1": "720 E 36TH ST"
+ },
+ {
+   "FIELD1": "724 E 36TH ST"
+ },
+ {
+   "FIELD1": "709 W 36TH ST"
+ },
+ {
+   "FIELD1": "603 E 37TH ST"
+ },
+ {
+   "FIELD1": "749 E 37TH ST"
+ },
+ {
+   "FIELD1": "705 W 37TH ST"
+ },
+ {
+   "FIELD1": "906 W 37TH ST"
+ },
+ {
+   "FIELD1": "1241 W 37TH ST"
+ },
+ {
+   "FIELD1": "1328 W 37TH ST"
+ },
+ {
+   "FIELD1": "543 E 38TH ST"
+ },
+ {
+   "FIELD1": "569 E 38TH ST"
+ },
+ {
+   "FIELD1": "606 E 41ST ST"
+ },
+ {
+   "FIELD1": "711 E 41ST ST"
+ },
+ {
+   "FIELD1": "805 E 41ST ST"
+ },
+ {
+   "FIELD1": "934 E 41ST ST"
+ },
+ {
+   "FIELD1": "1323 W 42ND ST"
+ },
+ {
+   "FIELD1": "702 E 43RD ST"
+ },
+ {
+   "FIELD1": "717 E 43RD ST"
+ },
+ {
+   "FIELD1": "718 E 43RD ST"
+ },
+ {
+   "FIELD1": "1000 W 43RD ST"
+ }
+]
